@@ -38,3 +38,13 @@ fairseq-generate data-bin/iwslt14.tokenized.de-en \
 # calculate BLEU score
 bash scripts/compound_split_bleu.sh res.out
 ```
+## Citation
+```
+@inproceedings{miao2022towards,
+  title={Towards Robust Neural Machine Translation with Iterative Scheduled Data-Switch Training},
+  author={Miao, Zhongjian and Li, Xiang and Kang, Liyan and Zhang, Wen and Zhou, Chulun and Chen, Yidong and Wang, Bin and Zhang, Min and Su, Jinsong},
+  booktitle={Proceedings of the 29th International Conference on Computational Linguistics},
+  pages={5266--5277},
+  year={2022}
+}
+```
