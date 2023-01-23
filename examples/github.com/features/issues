@@ -1,0 +1,2136 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en"  data-a11y-animated-images="system">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+  <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
+  <link rel="preconnect" href="https://avatars.githubusercontent.com">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-UXiu4O52iBFkqt6Kx5t+pqHYP2/LWWIw9+l5ia74TWw+xPzpH44BFfAQp7yzCe0XFGZa72Xiqyml6tox1KkUjw==" rel="stylesheet" href="https://github.githubassets.com/assets/light-5178aee0ee76.css" /><link crossorigin="anonymous" media="all" integrity="sha512-IX1PnI5wWBz8Kgb1JI0f2QFa/WuRQQHJHe0vkKinQzsxRlNb4b8NgODX5htSZVAAkA1O6Vch+RRlDTI8j96slA==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-217d4f9c8e70.css" /><link data-color-theme="light" crossorigin="anonymous" media="all" integrity="sha512-UXiu4O52iBFkqt6Kx5t+pqHYP2/LWWIw9+l5ia74TWw+xPzpH44BFfAQp7yzCe0XFGZa72Xiqyml6tox1KkUjw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light-5178aee0ee76.css" /><link data-color-theme="dark" crossorigin="anonymous" media="all" integrity="sha512-IX1PnI5wWBz8Kgb1JI0f2QFa/WuRQQHJHe0vkKinQzsxRlNb4b8NgODX5htSZVAAkA1O6Vch+RRlDTI8j96slA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark-217d4f9c8e70.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-Ct+ijw5ofrvpiRNwv+EhmU4CBCIgm7ApMfRCT8IQK4luRFZf8tLg0CC0VLyTPVLgMbQ9+74znLAZwi1RSzjpiA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-0adfa28f0e68.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-HIV1s2ZEVz1WLyBRua8znQozNKaQ0LM5AHRX9sMlitm5TNY3QMJzKsRD5FPCF9oluzIXNO9JxRK4bBjxGhcctA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-1c8575b36644.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-URPSviCw4m4n71IKn4qyu7MEDpGbCiTfsMTNrUjPwcg38KtEKDt12vzjlNzoy3YDFiQ8D0TCCYKCtrZpqX097g==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-5113d2be20b0.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-yWrddCSE7sqLZ4iqcSOoAsVnCbxs4IgN+oDKgxarp3O6V9dQ8XKyE+ffedHQa55VkB1tY0iNI3QqACG8p1k8IA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-c96add742484.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-KQ+S9ehnvP9vzfiaBA1FbrSWS1RuJBo/ez+bKUm+XKGEMR22w7Oyc712UyVcpYIqpTCTvaaJ3MfeU0x4xPeI+A==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-290f92f5e867.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-zdiPFGv3QFuv1X24wK9Sa7DM3W/It82kehdMBrepjoJJyJyBISVFUJLvMMkvr4uu8j11Rn35dXZiVrN1FNWzGA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-cdd88f146bf7.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-IXHqDweLGMT47BTl4v+0woPqFAAtkFBeVqg9U/AliukeUyVREIssCu32RfWmXNdMjwmdVBcS+q9SMQMYuYF5dQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-2171ea0f078b.css" />
+  
+    <link crossorigin="anonymous" media="all" integrity="sha512-HAKyct63ixiRBJOFvv6TS1STV+XArD2zaQcMn9U7bKK4/rwxyzHlOWW15eei3144n4kNWAJneZlHOGJuPpxVHg==" rel="stylesheet" href="https://github.githubassets.com/assets/primer-1c02b272deb7.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-eBxxk+er0Vaq05LzSBTDNMbanUS97oOz/SVRXoyV5zKi3o24e2rWJgSCeqrZXTkosoXDyR4giX3Oy+mAOX7ydQ==" rel="stylesheet" href="https://github.githubassets.com/assets/global-781c7193e7ab.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-Nl5dLPJpQAnK7cCIINadeUZS76WLJNJEiVjGCvMRBf2PjQ9d7nrwSXGtKN5oTOrjwAQqcO81+oc2b47dcErdTQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-365e5d2cf269.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-E8uOf3ObzgUHTwfkZOT04C/dbGPYF4fWSXFt7f2eTuOs6NsHnDWDyiUr5mg1VjaHxAsqaKWAIGyKB83UwUuVQQ==" rel="stylesheet" href="https://github.githubassets.com/assets/site-13cb8e7f739b.css" />
+
+
+
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Qf6H3d/WKfqyt9SDqkxLjo0WjoENufhrRxXacl4lTLN1xpCxJY06TGeEPgqe1hthjozeNJsDAyO8WGNTEUsCqw==" src="https://github.githubassets.com/assets/runtime-41fe87dddfd6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ivm676uepRn1vQvL/mShZVrbNfsUUZRp0a2RCZNYrFJYFlYhdDU2P+UC8axgVT17oqv1BVQLngSsGoiBN2MJpw==" src="https://github.githubassets.com/assets/vendors-node_modules_manuelpuyol_turbo_dist_turbo_es2017-esm_js-8af9baefab9e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-wdY9IwspBfH+ypwfAHhmLM1NHmc47fnC3OBSM2oCVMP6TITrDyusuknqLqtAY8SEcRhRdGYxEVwyCu/gqqIpTQ==" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-d351f6-c1d63d230b29.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-U5AnTEJQ2sm/SJp7Xb3d9ttzr1VDfRXR60L4iAZuEOXKqHrFLLO94N/R6/R9sGEt625slTJA5mtyHNhGYBN1XA==" src="https://github.githubassets.com/assets/environment-5390274c4250.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ZQM3kW293O7WR1cDuHZ02wendjejLzwVD0wy4L1eCNr34RHXiY05wmHUx4hnV9WELD/OEZRGrzK+M8uwiZ/WEw==" src="https://github.githubassets.com/assets/vendors-node_modules_selector-observer_dist_index_esm_js-650337916dbd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Si8390GeCVPslYj8WomaMCyj33Jutd8vZ+Sdi6WXLSbdZRyC4wwijhTNyLy0zpHhfYnrynP6qArdz1PXti1sOg==" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_details-dialog-elemen-63debe-4a2f37f7419e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-LUl+qivNxqamoMiZCJeeGkz+Cs5rfTOGTi7OZeSNYd0KNkr4uqZCiEfDHL2eoVWd0p+sm3UB3CoT/ngeHH9DcA==" src="https://github.githubassets.com/assets/vendors-node_modules_fzy_js_index_js-node_modules_github_combobox-nav_dist_index_js-node_modu-344bff-2d497eaa2bcd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-dtG985gksn9OuQNxtqqBpmWLH78Eh+YwATyKAxgIeZTOq6OkdJOqYnRQWmn062dW7HWcnbZIUGwihQ88CWFKjQ==" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-5333cf-76d1bdf39824.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-OMNqWXGEHws0bOVmDm9Nau8e8ZrjKUF77hq8heNd45JYuDu+gm4tZhYB/bUbysfBQ/6y31S1R0VIpjOHiCotUA==" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_time-elements_dist_index_js-38c36a597184.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-v1sav4iQ94uVwtEQBUjGttBrLVVCIfm+JJ45WWW//Jed0qdArhaUVg3YZcYqSRsgRWrkXBFDRAI6pM2Vi76f7g==" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-b3d32f-bf5b1abf8890.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-kRWSdBp/S1Wd12IPh0815Cfw0r4b4Wa1/KSPboka1wM4rBbpXa7DOMPC86lIZVyOsBWrDLp/k2QVRW2X21VBQA==" src="https://github.githubassets.com/assets/github-elements-911592741a7f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-bbROUYcrfmSfOq4H2mvkYxwbCwHodRs1E8QKQklBvSi+e9GfS8HqZGZeJ2j6NUvsAze3gGRmxZcBxi8rmQfexA==" src="https://github.githubassets.com/assets/element-registry-6db44e51872b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-6VTowByTC7C1Ae4nuESJ5iT76vchmVCzjuit7IR83B/TPkwjSserSlr83SYhLvIfNLvJfB2zH0bHBr8+fzIa+w==" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-e954e8c01c93.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-3YkTrGWwrb2whIVWEwKEhghL4yI2UAHnLW/QtnYMQFLkfQUYD3gtJ2WqDJg8wzzSm0rP05KFDOsKKx4a1wQRdA==" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_hotkey_dist_index-9f48bd-dd8913ac65b0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-YlZzfDs0sJwb4LDPoYGzppaasG/yvY8DolVk64u7Kjpyz/NpKS3E7toBkHcDxNSB8x7mlDDjC2nHuWiltsMGvQ==" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_github_catalyst_lib_index_-bd1f73-6256737c3b34.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-V4+K12am3OXCOQYegHoAFHR3Y4Zy9u97+gR5aLOTVia3tTeNPe39FlKnvnwjndeuEOWfkzXKB2iL2UwOKOZM+g==" src="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_koddsson_textarea-c-586f78-578f8ad766a6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-aAzQ7LXrHAgOw4OrHRsvCUubFRM6jygc4Ba/Z+OXZlJmXRuYY24BkINAluXpELBA3mFV+HDPCYVtTjkKzg/tgQ==" src="https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-332ba8-680cd0ecb5eb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Ky/nOHVJrk8pKX1LQs7RNC84/0TZTaG2RZgu0NYiiQCF/ZwIDHvLVwE3Cpte1lMwtmxe9EIP9ukdvfPhXOBm/A==" src="https://github.githubassets.com/assets/app_assets_modules_github_soft-nav_navigate_ts-2b2fe7387549.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-KD3D2b33I5qaAa+WTVFFwYVEJ8IU3yIPmJzm7DJz/4EXR77iHpG/FmALojXov3metaa41+XcrQKAf1e5iBmFWw==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_keyboard-shortcuts-helper_ts-app_assets_modules_github_di-9b8a64-283dc3d9bdf7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-sFfyQjq1ObFkfG0l+z9HzzoSicV7DnX6adtbhmwkcwapEIZkJef1OWQl3cYK14uRj/DZcMBTf9630E9xIyxDeA==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_has-interactions_t-0091d6-b057f2423ab5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-2/yZbbsa0eoF4BF8AKcHb9138TwEo5Rut7Y4qccJG6jw743B22M0oxT//bBs1CM9bTUqN3OAMf4k2mFl4+oYEQ==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_details_ts-app_assets_modules_github_behaviors_include-fr-29e9d6-dbfc996dbb1a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-23lZtf/52z40ONnc8LqhXQ+V9egvurRHmvCUvgTJffdld26nI1WnOdt/T/cS10mOmyOYXMCh8EC+UgMrnENNXg==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-db7959b5fff9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-IMCei848LlpvGW22ByCgsaHBR06wJDRKx4BfVff0fOY7bjj/cg3ZyAxzC6X4LpPpi5QjtoAKlxtLp6RWXa4ZIQ==" src="https://github.githubassets.com/assets/behaviors-20c09e8bce3c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-sBMWdU4gNYQCipbJqsK4SMltTx7u8+15gnwz2Ag8mncGk+kYYyNHGr5eESzm5qp3aYfrYNaglenhEM4lIktOhw==" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff533-b01316754e20.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-R7o1000dzeCE1mcYw+5zqKJlpzHvN84vPKJNcySE14vOICRT/0mpRTeZ1guSksLNZFDrQE58mpt4/wJSn03Gtw==" src="https://github.githubassets.com/assets/notifications-global-47ba35d34d1d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-nDImJ3fmVf9CUtXxwg4JLME8NdbuZYjy0HpQl4krXMo6QZGkSLZYHpo0hKeS3jpTbYeUNHHyQkSYeRuDUhLQkA==" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-9c32262777e6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ktOi65NNIQl1ROKZa1vlMB0fXHF4Yk5YEYwlga8kDX9Pgb4ee0U+5nrMMkHpNWgNIbecgfY3YkW3Mg7L6mYHJA==" src="https://github.githubassets.com/assets/marketing-92d3a2eb934d.js"></script>
+  
+
+  <title>GitHub Issues · Project planning for developers · GitHub</title>
+
+
+
+    
+
+  <meta name="request-id" content="0AE1:6B23:2B19B7:2CB902:63043936" data-pjax-transient="true"/><meta name="html-safe-nonce" content="8886fd9f96962ff57eb7acfa2053130b3695b3db8cb45716774f7f2a58c211b0" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mYWNlYm9va3Jlc2VhcmNoL2ZhaXJzZXEvdHJlZS9ubGxiL2V4YW1wbGVzL25sbGIiLCJyZXF1ZXN0X2lkIjoiMEFFMTo2QjIzOjJCMTlCNzoyQ0I5MDI6NjMwNDM5MzYiLCJ2aXNpdG9yX2lkIjoiMzY1ODQ5MDcyMTA2Mjg5Mzg3MiIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6InNlYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="d6e481136cd2f21bf92e373b424e0fe0ef342f8166f47578e10898b29650d7e6" data-pjax-transient="true"/>
+
+
+
+  <meta name="github-keyboard-shortcuts" content="issues" data-pjax-transient="true" />
+  
+
+  <meta name="selected-link" value="/features/issues" data-pjax-transient>
+
+    <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
+  <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+<meta name="octolytics-url" content="https://collector.github.com/github/collect" />
+
+  
+
+  
+
+
+
+
+  
+
+    <meta name="user-login" content="">
+
+  
+
+    <meta name="viewport" content="width=device-width">
+    
+      <meta name="description" content="Give your developers flexible features for project management that adapts to any team, project, and workflow—all alongside your code.">
+      <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <meta property="fb:app_id" content="1401488693436528">
+    <meta name="apple-itunes-app" content="app-id=1477376905" />
+      <meta name="twitter:image:src" content="https://github.githubassets.com/images/modules/site/social-cards/issues-social.jpg" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="GitHub Issues · Project planning for developers" /><meta name="twitter:description" content="Give your developers flexible features for project management that adapts to any team, project, and workflow—all alongside your code." />
+      <meta property="og:image" content="https://github.githubassets.com/images/modules/site/social-cards/issues-social.jpg" /><meta property="og:image:alt" content="Give your developers flexible features for project management that adapts to any team, project, and workflow—all alongside your code." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="GitHub Issues · Project planning for developers" /><meta property="og:url" content="https://github.com/features/issues" /><meta property="og:description" content="Give your developers flexible features for project management that adapts to any team, project, and workflow—all alongside your code." />
+      
+    <link rel="assets" href="https://github.githubassets.com/">
+
+
+        <meta name="hostname" content="github.com">
+
+
+
+        <meta name="expected-hostname" content="github.com">
+
+    <meta name="enabled-features" content="IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS">
+
+
+  <meta http-equiv="x-pjax-version" content="51c013280022b8cf305268866ca2d964d915204b2379298de088b62eafec0767" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-csp-version" content="65593622839bdc4746d847ef2b91aa50abf1194019c4146751c0c0f980685174" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="2090941f4439871f4f43e722475ee96d493d4d64db92d09119d37ac7e7096c99" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="095abf7f9e18671148dbc6f05a44ab25316e98a756627facf9805ae20343bc76" data-turbo-track="reload">
+
+  <meta name="turbo-cache-control" content="no-preview" data-pjax-transient="">
+
+      <link crossorigin="anonymous" media="all" integrity="sha512-DoXBHXQS1g3DQkuxBgAkaSGa7Ug9QMJVVr7qZR5R6iMdD+dJFU08HMaH1KtfyNo3OK+27Xy6RIpxwCKxJY01pg==" rel="stylesheet" href="https://github.githubassets.com/assets/feature-issues-0e85c11d7412.css" />
+  <link rel="preload" href="https://github.githubassets.com/static/fonts/github/alliance-1.woff2" as="font" type="font/woff2" crossorigin>
+
+
+
+  <meta name="turbo-body-classes" content="logged-out env-production page-responsive header-white header-white-transparent">
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production page-responsive header-white header-white-transparent" style="word-wrap: break-word;">
+    
+
+    <div class="position-relative js-header-wrapper ">
+      <a href="#start-of-content" class="px-2 py-4 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
+      <span data-view-component="true" class="progress-pjax-loader js-pjax-loader-bar Progress position-fixed width-full">
+    <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
+</span>      
+      
+
+
+        
+
+            <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-QXIxqYUlWaXrcdN4cHQlC5KXn2kLBmHHRGsR9I8V663O/bmVvt+hQVH2G6R2rttQ9EshUvuGIDdGQkVH4OA/8w==" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-417231a98525.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-MZCSrz0zsvcOl7aWH/U2sbVkQxfQHqMzLn7XCqqpA5yRhkPoC2u8aQ9pOuNezZVhEOIGms8DNg7V1+iwijR3lA==" src="https://github.githubassets.com/assets/sessions-319092af3d33.js"></script>
+<header class="Header-old header-logged-out js-details-container Details position-relative f4 py-2" role="banner">
+  <div class="container-xl d-lg-flex flex-items-center p-responsive">
+    <div class="d-flex flex-justify-between flex-items-center">
+      <a class="mr-4 color-fg-inherit" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+        <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github">
+    <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+</svg>
+      </a>
+
+        <div class="d-lg-none css-truncate css-truncate-target width-fit p-2">
+          
+
+        </div>
+
+      <div class="d-flex flex-items-center">
+            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Ffeatures%2Fissues&amp;source=header"
+              class="d-inline-block d-lg-none f5 no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5 color-fg-inherit"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/features/issues&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="eac2864ab5bddf7cdd4986dfa9a49a07b06d0293d8bca5a724f3b6d8619df62e"
+            >
+              Sign&nbsp;up
+            </a>
+
+          <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="js-details-target btn-link d-lg-none mt-1 color-fg-inherit">    <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true" class="octicon octicon-three-bars">
+    <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+</svg>
+</button>      </div>
+    </div>
+
+    <div class="HeaderMenu HeaderMenu--logged-out position-fixed top-0 right-0 bottom-0 height-fit position-lg-relative d-lg-flex flex-justify-between flex-items-center flex-auto">
+      <div class="d-flex d-lg-none flex-justify-end border-bottom color-bg-subtle p-3">
+          <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="js-details-target btn-link">    <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-x color-fg-muted">
+    <path fill-rule="evenodd" d="M5.72 5.72a.75.75 0 011.06 0L12 10.94l5.22-5.22a.75.75 0 111.06 1.06L13.06 12l5.22 5.22a.75.75 0 11-1.06 1.06L12 13.06l-5.22 5.22a.75.75 0 01-1.06-1.06L10.94 12 5.72 6.78a.75.75 0 010-1.06z"></path>
+</svg>
+</button>      </div>
+
+        <nav class="mt-0 px-3 px-lg-0 mb-5 mb-lg-0" aria-label="Global">
+          <ul class="d-lg-flex list-style-none">
+              <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <details class="HeaderMenu-details details-overlay details-reset width-full">
+      <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+        Product
+        <svg x="0" y="0" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative"><path d="M1,1l6.2,6L13,1"></path></svg>
+      </summary>
+      <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+        <ul class="list-style-none f5 pb-1">
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Features;&quot;}" href="/features">
+      Features
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Mobile;&quot;}" href="/mobile">
+      Mobile
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Actions;&quot;}" href="/features/actions">
+      Actions
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+      Codespaces
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Copilot;&quot;}" href="/features/copilot">
+      Copilot
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Packages;&quot;}" href="/features/packages">
+      Packages
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Security;&quot;}" href="/features/security">
+      Security
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Code review;&quot;}" href="/features/code-review">
+      Code review
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Issues;&quot;}" href="/features/issues">
+      Issues
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Discussions;&quot;}" href="/features/discussions">
+      Discussions
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Integrations;&quot;}" href="/features/integrations">
+      Integrations
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+      GitHub Sponsors
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Customer stories;&quot;}" href="/customer-stories">
+      Customer stories
+</a>  </li>
+
+        </ul>
+      </div>
+    </details>
+</li>
+
+
+              <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Team;&quot;}" href="/team">Team</a>
+</li>
+
+              <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
+</li>
+
+
+            <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <details class="HeaderMenu-details details-overlay details-reset width-full">
+      <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+        Explore
+        <svg x="0" y="0" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative"><path d="M1,1l6.2,6L13,1"></path></svg>
+      </summary>
+      <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+        <ul class="list-style-none f5 pb-1">
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Explore GitHub;&quot;}" href="/explore">
+      Explore GitHub
+</a>  </li>
+
+              <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Learn and contribute</li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Topics;&quot;}" href="/topics">
+      Topics
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Collections;&quot;}" href="/collections">
+      Collections
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Trending;&quot;}" href="/trending">
+      Trending
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Skills&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Skills;&quot;}" href="https://skills.github.com/">
+      Skills
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors/explore">
+      GitHub Sponsors
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
+      Open source guides
+</a>  </li>
+
+              <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Connect with others</li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:The ReadME Project;&quot;}" href="/readme">
+      The ReadME Project
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Events;&quot;}" href="/events">
+      Events
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Community forum;&quot;}" href="https://github.community">
+      Community forum
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
+      GitHub Education
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
+      GitHub Stars program
+</a>  </li>
+
+        </ul>
+      </div>
+    </details>
+</li>
+
+
+            <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
+</li>
+
+
+            <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <details class="HeaderMenu-details details-overlay details-reset width-full">
+      <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+        Pricing
+        <svg x="0" y="0" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative"><path d="M1,1l6.2,6L13,1"></path></svg>
+      </summary>
+      <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+        <ul class="list-style-none f5 pb-1">
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Plans;&quot;}" href="/pricing">
+      Plans
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
+      Compare plans
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
+      Contact Sales
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Education;&quot;}" href="https://education.github.com">
+      Education
+</a>  </li>
+
+        </ul>
+      </div>
+    </details>
+</li>
+
+          </ul>
+        </nav>
+
+      <div class="d-lg-flex flex-items-center px-3 px-lg-0 text-center text-lg-left">
+          <div class="d-lg-flex min-width-0 mb-3 mb-lg-0">
+            
+
+
+
+<div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 js-jump-to"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-unscoped-search-url="/search" data-turbo="false" action="/search" accept-charset="UTF-8" method="get">
+      <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+        <input type="text"
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus "
+          data-hotkey=s,/
+          name="q"
+          data-test-selector="nav-search-input"
+          placeholder="Search GitHub"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          role="combobox"
+          aria-haspopup="listbox"
+          aria-expanded="false"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search GitHub"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
+          spellcheck="false"
+          autocomplete="off"
+        >
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Yf43wXJe1UxbtZVsK6BaCWTw7JN1Y8Dzcx+AxKDXVY0/W/NYhlAq/wpr+mXSM6J0/tHIa02HZhFDgOUce+44Yg==" />
+        <input type="hidden" class="js-site-search-type-field" name="type" >
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
+
+
+          <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+            
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="suggestion">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in all of GitHub">
+        Search
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="color-fg-muted">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="scoped_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in all of GitHub">
+        Search
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-owner-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="owner_scoped_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in all of GitHub">
+        Search
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="global_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in all of GitHub">
+        Search
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+</ul>
+
+          </div>
+      </label>
+</form>  </div>
+</div>
+
+          </div>
+
+        <div class="position-relative mr-3 mb-4 mb-lg-0 d-inline-block">
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Ffeatures%2Fissues"
+            class="HeaderMenu-link flex-shrink-0 no-underline"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/features/issues&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="391319d34edc4369db2fb09647808cbc48d9d30dc47c2f6758ce52ee0e0d884c"
+            data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
+            Sign in
+          </a>
+        </div>
+
+          <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Ffeatures%2Fissues&amp;source=header"
+            class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-default rounded px-2 py-1"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/features/issues&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="391319d34edc4369db2fb09647808cbc48d9d30dc47c2f6758ce52ee0e0d884c"
+            data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+          >
+            Sign up
+          </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+    </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+
+
+    <div data-pjax-replace id="js-flash-container" data-turbo-replace>
+
+
+
+  <template class="js-flash-template">
+    
+<div class="flash flash-full   {{ className }}">
+  <div class="px-2" >
+    <button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+    </button>
+    
+      <div>{{ message }}</div>
+
+  </div>
+</div>
+  </template>
+</div>
+
+
+    
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+
+
+
+
+  <div
+    class="application-main "
+    data-commit-hovercards-enabled
+    data-discussion-hovercards-enabled
+    data-issue-and-pr-hovercards-enabled
+  >
+        <main class="font-mktg">
+
+<div class="overflow-hidden pt-9 position-relative top-n8 events-none js-build-in">
+	<div class="mx-auto mt-3 mt-md-5 text-center position-relative pb-7">
+		<div class="position-relative issues-hero-illo-container events-none z-3" data-hpc>
+			<div class="position-relative issues-hero-illo mx-auto">
+				<img src="https://github.githubassets.com/images/modules/site/issues/hero/circle.png" width="975" height="975" class="d-block width-full height-auto" alt="">
+				<img src="https://github.githubassets.com/images/modules/site/issues/hero/circle-arrows.png" width="975" height="975" class="width-full top-0 bottom-0 left-0 right-0 height-full issues-illo-item" alt="">
+
+				<div class="issues-illo-item" style="top: -3%; right: 40%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-14.jpg" width="61" height="61" class="issues-illo-item-scale issues-illo-item-scale-g6-1 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: -4%; right: 48.5%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/pr-open.png" width="61" height="25" class="issues-illo-item-scale issues-illo-item-scale-g6-2" alt=""></div>
+				<div class="issues-illo-item" style="top: 1.5%; right: 47.5%;"><span class="issues-illo-item-scale issues-illo-item-scale-g6-3 issues-pill issues-pill-red">Must-have</span></div>
+				<div class="issues-illo-item" style="top: 0%; right: 59%;"><span class="issues-illo-item-scale issues-illo-item-scale-g6-4 issues-pill issues-pill-yellow">In Progress</span></div>
+				<div class="issues-illo-item" style="top: -0.8%; right: 55.5%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-15.png" width="20" height="20" class="issues-illo-item-scale issues-illo-item-scale-g6-5" alt=""></div>
+				<div class="issues-illo-item" style="top: -6%; right: 57%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-16.png" width="46" height="46" class="issues-illo-item-scale issues-illo-item-scale-g6-6" alt=""></div>
+				<div class="issues-illo-item" style="top: -5%; right: 64%;"><div class="issues-illo-item-scale issues-illo-item-scale-g6-7 color-fg-muted"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request-draft">
+    <path fill-rule="evenodd" d="M2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5zm9.5 3a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5zm0-3a.75.75 0 100 1.5.75.75 0 000-1.5z"></path><path d="M14 7.5a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0zm0-4.25a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: -8%; right: 52%;"><div class="issues-illo-item-scale issues-illo-item-scale-g6-8 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
+    <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: -6.8%; right: 46%;"><div class="issues-illo-item-scale issues-illo-item-scale-g6-9 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+
+				<div class="issues-illo-item" style="top: 23%; right: -1%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-18.jpg" width="78" height="78" class="issues-illo-item-scale issues-illo-item-scale-g7-3 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 26%; right: -5%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/emoji-heart.png" width="19" height="19" class="issues-illo-item-scale issues-illo-item-scale-g7-2" alt=""></div>
+				<div class="issues-illo-item" style="top: 18%; right: 7%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-17.png" width="40" height="40" class="issues-illo-item-scale issues-illo-item-scale-g7-1" alt=""></div>
+				<div class="issues-illo-item" style="top: 34%; right: -3%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-19.jpg" width="50" height="50" class="issues-illo-item-scale issues-illo-item-scale-g7-4 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 23%; right: 5%;"><span class="issues-illo-item-scale issues-illo-item-scale-g7-8 issues-pill issues-pill-orange z-1">Priority</span></div>
+				<div class="issues-illo-item" style="top: 32%; right: -6.5%;"><span class="issues-illo-item-scale issues-illo-item-scale-g7-5 issues-pill issues-pill-pink z-1">Bug</span></div>
+				<div class="issues-illo-item" style="top: 17%; right: 14%;"><div class="issues-illo-item-scale issues-illo-item-scale-g7-6 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
+    <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: 19.7%; right: 4.2%;"><div class="issues-illo-item-scale issues-illo-item-scale-g7-7 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-closed">
+    <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"></path><path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: 33%; right: 4%;"><div class="issues-illo-item-scale issues-illo-item-scale-g7-9 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+
+				<div class="issues-illo-item" style="top: 70%; right: 5.5%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-20.png" width="46" height="46" class="issues-illo-item-scale issues-illo-item-scale-g8-1" alt=""></div>
+				<div class="issues-illo-item" style="top: 78%; right: 1%;"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/pr-open.png" width="61" height="25" class="issues-illo-item-scale issues-illo-item-scale-g8-2" alt=""></div>
+				<div class="issues-illo-item" style="top: 77%; right: 10%;"><span class="issues-illo-item-scale issues-illo-item-scale-g8-3 issues-pill issues-pill-pink z-1">Planning</span></div>
+				<div class="issues-illo-item" style="top: 81%; right: 14%;"><div class="issues-illo-item-scale issues-illo-item-scale-g8-4 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: 83%; right: 7%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-22.jpg" width="34" height="34" class="issues-illo-item-scale issues-illo-item-scale-g8-5 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 80%; right: 9%"> <img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-21.png" width="29" height="29" class="issues-illo-item-scale issues-illo-item-scale-g8-6" alt=""></div>
+				<div class="issues-illo-item" style="top: 82%; right: 4%;"><div class="issues-illo-item-scale issues-illo-item-scale-g8-7 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: 82.5%; right: 16.5%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/icon-external.png" width="29" height="29" class="issues-illo-item-scale issues-illo-item-scale-g8-8" alt=""></div>
+				<div class="issues-illo-item" style="top: 86%; right: 12%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/emoji-tada.png" width="16" height="16" class="issues-illo-item-scale issues-illo-item-scale-g8-9 z-1" alt=""></div>
+				<div class="issues-illo-item" style="top: 87%; right: 17%;"><div class="issues-illo-item-scale issues-illo-item-scale-g8-10 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+
+				<div class="issues-illo-item" style="top: 69.5%; left: 2.5%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-23.jpg" width="100" height="100" class="issues-illo-item-scale issues-illo-item-scale-g9-1 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 77.5%; left: 13%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-24.jpg" width="40" height="40" class="issues-illo-item-scale issues-illo-item-scale-g9-2 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 82%; left: 6%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/pr-merged.png" width="73" height="25" class="issues-illo-item-scale issues-illo-item-scale-g9-3" alt=""></div>
+				<div class="issues-illo-item" style="top: 85%; left: 12%;"><div class="position-absolute issues-illo-item-scale issues-illo-item-scale-g9-4 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: 63%; left: 1%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-25.jpg" width="26" height="26" class="issues-illo-item-scale issues-illo-item-scale-g9-5 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 69%; left: -1%;"><span class="issues-pill issues-pill-pink z-1 issues-illo-item-scale issues-illo-item-scale-g9-6">Bug</span></div>
+				<div class="issues-illo-item" style="top: 66.5%; left: 2%;"><span class="issues-illo-item-scale issues-illo-item-scale-g9-7 issues-pill issues-pill-purple z-1">Needs review</span></div>
+				<div class="issues-illo-item" style="top: 60%; left: -3%;"><div class="issues-illo-item-scale issues-illo-item-scale-g9-8 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-closed">
+    <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"></path><path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"></path>
+</svg></div></div>
+
+				<div class="issues-illo-item" style="top: 15%; left: 7%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-26.jpg" width="72" height="72" class="issues-illo-item-scale issues-illo-item-scale-g10-1 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 24%; left: 9%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-stack-2.png" width="64" height="33" class="issues-illo-item-scale issues-illo-item-scale-g10-9" alt=""></div>
+				<div class="issues-illo-item" style="top: 28%; left: 0%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/pr-ready.png" width="65" height="25" class="issues-illo-item-scale issues-illo-item-scale-g10-2" alt=""></div>
+				<div class="issues-illo-item" style="top: 25%; left: 0.5%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/emoji-thumbs.png" width="16" height="16" class="issues-illo-item-scale issues-illo-item-scale-g10-3" alt=""></div>
+				<div class="issues-illo-item" style="top: 26.5%; left: -1%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/emoji-thumbs.png" width="12" height="12" class="issues-illo-item-scale issues-illo-item-scale-g10-4" alt=""></div>
+				<div class="issues-illo-item" style="top: 29%; left: 7.5%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/emoji-thumbs.png" width="9" height="9" class="issues-illo-item-scale issues-illo-item-scale-g10-5" alt=""></div>
+				<div class="issues-illo-item" style="top: 31.5%; left: 3%;"><span class="issues-illo-item-scale issues-illo-item-scale-g10-6 issues-pill issues-pill-green z-1">Complete</span></div>
+				<div class="issues-illo-item" style="top: 32.5%; left: -1%"><img decoding="async" src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-27.jpg" width="26" height="26" class="issues-illo-item-scale issues-illo-item-scale-g10-7 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 21.5%; left: 5%;"><div class="issues-illo-item-scale issues-illo-item-scale-g10-8 color-fg-muted"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-draft">
+    <path fill-rule="evenodd" d="M6.749.097a8.054 8.054 0 012.502 0 .75.75 0 11-.233 1.482 6.554 6.554 0 00-2.036 0A.75.75 0 016.749.097zM4.345 1.693A.75.75 0 014.18 2.74a6.542 6.542 0 00-1.44 1.44.75.75 0 01-1.212-.883 8.042 8.042 0 011.769-1.77.75.75 0 011.048.166zm7.31 0a.75.75 0 011.048-.165 8.04 8.04 0 011.77 1.769.75.75 0 11-1.214.883 6.542 6.542 0 00-1.439-1.44.75.75 0 01-.165-1.047zM.955 6.125a.75.75 0 01.624.857 6.554 6.554 0 000 2.036.75.75 0 01-1.482.233 8.054 8.054 0 010-2.502.75.75 0 01.858-.624zm14.09 0a.75.75 0 01.858.624 8.057 8.057 0 010 2.502.75.75 0 01-1.482-.233 6.55 6.55 0 000-2.036.75.75 0 01.624-.857zm-13.352 5.53a.75.75 0 011.048.165 6.542 6.542 0 001.439 1.44.75.75 0 01-.883 1.212 8.04 8.04 0 01-1.77-1.769.75.75 0 01.166-1.048zm12.614 0a.75.75 0 01.165 1.048 8.038 8.038 0 01-1.769 1.77.75.75 0 11-.883-1.214 6.543 6.543 0 001.44-1.439.75.75 0 011.047-.165zm-8.182 3.39a.75.75 0 01.857-.624 6.55 6.55 0 002.036 0 .75.75 0 01.233 1.482 8.057 8.057 0 01-2.502 0 .75.75 0 01-.624-.858z"></path>
+</svg></div></div>
+
+				<div class="issues-illo-item" style="top: -3%; right: 40%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-13.jpg" width="61" height="61" class="issues-illo-item-scale issues-illo-item-scale-g1-1 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: -4%; right: 48.5%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/pr-open.png" width="61" height="25" class="issues-illo-item-scale issues-illo-item-scale-g1-2" alt=""></div>
+				<div class="issues-illo-item" style="top: 1.5%; right: 47.5%;"><span class="issues-illo-item-scale issues-illo-item-scale-g1-3 issues-pill issues-pill-orange">Back-end</span></div>
+				<div class="issues-illo-item" style="top: 0%; right: 59%;"><span class="issues-illo-item-scale issues-illo-item-scale-g1-4 issues-pill issues-pill-yellow">User story</span></div>
+				<div class="issues-illo-item" style="top: -0.8%; right: 55.5%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-12.png" width="20" height="20" class="issues-illo-item-scale issues-illo-item-scale-g1-5" alt=""></div>
+				<div class="issues-illo-item" style="top: -6%; right: 57%"><img src="https://avatars.githubusercontent.com/pifafu?s=122&amp;v=4" width="46" height="46" class="issues-illo-item-scale issues-illo-item-scale-g1-6 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: -5%; right: 64%;"><div class="issues-illo-item-scale issues-illo-item-scale-g1-7 color-fg-muted"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request-draft">
+    <path fill-rule="evenodd" d="M2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5zm9.5 3a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5zm0-3a.75.75 0 100 1.5.75.75 0 000-1.5z"></path><path d="M14 7.5a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0zm0-4.25a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: -8%; right: 52%;"><div class="issues-illo-item-scale issues-illo-item-scale-g1-8 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
+    <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
+</svg></div></div>
+
+				<div class="issues-illo-item" style="top: 23%; right: -1%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-2.jpg" width="78" height="78" class="issues-illo-item-scale issues-illo-item-scale-g2-3 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 26%; right: -5%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/emoji-heart.png" width="19" height="19" class="issues-illo-item-scale issues-illo-item-scale-g2-2" alt=""></div>
+				<div class="issues-illo-item" style="top: 18%; right: 7%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-22.jpg" width="40" height="40" class="issues-illo-item-scale issues-illo-item-scale-g2-1 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 23%; right: 5%;"><span class="issues-illo-item-scale issues-illo-item-scale-g2-4 issues-pill issues-pill-orange z-1">Ready for review</span></div>
+				<div class="issues-illo-item" style="top: 32%; right: -6.5%;"><span class="issues-illo-item-scale issues-illo-item-scale-g2-5 issues-pill issues-pill-pink z-1">In progress</span></div>
+				<div class="issues-illo-item" style="top: 17%; right: 14%;"><div class="issues-illo-item-scale issues-illo-item-scale-g2-6 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
+    <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: 20%; right: 4.5%;"><div class="issues-illo-item-scale issues-illo-item-scale-g2-7 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: 33%; right: 4%;"><div class="issues-illo-item-scale issues-illo-item-scale-g2-8 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+
+				<div class="issues-illo-item" style="top: 70%; right: 5.5%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-1.jpg" width="46" height="46" class="issues-illo-item-scale issues-illo-item-scale-g3-1 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 76%; right: 1%;"><span class="issues-illo-item-scale issues-illo-item-scale-g3-2 issues-pill issues-pill-orange z-1">Required</span></div>
+				<div class="issues-illo-item" style="top: 77%; right: 10%;"><span class="issues-illo-item-scale issues-illo-item-scale-g3-3 issues-pill issues-pill-pink z-1">To-do</span></div>
+				<div class="issues-illo-item" style="top: 80%; right: 11%;"><div class="issues-illo-item-scale issues-illo-item-scale-g3-4 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: 83%; right: 7%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-6.png" width="34" height="34" class="issues-illo-item-scale issues-illo-item-scale-g3-5" alt=""></div>
+				<div class="issues-illo-item" style="top: 79.5%; right: 4%"> <img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-stack.png" width="41" height="21" class="issues-illo-item-scale issues-illo-item-scale-g3-6" alt=""></div>
+				<div class="issues-illo-item" style="top: 82%; right: 3%;"><div class="issues-illo-item-scale issues-illo-item-scale-g3-7 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: 82.5%; right: 16.5%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-5.png" width="29" height="29" class="issues-illo-item-scale issues-illo-item-scale-g3-7" alt=""></div>
+				<div class="issues-illo-item" style="top: 87.5%; right: 12.5%;"><span class="issues-illo-item-scale issues-illo-item-scale-g3-8 issues-pill issues-pill-blue">Concept art</span></div>
+				<div class="issues-illo-item" style="top: 89%; right: 14%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/emoji-eyes.png" width="16" height="16" class="issues-illo-item-scale issues-illo-item-scale-g3-9 z-1" alt=""></div>
+				<div class="issues-illo-item" style="top: 91%; right: 18%;"><div class="issues-illo-item-scale issues-illo-item-scale-g3-10 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+
+				<div class="issues-illo-item" style="top: 69.5%; left: 2.5%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-4.jpg" width="100" height="100" class="issues-illo-item-scale issues-illo-item-scale-g4-1 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 77.5%; left: 13%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-3.jpg" width="40" height="40" class="issues-illo-item-scale issues-illo-item-scale-g4-2 issues-avatar" alt=""></div>
+				<div class="issues-illo-item" style="top: 82%; left: 6%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/pr-merged.png" width="73" height="25" class="issues-illo-item-scale issues-illo-item-scale-g4-3" alt=""></div>
+				<div class="issues-illo-item" style="top: 85%; left: 12%;"><div class="position-absolute issues-illo-item-scale issues-illo-item-scale-g4-4 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg></div></div>
+				<div class="issues-illo-item" style="top: 63%; left: 1%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-8.png" width="26" height="26" class="issues-illo-item-scale issues-illo-item-scale-g4-5" alt=""></div>
+				<div class="issues-illo-item" style="top: 69%; left: -1%;"><span class="issues-pill issues-pill-pink z-1 issues-illo-item-scale issues-illo-item-scale-g4-6">Bug</span></div>
+				<div class="issues-illo-item" style="top: 66.5%; left: 2%;"><span class="issues-illo-item-scale issues-illo-item-scale-g4-7 issues-pill issues-pill-purple z-1">In QA</span></div>
+				<div class="issues-illo-item" style="top: 60%; left: -3%;"><div class="issues-illo-item-scale issues-illo-item-scale-g4-8 color-fg-success"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-closed">
+    <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"></path><path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"></path>
+</svg></div></div>
+
+				<div class="issues-illo-item" style="top: 17%; left: 8%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-10.png" width="52" height="52" class="issues-illo-item-scale issues-illo-item-scale-g5-1" alt=""></div>
+				<div class="issues-illo-item" style="top: 28%; left: 0%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/pr-ready.png" width="65" height="25" class="issues-illo-item-scale issues-illo-item-scale-g5-2" alt=""></div>
+				<div class="issues-illo-item" style="top: 25%; left: 0.5%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/emoji-thumbs.png" width="16" height="16" class="issues-illo-item-scale issues-illo-item-scale-g5-3" alt=""></div>
+				<div class="issues-illo-item" style="top: 26.5%; left: -1%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/emoji-thumbs.png" width="12" height="12" class="issues-illo-item-scale issues-illo-item-scale-g5-4" alt=""></div>
+				<div class="issues-illo-item" style="top: 29%; left: 7.5%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/emoji-thumbs.png" width="9" height="9" class="issues-illo-item-scale issues-illo-item-scale-g5-5" alt=""></div>
+				<div class="issues-illo-item" style="top: 31.5%; left: 3%;"><span class="issues-illo-item-scale issues-illo-item-scale-g5-6 issues-pill issues-pill-orange z-1">Front-end</span></div>
+				<div class="issues-illo-item" style="top: 32.5%; left: -1%"><img src="https://github.githubassets.com/images/modules/site/issues/hero/avatar-9.png" width="26" height="26" class="issues-illo-item-scale issues-illo-item-scale-g5-7" alt=""></div>
+				<div class="issues-illo-item" style="top: 21.5%; left: 5%;"><div class="issues-illo-item-scale issues-illo-item-scale-g5-8 color-fg-muted"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-draft">
+    <path fill-rule="evenodd" d="M6.749.097a8.054 8.054 0 012.502 0 .75.75 0 11-.233 1.482 6.554 6.554 0 00-2.036 0A.75.75 0 016.749.097zM4.345 1.693A.75.75 0 014.18 2.74a6.542 6.542 0 00-1.44 1.44.75.75 0 01-1.212-.883 8.042 8.042 0 011.769-1.77.75.75 0 011.048.166zm7.31 0a.75.75 0 011.048-.165 8.04 8.04 0 011.77 1.769.75.75 0 11-1.214.883 6.542 6.542 0 00-1.439-1.44.75.75 0 01-.165-1.047zM.955 6.125a.75.75 0 01.624.857 6.554 6.554 0 000 2.036.75.75 0 01-1.482.233 8.054 8.054 0 010-2.502.75.75 0 01.858-.624zm14.09 0a.75.75 0 01.858.624 8.057 8.057 0 010 2.502.75.75 0 01-1.482-.233 6.55 6.55 0 000-2.036.75.75 0 01.624-.857zm-13.352 5.53a.75.75 0 011.048.165 6.542 6.542 0 001.439 1.44.75.75 0 01-.883 1.212 8.04 8.04 0 01-1.77-1.769.75.75 0 01.166-1.048zm12.614 0a.75.75 0 01.165 1.048 8.038 8.038 0 01-1.769 1.77.75.75 0 11-.883-1.214 6.543 6.543 0 001.44-1.439.75.75 0 011.047-.165zm-8.182 3.39a.75.75 0 01.857-.624 6.55 6.55 0 002.036 0 .75.75 0 01.233 1.482 8.057 8.057 0 01-2.502 0 .75.75 0 01-.624-.858z"></path>
+</svg></div></div>
+			</div>
+
+			<div class="position-relative col-10-max mx-auto overflow-hidden z-n1" style="height: 24px; top: -24px;">
+				<div class="mx-3 position-relative height-full overflow-hidden">
+					<img src="https://github.githubassets.com/images/modules/site/issues/hero/line-repeat.png" width="2000" height="24" class="position-absolute top-0 right-0 issues-animated-line height-full" alt="">
+					<img src="https://github.githubassets.com/images/modules/site/issues/hero/line-arrows.png" width="1000" height="24" class="position-absolute left-0 right-0 mx-auto" alt="">
+					<img src="https://github.githubassets.com/images/modules/site/issues/hero/idea.png" width="68" height="23" class="position-absolute left-0" alt="">
+					<img src="https://github.githubassets.com/images/modules/site/issues/hero/launch.png" width="87" height="23" class="position-absolute right-0" alt="">
+				</div>
+			</div>
+		</div>
+
+		<div class="position-absolute top-0 left-0 width-full height-full d-flex flex-column flex-justify-center px-3 events-auto">
+		  <h1 class="h1-mktg mx-auto col-6-max">Project planning for developers</h1>
+		  <p class="f3-mktg col-5-max mx-auto mt-4 color-fg-muted">Create issues, break them into tasks, track relationships, add custom fields, and have conversations. Visualize large projects as spreadsheets or boards, and automate everything with code.</p>
+		  <div class="d-sm-flex flex-justify-center mt-4 mt-md-6 mb-4 position-relative z-3">
+				<details class="js-video-container details-reset details-overlay details-overlay-dark">
+  <summary class="js-video-play btn-mktg d-block d-sm-inline-block mb-3 mr-sm-3" role="button">Watch video&nbsp;&nbsp;<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
+    <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
+</svg>
+  </summary>
+  <details-dialog class="Box container-lg text-left border-0 overflow-auto col-12 color-fg-default" data-color-mode="dark" data-dark-theme="dark">
+    <button type="button" class="js-video-close Box-btn-octicon btn-octicon position-absolute top-0 right-0 px-2 py-1 mr-0 mt-0 border-0 z-3" aria-label="Close" data-close-dialog><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg></button>
+    <div class="position-relative">
+      <svg aria-hidden="true" viewBox="0 0 1920 1080" version="1.1" width="1920" height="1080" class="width-full height-auto d-block"></svg>
+      <iframe class="js-video-iframe position-absolute width-full height-full top-0 left-0 border-0"
+        data-src="https://www.youtube.com/embed/o1wuW24Nv4E?autoplay=1&amp;rel=0"
+        title="The new GitHub Issues" type="text/html" width="1920" height="1080" frameborder="0" allowfullscreen allow="autoplay;">
+      </iframe>
+    </div>
+  </details-dialog>
+</details>
+
+
+  <a class="btn-mktg mb-3 d-none d-sm-inline-block btn-muted-mktg" data-analytics-event="{&quot;category&quot;:&quot;Start using project tables&quot;,&quot;action&quot;:&quot;click to Start using project tables&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Start using project tables;&quot;}" href="/login?return_to=https%3A%2F%2Fgithub.com%2Ffeatures%2Fissues">
+  Start using project tables
+  
+  
+</a>
+
+<a class="btn-mktg mb-3 d-block d-sm-none btn-muted-mktg" data-analytics-event="{&quot;category&quot;:&quot;Manage issues on the go&quot;,&quot;action&quot;:&quot;click to Manage issues on the go&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Manage issues on the go;&quot;}" href="/mobile">
+  Manage issues on the go
+  
+  
+</a>
+
+		  </div>
+		</div>
+	</div>
+</div>
+
+
+<div class="overflow-hidden">
+  <div class="container-xl mx-auto mt-5 p-responsive">
+  <div class="text-center d-flex flex-column flex-items-center">
+    <h2 class="h3-mktg mx-auto col-10-max">Bored of boards?<br>Switch to tables.</h2>
+    <p class="f3-mktg mt-2 col-6-max mx-auto color-fg-muted">Built like a spreadsheet, project tables give you a live workspace to filter, sort, and group issues and pull requests. Tailor them to your needs with custom fields and saved views.</p>
+  </div>
+</div>
+
+<div class="position-relative z-2">
+  <div class="container-xl mx-auto mb-4 mb-md-7 p-responsive">
+    <div class="col-12 position-relative js-build-in-trigger">
+  <before-after data-load-on="visible">
+    <div class="d-flex flex-justify-center flex-items-center my-4 position-relative z-1">
+      <label for="before-after-layout-toggle" class="f3 text-semibold">Board</label>
+      <div class="before-after-toggle position-relative mx-2">
+        <input id="before-after-layout-toggle" name="before-after-layout-toggle" class="before-after-toggle-checkbox width-full height-full" type="checkbox" data-target="before-after.toggleElement" data-action="change:before-after#toggle">
+        <span class="before-after-toggle-knob position-absolute events-none"></span>
+      </div>
+      <label for="before-after-layout-toggle" class="f3 text-semibold">Table</label>
+    </div>
+
+    <div class="js-build-in-item build-in-fade position-relative top-n4 top-lg-n10">
+      <img src="https://github.githubassets.com/images/modules/site/issues/board-glow.png" alt="" class="height-auto position-absolute top-n2 top-md-n8 top-lg-n12 mx-auto events-none issues-layout-glow">
+    </div>
+
+    <div class="position-relative mx-auto z-2 box-shadow-default-border-mktg rounded-2 overflow-hidden">
+      <div class="position-absolute height-full border-right color-border-accent-emphasis top-0 left-0 z-2 before-after-slider"></div>
+
+      <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/layout-board.png?width=2280&amp;format=webpll 2280w,https://github.githubassets.com/images/modules/site/issues/layout-board.png?width=1824&amp;format=webpll 1824w,https://github.githubassets.com/images/modules/site/issues/layout-board.png?width=1368&amp;format=webpll 1368w,https://github.githubassets.com/images/modules/site/issues/layout-board.png?width=1140&amp;format=webpll 1140w,https://github.githubassets.com/images/modules/site/issues/layout-board.png?width=912&amp;format=webpll 912w,https://github.githubassets.com/images/modules/site/issues/layout-board.png?width=456&amp;format=webpll 456w" sizes="(max-width: 1024px) 90vw, 1140px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/layout-board.png?width=2280 2280w,https://github.githubassets.com/images/modules/site/issues/layout-board.png?width=1140 1140w,https://github.githubassets.com/images/modules/site/issues/layout-board.png?width=912 912w,https://github.githubassets.com/images/modules/site/issues/layout-board.png?width=570 570w" sizes="(max-width: 1024px) 90vw, 1140px" type="image/png"></source>
+  <img class="width-full height-auto position-absolute top-0 left-0" width="2280" height="1370" loading="lazy" decoding="async" alt="Board view: Project cards in a classic kanban board layout. Cards are sorted in 4 columns based on their status, in a view called &#39;Standup.&#39;" src="https://github.githubassets.com/images/modules/site/issues/layout-board.png?width=2280" />
+</picture>
+
+      <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/layout-table.png?width=2280&amp;format=webpll 2280w,https://github.githubassets.com/images/modules/site/issues/layout-table.png?width=1824&amp;format=webpll 1824w,https://github.githubassets.com/images/modules/site/issues/layout-table.png?width=1368&amp;format=webpll 1368w,https://github.githubassets.com/images/modules/site/issues/layout-table.png?width=1140&amp;format=webpll 1140w,https://github.githubassets.com/images/modules/site/issues/layout-table.png?width=912&amp;format=webpll 912w,https://github.githubassets.com/images/modules/site/issues/layout-table.png?width=456&amp;format=webpll 456w" sizes="(max-width: 1024px) 90vw, 1140px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/layout-table.png?width=2280 2280w,https://github.githubassets.com/images/modules/site/issues/layout-table.png?width=1140 1140w,https://github.githubassets.com/images/modules/site/issues/layout-table.png?width=912 912w,https://github.githubassets.com/images/modules/site/issues/layout-table.png?width=570 570w" sizes="(max-width: 1024px) 90vw, 1140px" type="image/png"></source>
+  <img class="width-full height-auto d-block after-element" width="2280" height="1370" loading="lazy" decoding="async" alt="Table view: Project cards in a table layout. Cards are listed as line items, like a spreadsheet. Cards are grouped by three project phases in a view called &#39;The Plan.&#39;" data-target="before-after.afterElement" src="https://github.githubassets.com/images/modules/site/issues/layout-table.png?width=2280" />
+</picture>
+    </div>
+  </before-after>
+</div>
+
+  </div>
+</div>
+
+  <div class="container-xl mx-auto p-responsive">
+  <div class="col-8-max text-center mx-auto">
+    <span class="sr-only">Used by companies like…</span>
+    <ul class="d-flex flex-justify-center flex-items-center list-style-none color-bg-default">
+      <li class="mr-3 mr-md-4">
+        <img src="https://github.githubassets.com/images/modules/site/issues/logos/logo-shopify-mono.svg" alt="Shopify" class="mr-2 mr-sm-3 mr-lg-4 my-3 width-fit" style="max-height:3rem; mix-blend-mode: multiply" loading="lazy">
+      </li>
+      <li class="mr-3 mr-md-4">
+      	<img src="https://github.githubassets.com/images/modules/site/issues/logos/logo-vercel.svg" alt="Vercel" class="mr-2 mr-sm-3 mr-lg-4 my-3 width-fit" style="max-height:3rem; mix-blend-mode: multiply" loading="lazy">
+      </li>
+      <li class="mr-3 mr-md-4">
+      	<img src="https://github.githubassets.com/images/modules/site/issues/logos/logo-stripe.svg" alt="Stripe" class="mr-2 mr-sm-3 mr-lg-4 my-3 width-fit" style="max-height:3rem; mix-blend-mode: multiply" loading="lazy">
+      </li>
+      <li class="mr-3 mr-md-4">
+      	<img src="https://github.githubassets.com/images/modules/site/issues/logos/logo-ford.svg" alt="Ford" class="mr-2 mr-sm-3 mr-lg-4 my-3 width-fit" style="max-height:3rem; mix-blend-mode: multiply" loading="lazy">
+      </li>
+      <li>
+      	<img src="https://github.githubassets.com/images/modules/site/issues/logos/logo-nasa.svg" alt="NASA" class="width-fit" style="max-height:4rem; mix-blend-mode: multiply" loading="lazy">
+      </li>
+    </ul>
+  </div>
+</div>
+
+  <div class="overflow-hidden px-3">
+  <div class="container-xl">
+    
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-row" data-build-in-stagger="100">
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-5 build-in-slideX-right">
+    <div class="pr-md-4">
+      
+      
+      
+      
+      <h3 class="color-fg-default h3-mktg mb-3">Break issues into actionable tasks</h3>
+      <p class="f3-mktg color-fg-muted col-6-max">Tackle complex issues with task lists and track their status with new progress indicators. Convert tasks into their own issues and navigate your work hierarchy.</p>
+      
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-7">
+      <div class="position-relative">
+        
+    <svg aria-hidden="true" viewBox="0 0 708 718" version="1.1" width="708" height="718" class="width-full height-auto d-block"></svg>
+
+    <div class="position-absolute top-0 left-0 width-full height-auto">
+      <img
+        src="https://github.githubassets.com/images/modules/site/issues/issue-tasks-progress-reduced-motion.png"
+        alt=""
+        class="d-block width-full height-auto img-reduced-motion"
+        loading="lazy" decoding="async">
+
+      <video playsinline autoplay muted class="js-viewport-aware-video video-reduced-motion width-full height-auto" aria-hidden="true" poster="https://github.githubassets.com/images/modules/site/issues/issue-tasks-progress-placeholder.png">
+        <source type="video/mp4; codecs=hevc,mp4a.40.2" src="https://github.githubassets.com/images/modules/site/issues/issue-tasks-progress.hevc.mp4">
+        <source type="video/mp4; codecs=avc1.4D401E,mp4a.40.2" src="https://github.githubassets.com/images/modules/site/issues/issue-tasks-progress.h264.mp4">
+      </video>
+    </div>
+
+      </div>
+    </div>
+</div>
+  </div>
+</div>
+  <div class="position-relative container-xl mx-auto pt-0 pt-lg-12 px-3 px-md-5 px-lg-6 border-lg-top border-lg-left rounded-top-2 position-relative z-1">
+
+  <div class="position-absolute d-none d-lg-block" style="left:100%; top:-1px; bottom:-1px; width:100vw;"></div>
+
+  <div class="position-absolute border-bottom border-top left-0 d-none d-lg-flex flex-items-center pl-3 pl-md-4 rounded-top-2 planning-tracking-issue-heading" style="top: -1px;">
+    <span title="Open" data-view-component="true" class="State State--open mr-2">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg>
+      Open
+</span>
+    <span title="3 tasks" data-view-component="true" class="State color-bg-default color-fg-subtle border text-normal mr-2">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-checklist">
+    <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"></path>
+</svg>
+      3 tasks
+</span>
+    <span class="color-fg-muted">Improve alien character controls</span>
+  </div>
+
+  <div class="d-lg-flex flex-lg-row-reverse flex-lg-items-start gutter-lg-spacious">
+    <div class="col-lg-5 mb-8 mb-lg-0">
+      <h2 class="h3-mktg">Move conversations forward</h2>
+      <p class="f3-mktg mt-2 mr-md-3 color-fg-muted">Express ideas with GitHub Flavored Markdown, mention contributors, react with emoji, clarify with attachments, and see references from commits, pull requests, releases, and deploys. Coordinate by assigning contributors and teams, or by adding them to milestones and projects. All in a single timeline.</p>
+      <div class="d-block d-lg-none mb-4 flex-self-center">
+        <ul class="list-style-none text-medium f3-mktg mt-4 mt-lg-6">
+          <li class="py-1 d-flex flex-items-start"><span class="mr-2" style="color:var(--color-scale-pink-6)"><svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-arrow-right">
+    <path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 001.06 0l6.25-6.25a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 10-1.06 1.06l4.97 4.97H3.75a.75.75 0 000 1.5h14.44l-4.97 4.97a.75.75 0 000 1.06z"></path>
+</svg></span>Upload and attach videos to comments</li>
+          <li class="py-1 d-flex flex-items-start"><span class="mr-2" style="color:var(--color-scale-pink-6)"><svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-arrow-right">
+    <path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 001.06 0l6.25-6.25a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 10-1.06 1.06l4.97 4.97H3.75a.75.75 0 000 1.5h14.44l-4.97 4.97a.75.75 0 000 1.06z"></path>
+</svg></span>Dive into work faster with issue forms and templates</li>
+        </ul>
+      </div>
+    </div>
+    <div class="position-relative col-lg-7 js-build-in-trigger" data-build-in-stagger="50">
+      <div class="position-absolute left-n3 left-md-n5 top-0 border-top d-flex d-lg-none flex-items-center pl-3 pl-md-4 rounded-top-2 planning-tracking-issue-heading">
+        <span title="Open" data-view-component="true" class="State State--open mr-2">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg>
+          Open
+</span>
+        <span title="3 tasks" data-view-component="true" class="State color-bg-default color-fg-subtle border text-normal mr-2">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-checklist">
+    <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"></path>
+</svg>
+          3 tasks
+</span>
+        <span class="color-fg-muted d-none d-sm-inline">Improve alien character controls</span>
+      </div>
+      <div class="position-relative pb-6 pt-9 pt-md-10 pt-lg-0">
+        <!-- Issue Convo Event 1 -->
+        <div class="position-relative z-2 d-flex flex-items-start js-build-in-item build-in-scale-up">
+          <img src="https://github.githubassets.com/images/modules/site/issues/illo/event-1-avatar.png" width="40" height="40" alt="" class="circle height-auto flex-shrink-0 mr-4 d-none d-md-block" loading="lazy" decoding="async">
+
+          <div class="Box width-full border-0 box-shadow-default-border-mktg">
+            <div class="Box-header py-2 d-flex flex-justify-between">
+              <div>
+                <strong>keisaacson</strong>
+                <span class="color-fg-subtle">commented 5 days ago</span>
+              </div>
+              <div class="d-none d-sm-block d-md-none d-lg-block">
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-smiley color-fg-subtle ml-1">
+    <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM5 8a1 1 0 100-2 1 1 0 000 2zm7-1a1 1 0 11-2 0 1 1 0 012 0zM5.32 9.636a.75.75 0 011.038.175l.007.009c.103.118.22.222.35.31.264.178.683.37 1.285.37.602 0 1.02-.192 1.285-.371.13-.088.247-.192.35-.31l.007-.008a.75.75 0 111.222.87l-.614-.431c.614.43.614.431.613.431v.001l-.001.002-.002.003-.005.007-.014.019a1.984 1.984 0 01-.184.213c-.16.166-.338.316-.53.445-.63.418-1.37.638-2.127.629-.946 0-1.652-.308-2.126-.63a3.32 3.32 0 01-.715-.657l-.014-.02-.005-.006-.002-.003v-.002h-.001l.613-.432-.614.43a.75.75 0 01.183-1.044h.001z"></path>
+</svg>
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal color-fg-subtle ml-1">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+              </div>
+            </div>
+            <div class="Box-body">
+              <p>The latest report from our testers is in and our sprite animations are a little off. Good news is not by much, so we should be able to squeeze this into our current sprint.</p>
+              <ul class="list-style-none mb-2">
+                <li class="d-block Truncate">
+                  <div class="Truncate-text">
+                    <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-square opacity-4 color-fg-subtle v-align-top">
+    <path fill-rule="evenodd" d="M6 7.75C6 6.784 6.784 6 7.75 6h8.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0116.25 18h-8.5A1.75 1.75 0 016 16.25v-8.5zm1.75-.25a.25.25 0 00-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25v-8.5a.25.25 0 00-.25-.25h-8.5z"></path>
+</svg>
+                    <strong>@grrretel</strong> to share beta tester report
+                  </div>
+                </li>
+                <li class="d-block Truncate">
+                  <div class="Truncate-text">
+                    <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-square opacity-4 color-fg-subtle v-align-top">
+    <path fill-rule="evenodd" d="M6 7.75C6 6.784 6.784 6 7.75 6h8.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0116.25 18h-8.5A1.75 1.75 0 016 16.25v-8.5zm1.75-.25a.25.25 0 00-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25v-8.5a.25.25 0 00-.25-.25h-8.5z"></path>
+</svg>
+                    <strong>@cameronfoxly</strong> has a video to share showing before and after
+                  </div>
+                </li>
+                <li class="d-block Truncate">
+                  <div class="Truncate-text">
+                    <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-square opacity-4 color-fg-subtle v-align-top">
+    <path fill-rule="evenodd" d="M6 7.75C6 6.784 6.784 6 7.75 6h8.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0116.25 18h-8.5A1.75 1.75 0 016 16.25v-8.5zm1.75-.25a.25.25 0 00-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25v-8.5a.25.25 0 00-.25-.25h-8.5z"></path>
+</svg>
+                    <strong>@chiedo</strong> to push the change and get the team reviewing
+                  </div>
+                </li>
+              </ul>
+              <span class="Label Label--large Label--secondary color-bg-inset px-1">
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-smiley v-align-middle mt-n1">
+    <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM5 8a1 1 0 100-2 1 1 0 000 2zm7-1a1 1 0 11-2 0 1 1 0 012 0zM5.32 9.636a.75.75 0 011.038.175l.007.009c.103.118.22.222.35.31.264.178.683.37 1.285.37.602 0 1.02-.192 1.285-.371.13-.088.247-.192.35-.31l.007-.008a.75.75 0 111.222.87l-.614-.431c.614.43.614.431.613.431v.001l-.001.002-.002.003-.005.007-.014.019a1.984 1.984 0 01-.184.213c-.16.166-.338.316-.53.445-.63.418-1.37.638-2.127.629-.946 0-1.652-.308-2.126-.63a3.32 3.32 0 01-.715-.657l-.014-.02-.005-.006-.002-.003v-.002h-.001l.613-.432-.614.43a.75.75 0 01.183-1.044h.001z"></path>
+</svg>
+</span>              <span class="Label Label--large Label--secondary">👍 3</span>
+              <span class="Label Label--large Label--secondary">🎉 1</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="planning-tracking-conversation-line border-left js-build-in-item" style="height: 120%;"></div>
+
+        <!-- Issue Convo Event 2 -->
+        <div class="position-relative z-1 d-flex flex-items-center mt-4 f5-mktg js-build-in-item build-in-scale-up planning-tracking-notification" aria-hidden="true">
+          <div class="p-2 mr-2 circle planning-tracking-notification-type d-flex"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
+    <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
+</svg></div>
+          <img src="https://github.githubassets.com/images/modules/site/issues/illo/avatar-bot.png" width="20" height="20" alt="" class="width-fit height-auto d-none d-md-block mr-1" loading="lazy" decoding="async">
+          <span class="color-fg-muted text-truncate"><strong class="text-semibold color-fg-default">bot</strong> added this to <strong class="text-semibold color-fg-default">🚧&nbsp;&nbsp;Inbox</strong> from <strong class="text-semibold color-fg-default">📬&nbsp;&nbsp;Sprint 3</strong> <span class="d-none d-md-inline">just now</span></span>
+        </div>
+
+        <!-- Issue Convo Event 3 -->
+        <div class="position-relative z-2 mt-4 d-flex flex-items-start js-build-in-item build-in-scale-up">
+          <img src="https://github.githubassets.com/images/modules/site/issues/illo/avatar-grrretel.png" width="40" height="40" alt="" class="circle height-auto flex-shrink-0 mr-4 d-none d-md-block" loading="lazy" decoding="async">
+          <div class="Box width-full border-0 box-shadow-default-border-mktg">
+            <div class="Box-header py-2 d-flex flex-justify-between">
+              <div>
+                <strong>grrretel</strong>
+                <span class="color-fg-subtle">commented 5 days ago</span>
+              </div>
+              <div class="d-none d-sm-block d-md-none d-lg-block">
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-smiley color-fg-subtle ml-1">
+    <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM5 8a1 1 0 100-2 1 1 0 000 2zm7-1a1 1 0 11-2 0 1 1 0 012 0zM5.32 9.636a.75.75 0 011.038.175l.007.009c.103.118.22.222.35.31.264.178.683.37 1.285.37.602 0 1.02-.192 1.285-.371.13-.088.247-.192.35-.31l.007-.008a.75.75 0 111.222.87l-.614-.431c.614.43.614.431.613.431v.001l-.001.002-.002.003-.005.007-.014.019a1.984 1.984 0 01-.184.213c-.16.166-.338.316-.53.445-.63.418-1.37.638-2.127.629-.946 0-1.652-.308-2.126-.63a3.32 3.32 0 01-.715-.657l-.014-.02-.005-.006-.002-.003v-.002h-.001l.613-.432-.614.43a.75.75 0 01.183-1.044h.001z"></path>
+</svg>
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal color-fg-subtle ml-1">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+              </div>
+            </div>
+            <div class="Box-body">
+              <p>We just published the report—see <span class="color-fg-accent">octoarcade/testers#323</span> 👉</p>
+              <span class="Label Label--large Label--secondary color-bg-inset px-1">
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-smiley v-align-middle mt-n1">
+    <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM5 8a1 1 0 100-2 1 1 0 000 2zm7-1a1 1 0 11-2 0 1 1 0 012 0zM5.32 9.636a.75.75 0 011.038.175l.007.009c.103.118.22.222.35.31.264.178.683.37 1.285.37.602 0 1.02-.192 1.285-.371.13-.088.247-.192.35-.31l.007-.008a.75.75 0 111.222.87l-.614-.431c.614.43.614.431.613.431v.001l-.001.002-.002.003-.005.007-.014.019a1.984 1.984 0 01-.184.213c-.16.166-.338.316-.53.445-.63.418-1.37.638-2.127.629-.946 0-1.652-.308-2.126-.63a3.32 3.32 0 01-.715-.657l-.014-.02-.005-.006-.002-.003v-.002h-.001l.613-.432-.614.43a.75.75 0 01.183-1.044h.001z"></path>
+</svg>
+</span>              <span class="Label Label--large Label--secondary">👀 3</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Issue Convo Event 4 -->
+        <div class="position-relative z-1 d-flex flex-items-center mt-4 f5-mktg js-build-in-item build-in-scale-up planning-tracking-notification" aria-hidden="true">
+          <div class="p-2 mr-2 planning-tracking-notification-type circle d-flex"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-cross-reference">
+    <path fill-rule="evenodd" d="M16 1.25v4.146a.25.25 0 01-.427.177L14.03 4.03l-3.75 3.75a.75.75 0 11-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0111.604 1h4.146a.25.25 0 01.25.25zM2.75 3.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-2.5a.75.75 0 111.5 0v2.5A1.75 1.75 0 0113.25 13H9.06l-2.573 2.573A1.457 1.457 0 014 14.543V13H2.75A1.75 1.75 0 011 11.25v-7.5C1 2.784 1.784 2 2.75 2h5.5a.75.75 0 010 1.5h-5.5z"></path>
+</svg></div>
+          <img src="https://github.githubassets.com/images/modules/site/issues/illo/avatar-chiedo.png" alt="" width="20" height="20" class="width-fit height-auto d-none d-md-block mr-1" loading="lazy" decoding="async">
+          <span class="color-fg-muted text-truncate"><strong class="text-semibold color-fg-default">chiedo</strong> mentioned this <span class="d-none d-md-inline">issue 4 days ago</span></span>
+        </div>
+
+        <div class="position-relative z-1 pl-6 d-none d-md-flex flex-items-center flex-justify-between f5-mktg js-build-in-item build-in-scale-up planning-tracking-notification" aria-hidden="true">
+          <span class="color-fg-muted text-truncate"><span class="text-semibold color-fg-default">Ship dark mode support for UI</span> #179588
+            <span class="text-small d-block"><span class="planning-tracking-tasks-complete d-inline-block mr-1 circle"></span>8 of 8 tasks</span>
+          </span>
+          <span title="Merged" data-view-component="true" class="State State--merged">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-closed">
+    <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"></path><path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"></path>
+</svg>
+            Merged
+</span>        </div>
+
+        <div class="position-relative z-1 pl-6 d-flex d-md-none f5-mktg js-build-in-item build-in-scale-up planning-tracking-notification" aria-hidden="true">
+          <div class="d-flex rounded-2 p-2" style="background-color: #eaeef2;">
+            <img src="https://github.githubassets.com/images/modules/site/issues/illo/state-merged-icon.svg" width="19" height="19" alt="" class="flex-shrink-0 mr-2" loading="lazy" decoding="async">
+            <span class="text-small color-fg-default text-truncate">Ship dark mode support for UI</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="issues-darkmode-bg pb-1 position-relative z-1" data-color-mode="dark" data-light-theme="light" data-dark-theme="dark">
+  <div class="position-relative container-xl mx-auto px-3 px-md-5 px-lg-6 border-bottom border-left rounded-bottom-2 mb-4 position-relative z-1">
+
+    <div class="position-absolute border-bottom d-none d-md-block" style="left:99%; top:0; bottom:-1px; width:100vw;"></div>
+
+    <div class="d-lg-flex flex-row flex-row-reverse flex-items-start gutter-spacious">
+      <div class="d-none d-lg-block col-lg-5 mb-4 mb-lg-0 flex-self-center">
+        <ul class="list-style-none text-semibold f3-mktg mt-4 mt-lg-6 color-fg-default">
+          <li class="py-1 d-flex flex-items-start"><span class="mr-2" style="color:var(--color-scale-pink-6)"><svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-arrow-right">
+    <path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 001.06 0l6.25-6.25a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 10-1.06 1.06l4.97 4.97H3.75a.75.75 0 000 1.5h14.44l-4.97 4.97a.75.75 0 000 1.06z"></path>
+</svg></span>Upload and attach videos to comments</li>
+          <li class="py-1 d-flex flex-items-start"><span class="mr-2" style="color:var(--color-scale-pink-6)"><svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-arrow-right">
+    <path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 001.06 0l6.25-6.25a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 10-1.06 1.06l4.97 4.97H3.75a.75.75 0 000 1.5h14.44l-4.97 4.97a.75.75 0 000 1.06z"></path>
+</svg></span>Dive into work faster with issue forms and templates</li>
+        </ul>
+      </div>
+      <div class="col-lg-7 js-build-in-trigger" data-build-in-stagger="50">
+        <div class="position-relative pb-6 pt-4">
+          <div class="planning-tracking-conversation-line top-0 border-left js-build-in-item"></div>
+
+          <!-- Issue Convo Event 5 -->
+          <div class="position-relative z-2 d-flex flex-items-start js-build-in-item build-in-scale-up">
+            <img src="https://github.githubassets.com/images/modules/site/issues/illo/event-4-avatar.png" width="40" height="40" alt="" class="circle height-auto flex-shrink-0 mr-4 d-none d-md-block" loading="lazy" decoding="async">
+            <div class="position-relative width-full">
+              <div class="Box width-full">
+                <div class="Box-header py-2 d-flex flex-justify-between">
+                  <div>
+                    <strong>cameronfoxly</strong>
+                    <span class="color-fg-subtle">commented 5 days ago</span>
+                  </div>
+                  <div class="d-none d-sm-block d-md-none d-lg-block">
+                    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-smiley color-fg-subtle ml-1">
+    <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM5 8a1 1 0 100-2 1 1 0 000 2zm7-1a1 1 0 11-2 0 1 1 0 012 0zM5.32 9.636a.75.75 0 011.038.175l.007.009c.103.118.22.222.35.31.264.178.683.37 1.285.37.602 0 1.02-.192 1.285-.371.13-.088.247-.192.35-.31l.007-.008a.75.75 0 111.222.87l-.614-.431c.614.43.614.431.613.431v.001l-.001.002-.002.003-.005.007-.014.019a1.984 1.984 0 01-.184.213c-.16.166-.338.316-.53.445-.63.418-1.37.638-2.127.629-.946 0-1.652-.308-2.126-.63a3.32 3.32 0 01-.715-.657l-.014-.02-.005-.006-.002-.003v-.002h-.001l.613-.432-.614.43a.75.75 0 01.183-1.044h.001z"></path>
+</svg>
+                    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal color-fg-subtle ml-1">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+                  </div>
+                </div>
+                <div class="Box-body Box-row--gray color-fg-muted">
+                  <p>Thanks <strong>@keisaacson</strong>! Here’s a video walkthrough showing the proposed changes.</p>
+                  <div class="overflow-hidden rounded-2 border planning-tracking-conversation-video mb-3">
+                    <picture>
+                      <source srcset="https://github.githubassets.com/images/modules/site/issues/illo/video-frame.webp" type="image/webp">
+                      <img
+                        src="https://github.githubassets.com/images/modules/site/issues/illo/video-frame.png"
+                        width="548"
+                        height="398"
+                        alt=""
+                        class="width-full height-auto d-block position-relative z-1 rounded-2 events-none"
+                        loading="lazy" decoding="async">
+                    </picture>
+                    <video playsinline loop autoplay muted class="js-viewport-aware-video looping-mktg width-full height-auto position-absolute bottom-0 left-0 rounded-2" alt="Issue task list demo" poster="https://github.githubassets.com/images/modules/site/issues/game-placeholder.jpg">
+                      <source type="video/mp4" src="https://github.githubassets.com/images/modules/site/issues/game.mp4">
+                    </video>
+                  </div>
+                  <span class="Label Label--large Label--secondary color-bg-inset px-1">
+                    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-smiley v-align-middle mt-n1">
+    <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM5 8a1 1 0 100-2 1 1 0 000 2zm7-1a1 1 0 11-2 0 1 1 0 012 0zM5.32 9.636a.75.75 0 011.038.175l.007.009c.103.118.22.222.35.31.264.178.683.37 1.285.37.602 0 1.02-.192 1.285-.371.13-.088.247-.192.35-.31l.007-.008a.75.75 0 111.222.87l-.614-.431c.614.43.614.431.613.431v.001l-.001.002-.002.003-.005.007-.014.019a1.984 1.984 0 01-.184.213c-.16.166-.338.316-.53.445-.63.418-1.37.638-2.127.629-.946 0-1.652-.308-2.126-.63a3.32 3.32 0 01-.715-.657l-.014-.02-.005-.006-.002-.003v-.002h-.001l.613-.432-.614.43a.75.75 0 01.183-1.044h.001z"></path>
+</svg>
+</span>                  <span class="Label Label--large Label--secondary">🚀 4</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Issue Convo Event 6 -->
+          <div class="position-relative z-1 d-flex flex-items-center mt-4 f5-mktg js-build-in-item build-in-scale-up planning-tracking-notification" aria-hidden="true">
+            <div class="p-2 mr-2 planning-tracking-notification-type planning-tracking-notification-type--darkmode circle d-flex color-fg-default"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-cross-reference">
+    <path fill-rule="evenodd" d="M16 1.25v4.146a.25.25 0 01-.427.177L14.03 4.03l-3.75 3.75a.75.75 0 11-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0111.604 1h4.146a.25.25 0 01.25.25zM2.75 3.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-2.5a.75.75 0 111.5 0v2.5A1.75 1.75 0 0113.25 13H9.06l-2.573 2.573A1.457 1.457 0 014 14.543V13H2.75A1.75 1.75 0 011 11.25v-7.5C1 2.784 1.784 2 2.75 2h5.5a.75.75 0 010 1.5h-5.5z"></path>
+</svg></div>
+            <img src="https://github.githubassets.com/images/modules/site/issues/illo/avatar-preciselyalyss.png" alt="" width="20" height="20" class="width-fit height-auto d-none d-md-block mr-1" loading="lazy" decoding="async">
+            <span class="color-fg-muted text-truncate"><strong class="text-semibold color-fg-default">preciselyalyss</strong> mentioned this <span class="d-none d-md-inline">issue 4 days ago</span></span>
+          </div>
+
+          <div class="position-relative z-1 pl-6 d-none d-md-flex flex-items-center flex-justify-between f5-mktg js-build-in-item build-in-scale-up planning-tracking-notification" aria-hidden="true">
+            <span class="color-fg-muted text-truncate"><span class="text-semibold color-fg-default">Updates to alien, beam, and cannon sprites</span> #179608
+            </span>
+            <span title="Open" data-view-component="true" class="State State--open">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg>
+              Open
+</span>          </div>
+
+          <div class="position-relative z-1 pl-6 d-flex d-md-none f5-mktg js-build-in-item build-in-scale-up planning-tracking-notification" aria-hidden="true">
+            <div class="d-flex rounded-2 p-2" style="background-color: #1b1f24;">
+              <img src="https://github.githubassets.com/images/modules/site/issues/illo/state-open-icon.svg" width="19" height="19" alt="" class="flex-shrink-0 mr-2" loading="lazy" decoding="async">
+              <span class="text-small text-truncate" style="color: #abb8c5">Updates to alien, beam, and cannon sprites</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<div class="issues-darkmode-bg overflow-hidden px-3 pb-8 pt-5" data-color-mode="dark" data-light-theme="light" data-dark-theme="dark">
+  <div class="container-xl">
+    
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-column text-center pb-4 pb-md-7" data-build-in-stagger="100">
+  <div class="col-12 py-3">
+    <div class="">
+      
+      
+      
+      
+      <h3 class="color-fg-default h3-mktg mb-3 col-lg-8 mx-md-auto px-3">Create views <br>for how you work</h3>
+      <p class="f3-mktg color-fg-muted px-3 mx-auto col-7-max">Save views for sprints, backlogs, teams, or releases. Rank, group, sort, and filter issues to suit the occasion. Choose between tables, boards, and timelines.</p>
+      
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 mt-5">
+      <div class="position-relative">
+        
+  
+<slide-show data-slide-show-autoplay="2500" class="planning-tracking-slide-show">
+  <nav role="tablist" aria-orientation="horizontal" aria-label="Select view" class="mx-auto text-center">
+    <button type="button" id="memex-tab-1" aria-selected="true" role="tab" class="js-slide-show-bullet slide-show-bullet btn-link mx-1" aria-controls="memex-slide-1">
+      <span class="sr-only">Feature planning</span>
+    </button>
+    <button type="button" id="memex-tab-2" role="tab" class="js-slide-show-bullet slide-show-bullet btn-link mx-1" aria-controls="memex-slide-2">
+      <span class="sr-only">By area</span>
+    </button>
+    <button type="button" id="memex-tab-3" role="tab" class="js-slide-show-bullet slide-show-bullet btn-link mx-1" aria-controls="memex-slide-3">
+      <span class="sr-only">Current sprint</span>
+    </button>
+  </nav>
+
+  <div class="font-base width-full text-left overflow-hidden mt-4 position-relative rounded-sm-2" style="background-color: #161b22">
+    <div class="d-flex px-4 px-md-5 py-3 d-none d-sm-flex flex-justify-between" style="opacity: 0.2; pointer-events: none;">
+      <div class="h3 unselectable" aria-hidden="true">👾️ OctoArcade Invaders</div>
+      <div class="BtnGroup d-none d-sm-flex">
+          <div class="BtnGroup-item btn px-2">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
+    <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
+</svg>
+          </div>
+          <div class="BtnGroup-item btn px-2">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sidebar-expand">
+    <path fill-rule="evenodd" d="M4.177 7.823l2.396-2.396A.25.25 0 017 5.604v4.792a.25.25 0 01-.427.177L4.177 8.177a.25.25 0 010-.354z"></path><path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zm1.75-.25a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25H9.5v-13H1.75zm12.5 13H11v-13h3.25a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25z"></path>
+</svg>
+          </div>
+          <div class="BtnGroup-item btn px-2">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+          </div>
+      </div>
+    </div>
+
+    <div class="px-4 px-md-5 mb-0 tabnav d-none d-md-block">
+      <nav role="tablist" aria-orientation="horizontal" aria-label="Select view" class="tabnav-tabs d-flex overflow-auto">
+
+        <button type="button" aria-selected="true" role="tab" class="js-slide-show-goto tabnav-tab planning-tracking-tab flex-shrink-0" aria-controls="memex-slide-1">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
+    <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
+</svg>
+          Feature planning
+
+          <div class="btn p-0 ml-1 planning-tracking-tab-opts" style="pointer-events: none; border-color: #fff;">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
+</svg>
+          </div>
+        </button>
+
+        <button type="button" aria-selected="false" role="tab" class="js-slide-show-goto tabnav-tab planning-tracking-tab flex-shrink-0" aria-controls="memex-slide-2">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
+    <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
+</svg>
+          By area
+
+          <div class="btn p-0 ml-1 planning-tracking-tab-opts" style="pointer-events: none; border-color: #fff;">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
+</svg>
+          </div>
+        </button>
+
+        <button type="button" aria-selected="false" role="tab" class="js-slide-show-goto tabnav-tab planning-tracking-tab flex-shrink-0" aria-controls="memex-slide-3">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+          Current sprint
+
+          <div class="btn p-0 ml-1 planning-tracking-tab-opts" style="pointer-events: none; border-color: #fff;">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
+</svg>
+          </div>
+        </button>
+      </nav>
+    </div>
+    <div class="js-slide-show-swipe-area position-relative">
+      <div id="memex-slide-1" role="tabpanel" class="js-slide-show-slide slide-show-slide position-absolute top-0 left-0 width-full" aria-labelledby="memex-tab-1">
+        <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/illo/issues-plan.png?width=1250&amp;format=webpll 1250w,https://github.githubassets.com/images/modules/site/issues/illo/issues-plan.png?width=1000&amp;format=webpll 1000w,https://github.githubassets.com/images/modules/site/issues/illo/issues-plan.png?width=750&amp;format=webpll 750w,https://github.githubassets.com/images/modules/site/issues/illo/issues-plan.png?width=625&amp;format=webpll 625w,https://github.githubassets.com/images/modules/site/issues/illo/issues-plan.png?width=500&amp;format=webpll 500w,https://github.githubassets.com/images/modules/site/issues/illo/issues-plan.png?width=250&amp;format=webpll 250w" sizes="(max-width: 1200px) 90vw, 1250px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/illo/issues-plan.png?width=1250 1250w,https://github.githubassets.com/images/modules/site/issues/illo/issues-plan.png?width=625 625w,https://github.githubassets.com/images/modules/site/issues/illo/issues-plan.png?width=500 500w,https://github.githubassets.com/images/modules/site/issues/illo/issues-plan.png?width=312 312w" sizes="(max-width: 1200px) 90vw, 1250px" type="image/png"></source>
+  <img class="width-full height-auto border-left border-right" width="1250" height="750" alt="Illustration of project table view with cards grouped by &#39;Feature planning&#39; phase." src="https://github.githubassets.com/images/modules/site/issues/illo/issues-plan.png?width=1250" />
+</picture>
+      </div>
+
+      <div id="memex-slide-2" role="tabpanel" class="js-slide-show-slide slide-show-slide position-absolute top-0 left-0 width-full" aria-labelledby="memex-tab-2" aria-hidden="true">
+        <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/illo/issues-area.png?width=1250&amp;format=webpll 1250w,https://github.githubassets.com/images/modules/site/issues/illo/issues-area.png?width=1000&amp;format=webpll 1000w,https://github.githubassets.com/images/modules/site/issues/illo/issues-area.png?width=750&amp;format=webpll 750w,https://github.githubassets.com/images/modules/site/issues/illo/issues-area.png?width=625&amp;format=webpll 625w,https://github.githubassets.com/images/modules/site/issues/illo/issues-area.png?width=500&amp;format=webpll 500w,https://github.githubassets.com/images/modules/site/issues/illo/issues-area.png?width=250&amp;format=webpll 250w" sizes="(max-width: 1200px) 90vw, 1250px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/illo/issues-area.png?width=1250 1250w,https://github.githubassets.com/images/modules/site/issues/illo/issues-area.png?width=625 625w,https://github.githubassets.com/images/modules/site/issues/illo/issues-area.png?width=500 500w,https://github.githubassets.com/images/modules/site/issues/illo/issues-area.png?width=312 312w" sizes="(max-width: 1200px) 90vw, 1250px" type="image/png"></source>
+  <img class="width-full height-auto border-left border-right" width="1250" height="750" alt="Illustration of project table view with cards grouped sorted by devleopment &#39;Area&#39; custom field." src="https://github.githubassets.com/images/modules/site/issues/illo/issues-area.png?width=1250" />
+</picture>
+      </div>
+
+      <div id="memex-slide-3" role="tabpanel" class="js-slide-show-slide slide-show-slide position-absolute top-0 left-0 width-full" aria-labelledby="memex-tab-3" aria-hidden="true">
+        <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/illo/issues-board.png?width=1250&amp;format=webpll 1250w,https://github.githubassets.com/images/modules/site/issues/illo/issues-board.png?width=1000&amp;format=webpll 1000w,https://github.githubassets.com/images/modules/site/issues/illo/issues-board.png?width=750&amp;format=webpll 750w,https://github.githubassets.com/images/modules/site/issues/illo/issues-board.png?width=625&amp;format=webpll 625w,https://github.githubassets.com/images/modules/site/issues/illo/issues-board.png?width=500&amp;format=webpll 500w,https://github.githubassets.com/images/modules/site/issues/illo/issues-board.png?width=250&amp;format=webpll 250w" sizes="(max-width: 1200px) 90vw, 1250px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/illo/issues-board.png?width=1250 1250w,https://github.githubassets.com/images/modules/site/issues/illo/issues-board.png?width=625 625w,https://github.githubassets.com/images/modules/site/issues/illo/issues-board.png?width=500 500w,https://github.githubassets.com/images/modules/site/issues/illo/issues-board.png?width=312 312w" sizes="(max-width: 1200px) 90vw, 1250px" type="image/png"></source>
+  <img class="width-full height-auto border-left border-right" width="1250" height="750" alt="Illustration of a classic kanban board project. Cards are sorted in 4 columns based on their status, in a view called &#39;Current sprint.&#39;" src="https://github.githubassets.com/images/modules/site/issues/illo/issues-board.png?width=1250" />
+</picture>
+      </div>
+
+    </div>
+    <div class="planning-tracking-slide-show-shadow position-absolute width-full left-0"></div>
+  </div>
+</slide-show>
+
+
+  <div class="mt-n9 mt-md-n12 width-full js-build-in-trigger" data-build-in-stagger="100">
+    <div class="col-10 col-md-8 col-lg-7 col-xl-6 mx-auto position-relative mb-4 js-build-in-item build-in-scale-up build-in-animate">
+      <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/command-palette.png?width=1040&amp;format=webpll 1040w,https://github.githubassets.com/images/modules/site/issues/command-palette.png?width=832&amp;format=webpll 832w,https://github.githubassets.com/images/modules/site/issues/command-palette.png?width=624&amp;format=webpll 624w,https://github.githubassets.com/images/modules/site/issues/command-palette.png?width=520&amp;format=webpll 520w,https://github.githubassets.com/images/modules/site/issues/command-palette.png?width=416&amp;format=webpll 416w,https://github.githubassets.com/images/modules/site/issues/command-palette.png?width=208&amp;format=webpll 208w" sizes="(max-width: 560px) 90vw, 522px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/command-palette.png?width=1040 1040w,https://github.githubassets.com/images/modules/site/issues/command-palette.png?width=520 520w,https://github.githubassets.com/images/modules/site/issues/command-palette.png?width=416 416w,https://github.githubassets.com/images/modules/site/issues/command-palette.png?width=260 260w" sizes="(max-width: 560px) 90vw, 522px" type="image/png"></source>
+  <img class="position-relative width-fit height-auto rounded-2 box-shadow-default-mktg border" width="1040" height="528" style="width: 522px; height: 268px;" alt="" src="https://github.githubassets.com/images/modules/site/issues/command-palette.png?width=1040" />
+</picture>
+    </div>
+    <div class="col-12 col-md-8 mx-auto mt-7 d-flex flex-column flex-items-center js-build-in-item build-in-scale-up build-in-animate">
+      <h3 class="h4-mktg color-fg-default d-flex flex-row flex-nowrap flex-items-center flex-justify-center">Work at keyboard speed</h3>
+      <p class="f3-mktg mt-2 px-md-4 col-6-max mx-auto color-fg-muted">No mouse? No problem. Every action you can take with the mouse has a keyboard shortcut or command. Filter, sort, group, and assign issues. Your hands never leave the keyboard.</p>
+    </div>
+  </div>
+
+      </div>
+    </div>
+</div>
+
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative z-1 flex-md-row-reverse pb-4 pb-md-7" data-build-in-stagger="100">
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-5 build-in-slideX-left">
+    <div class="pl-md-4">
+      
+      
+      
+      
+      <h3 class="color-fg-default h3-mktg mb-3">Extend issues <br>with custom fields</h3>
+      <p class="f3-mktg color-fg-muted col-6-max">Track metadata like iterations, priority, story points, dates, notes, and links. Add custom fields to project tables and edit from the issue sidebar.</p>
+      
+            <p class="f3-mktg mt-2"><span class="mr-1" style="color:var(--color-scale-pink-6)">
+        <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-check-circle-fill">
+    <path fill-rule="evenodd" d="M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12zm16.28-2.72a.75.75 0 00-1.06-1.06l-5.97 5.97-2.47-2.47a.75.75 0 00-1.06 1.06l3 3a.75.75 0 001.06 0l6.5-6.5z"></path>
+</svg></span> Now with iteration cycle planning
+      </p>
+
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-7">
+      <div class="position-relative">
+        
+
+    <svg aria-hidden="true" viewBox="0 0 682 468" version="1.1" width="682" height="468" class="width-full height-auto d-block"></svg>
+    <div class="position-absolute top-0 left-0 width-full height-auto">
+      <div class="planning-tracking-custom-fields-video z-n1">
+        <img src="https://github.githubassets.com/images/modules/site/issues/issue-custom-fields-reduced-motion.jpg" alt="" class="d-block width-full height-auto img-reduced-motion" loading="lazy" decoding="async">
+        <video playsinline autoplay muted class="js-viewport-aware-video video-reduced-motion width-full height-auto"  aria-hidden="true" poster="https://github.githubassets.com/images/modules/site/issues/issue-custom-fields-placeholder.jpg">
+          <source type="video/mp4" src="https://github.githubassets.com/images/modules/site/issues/issue-custom-fields-v3.h264.mp4">
+        </video>
+      </div>
+    </div>
+
+      </div>
+    </div>
+</div>
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-row pb-4 pb-md-7" data-build-in-stagger="100">
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-5 build-in-slideX-right">
+    <div class="pr-md-4">
+      
+      
+      
+      
+      <h3 class="color-fg-default h3-mktg mb-3">Track progress with project insights</h3>
+      <p class="f3-mktg color-fg-muted col-6-max">Track the health of your current iteration cycle, milestone, or any other custom field you create with new project insights. Identify bottlenecks and issues blocking the team from making progress with the new burn up chart.</p>
+      
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-7">
+      <div class="position-relative">
+        
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/custom-fields.png?width=1416&amp;format=webpll 1416w,https://github.githubassets.com/images/modules/site/issues/custom-fields.png?width=1132&amp;format=webpll 1132w,https://github.githubassets.com/images/modules/site/issues/custom-fields.png?width=849&amp;format=webpll 849w,https://github.githubassets.com/images/modules/site/issues/custom-fields.png?width=708&amp;format=webpll 708w,https://github.githubassets.com/images/modules/site/issues/custom-fields.png?width=566&amp;format=webpll 566w,https://github.githubassets.com/images/modules/site/issues/custom-fields.png?width=283&amp;format=webpll 283w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/custom-fields.png?width=1416 1416w,https://github.githubassets.com/images/modules/site/issues/custom-fields.png?width=708 708w,https://github.githubassets.com/images/modules/site/issues/custom-fields.png?width=566 566w,https://github.githubassets.com/images/modules/site/issues/custom-fields.png?width=354 354w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="width-full height-auto rounded-2 box-shadow-default-mktg border" width="1416" height="924" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/issues/custom-fields.png?width=1416" />
+</picture>
+      </div>
+    </div>
+</div>
+
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-column text-center pb-4 pb-md-7" data-build-in-stagger="100">
+  <div class="col-12 py-3 js-build-in-item build-in-scale-up">
+    <div class="">
+      
+      
+      
+      
+      <h3 class="color-fg-default h3-mktg mb-3 col-lg-8 mx-md-auto px-3">Manage work automatically</h3>
+      <p class="f3-mktg color-fg-muted px-3 mx-auto col-7-max">Accelerate your project planning with workflows. Automatically triage issues, set values for custom fields, react to changes, or schedule something. You can even tee them up to run an Action.</p>
+      
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 mt-5">
+      <div class="position-relative">
+        
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/automations.png?width=2760&amp;format=webpll 2760w,https://github.githubassets.com/images/modules/site/issues/automations.png?width=2208&amp;format=webpll 2208w,https://github.githubassets.com/images/modules/site/issues/automations.png?width=1656&amp;format=webpll 1656w,https://github.githubassets.com/images/modules/site/issues/automations.png?width=1380&amp;format=webpll 1380w,https://github.githubassets.com/images/modules/site/issues/automations.png?width=1104&amp;format=webpll 1104w,https://github.githubassets.com/images/modules/site/issues/automations.png?width=552&amp;format=webpll 552w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/issues/automations.png?width=2760 2760w,https://github.githubassets.com/images/modules/site/issues/automations.png?width=1380 1380w,https://github.githubassets.com/images/modules/site/issues/automations.png?width=1104 1104w,https://github.githubassets.com/images/modules/site/issues/automations.png?width=690 690w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="width-full height-auto mb-n10" width="2760" height="1080" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/issues/automations.png?width=2760" />
+</picture>
+      </div>
+    </div>
+</div>
+
+  </div>
+</div>
+<div class="container-xl mx-auto my-8 my-lg-10 p-responsive">
+  <h2 class="h3-mktg mx-auto col-10-max text-center">Issues, where you need them</h2>
+  <p class="f3-mktg text-center mt-2 col-6-max mx-auto color-fg-muted">Issues can be viewed, created, and managed in your browser, your favorite terminal, or on your phone or&nbsp;iPad.</p>
+
+  <div class="d-lg-flex mt-6 mt-md-9">
+    <div class="d-flex flex-column col-lg-6 mb-6 mb-md-9 mb-lg-0 mr-lg-4">
+      <span class="sr-only">Use the command line interface to check the issues assigned to you, mentioning you, and opened by you in your current repo.</span>
+
+      <div class="terminal-mktg text-mono f6-mktg box-shadow-default-border-mktg rounded-2 js-type-in" data-color-mode=dark data-light-theme=light data-dark-theme=dark>
+    <div class="px-4 pt-3 position-relative">
+        <div class="d-flex flex-row flex-nowrap position-absolute mt-1" aria-hidden="true">
+            <span class="d-inline-block circle mr-2 color-bg-emphasis" style="width: 12px; height: 12px; opacity: .4;"></span>
+            <span class="d-inline-block circle mr-2 color-bg-emphasis" style="width: 12px; height: 12px; opacity: .4;"></span>
+            <span class="d-inline-block circle mr-2 color-bg-emphasis" style="width: 12px; height: 12px; opacity: .4;"></span>
+        </div>
+
+    </div>
+
+  <div class="p-4">
+
+
+      <div class="">
+
+        <span><var># Viewing issues relevant to you</var></span>
+      </div>
+
+
+      <div class="">
+          <strong class="code-pink">→</strong>
+          <strong class="color-fg-success">~/Projects/my-project</strong>
+
+        <span class="js-type-letters">$ gh issue status</span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span> </span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span><strong>Issues assigned to you</strong></span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span>  <strong><em>#42</em></strong> Updates to game background <var>(epic:fork, meta)</var></span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span> </span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span><strong>Issues mentioning you</strong></span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span>  <strong><em>#94</em></strong> Game logic (alien, cannon, score)</span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span>  <strong><em>#11</em></strong> Tweak difficulty level based on Alpha feedback</span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span> </span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span><strong>Issues opened by you</strong></span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span>  <strong><em>#89</em></strong> Integrate with game engine</span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span>  <strong><em>#56</em></strong> Documentation and support <var>(enhancement)</var></span>
+      </div>
+
+
+      <div class="js-type-row">
+
+        <span> </span>
+      </div>
+
+
+      <div class="js-type-row">
+          <strong class="code-pink">→</strong>
+          <strong class="color-fg-success">~/Projects/my-project</strong>
+
+        <span class="js-type-letters">$ </span>
+      </div>
+
+</div></div>
+
+
+      <h3 class="h6-mktg mt-4">GitHub CLI</h3>
+      <p class="f3-mktg mt-2 color-fg-muted">View, update, and create issues without ever leaving your&nbsp;terminal.</p>
+    </div>
+    <div class="d-flex flex-column col-lg-6 ml-lg-4">
+      <div class="position-relative overflow-hidden border-bottom flex-1 js-build-in-trigger" data-build-in-stagger="100" style="max-height: 380px;" aria-label="Review code diffs and issue conversations with the GitHub Mobile app." role="img">
+        <img
+          src="https://github.githubassets.com/images/modules/site/issues/illo/issues-mobile-android.png"
+          alt=""
+          class="d-block col-8 col-md-7 col-lg-8 col-xl-7 height-auto position-relative position-lg-absolute top-0 left-0 px-4 px-md-6 px-lg-5 mb-n12 mb-lg-0 filter-shadow js-build-in-item build-in-slideY"
+          loading="lazy" decoding="async">
+        <img
+          src="https://github.githubassets.com/images/modules/site/issues/illo/issues-mobile-ios.png"
+          alt=""
+          class="d-block col-8 col-md-7 col-lg-8 col-xl-7 height-auto position-absolute top-0 right-0 mt-6 px-4 px-md-6 px-lg-5 filter-shadow js-build-in-item build-in-slideY"
+          loading="lazy" decoding="async">
+      </div>
+      <h3 class="h6-mktg mt-4">GitHub Mobile</h3>
+      <p class="f3-mktg mt-2 color-fg-muted">Create and manage issues on the go with our native iOS and Android mobile&nbsp;apps.</p>
+    </div>
+  </div>
+</div>
+
+
+<div class="overflow-hidden px-3 pb-8 pt-5">
+  <div class="container-xl">
+    
+  <div class="position-relative d-md-flex flex-items-center flex-justify-center text-left gutter-md-spacious px-3 px-lg-0 mt-8 mb-10 mt-lg-10 mb-lg-12 mx-auto ">
+    <div class="mb-4 mb-md-0 col-6 col-md-4">
+      <img src="https://github.githubassets.com/images/modules/site/issues/shopify-testimonial.jpg" width="370" height="370" alt="" class="circle height-auto width-fit" loading="lazy" decoding="async">
+    </div>
+
+  <div class="col-md-8">
+    <blockquote class="mb-4 f1-mktg text-medium">
+        <span class="position-md-absolute ml-md-n3">“</span>
+      <span class="color-fg-default">The new planning and tracking functionality keeps my project management close to my code. I no longer find myself needing to reach for spreadsheets or 3P tools which go stale instantly.</span>
+    </blockquote>
+
+
+    <cite class="d-block color-fg-muted text-mono mb-3" style="font-style: normal">
+      <span class="">Dan Godfrey</span>
+      <span aria-hidden="true" class="unselectable">//</span>
+      <span class="">Development Manager</span>
+    </cite>
+
+
+      <img loading="lazy" decoding="async" class="mr-2 mr-sm-3 mr-lg-4 width-fit" style="max-height: 2rem" alt="Shopify" src="https://github.githubassets.com/images/modules/site/issues/logos/logo-shopify.svg" />
+  </div>
+</div>
+
+
+  <div class="px-4 px-md-6 px-lg-0 mb-8 mt-6 mt-md-8 mt-lg-12 position-relative z-1 ">
+  <div class="col-lg-8 mx-auto faq-mktg" id="faq">
+    <h2 class="color-fg-default mb-md-8 mx-auto text-center col-5-max h3-mktg">Frequently asked&nbsp;questions</h2>
+
+      <div class="position-relative faq-mktg-item" id="what-is-github-issues">
+  <details class="position-relative border-bottom">
+    <summary class="position-relative list-style-none pl-4 py-4">
+      <h4 class="d-inline-block v-align-top mt-n1 col-11 ml-1 ml-lg-6 mb-0 f3-mktg text-semibold color-fg-default">
+        What is GitHub Issues?
+      </h4>
+    </summary>
+    <div class="ml-4 ml-lg-6 pl-1 pl-lg-4 mt-n3 mb-5 color-fg-muted f4-mktg position-relative z-1">
+      <p>We all need a way to plan our work, track issues, and discuss the things we build. Our answer to this universal question is GitHub Issues, and it’s built-in to every repository. GitHub’s issue tracking is unique because of our focus on simplicity, references, and elegant formatting.</p>
+<p>With GitHub Issues, you can express ideas with GitHub Flavored Markdown, assign and mention contributors, react with emojis, clarify with attachments and videos, plus reference code like commits, pull requests, and deploys. With task lists, you can break big issues into tasks, further organize your work with milestones and labels, and track relationships and dependencies.</p>
+<p>We built GitHub Issues for developers. It is simple, adaptable, and powerful.</p>
+      
+    </div>
+  </details>
+  <div class="faq-mktg-item-hover-effect position-absolute bottom-0 left-0 width-full z-n1 border-bottom"></div>
+</div>
+
+
+      <div class="position-relative faq-mktg-item" id="what-are-projects">
+  <details class="position-relative border-bottom">
+    <summary class="position-relative list-style-none pl-4 py-4">
+      <h4 class="d-inline-block v-align-top mt-n1 col-11 ml-1 ml-lg-6 mb-0 f3-mktg text-semibold color-fg-default">
+        What are Projects?
+      </h4>
+    </summary>
+    <div class="ml-4 ml-lg-6 pl-1 pl-lg-4 mt-n3 mb-5 color-fg-muted f4-mktg position-relative z-1">
+      <p>As teams and projects grow, how we work evolves. Tools that hard-code a methodology are too specific and rigid to adapt to any moment. Often, we find ourselves creating a spreadsheet or pulling out a notepad to have the space to think. Then our planning is disconnected from where the work happens.</p>
+<p>The new Projects connect your planning directly to the work your teams are doing and flexibly adapt to whatever your team needs at any point. Built like a spreadsheet, project tables give you a live canvas to filter, sort, and group issues and pull requests. You can use it, or the accompanying project board, along with custom fields, to track a sprint, plan a feature, or manage a large-scale release.</p>
+      
+    </div>
+  </details>
+  <div class="faq-mktg-item-hover-effect position-absolute bottom-0 left-0 width-full z-n1 border-bottom"></div>
+</div>
+
+
+      <div class="position-relative faq-mktg-item" id="can-i-update-existing-projects-to-use-the-new-capabilities">
+  <details class="position-relative border-bottom">
+    <summary class="position-relative list-style-none pl-4 py-4">
+      <h4 class="d-inline-block v-align-top mt-n1 col-11 ml-1 ml-lg-6 mb-0 f3-mktg text-semibold color-fg-default">
+        Can I update existing Projects to use the new capabilities?
+      </h4>
+    </summary>
+    <div class="ml-4 ml-lg-6 pl-1 pl-lg-4 mt-n3 mb-5 color-fg-muted f4-mktg position-relative z-1">
+      <p>Yes. You can migrate your existing Projects (classic) to the new GitHub Projects through a new feature preview.</p>
+<p>How it works:</p>
+<ul>
+<li>We’ll create a new project and copy all of the data from your existing project (classic) board to the new one.</li>
+<li>Once the data is copied, you can use the new project with all the new capabilities.</li>
+<li>Once the new project is ready, we will prompt you to close your “old” project, as the old project is not kept in sync.</li>
+</ul>
+      
+    </div>
+  </details>
+  <div class="faq-mktg-item-hover-effect position-absolute bottom-0 left-0 width-full z-n1 border-bottom"></div>
+</div>
+
+
+      <div class="position-relative faq-mktg-item" id="what-plans-have-access-to-projects">
+  <details class="position-relative border-bottom">
+    <summary class="position-relative list-style-none pl-4 py-4">
+      <h4 class="d-inline-block v-align-top mt-n1 col-11 ml-1 ml-lg-6 mb-0 f3-mktg text-semibold color-fg-default">
+        What plans have access to Projects?
+      </h4>
+    </summary>
+    <div class="ml-4 ml-lg-6 pl-1 pl-lg-4 mt-n3 mb-5 color-fg-muted f4-mktg position-relative z-1">
+      <p>All users have access to the free tier of GitHub Issues and Projects. For more information about paid tiers, see our pricing page.</p>
+<p>Historical charts are available for all Enterprise organizations and are currently in Preview for organizations on Team plans.**</p>
+<p>**Subject to change as we add future capabilities.</p>
+      
+    </div>
+  </details>
+  <div class="faq-mktg-item-hover-effect position-absolute bottom-0 left-0 width-full z-n1 border-bottom"></div>
+</div>
+
+
+      <div class="position-relative faq-mktg-item" id="will-the-new-projects-experience-be-available-in-github-enterprise-server">
+  <details class="position-relative border-bottom">
+    <summary class="position-relative list-style-none pl-4 py-4">
+      <h4 class="d-inline-block v-align-top mt-n1 col-11 ml-1 ml-lg-6 mb-0 f3-mktg text-semibold color-fg-default">
+        Will the new Projects experience be available in GitHub Enterprise Server?
+      </h4>
+    </summary>
+    <div class="ml-4 ml-lg-6 pl-1 pl-lg-4 mt-n3 mb-5 color-fg-muted f4-mktg position-relative z-1">
+      <p>GitHub Enterprise Server (GHES) support follows our regular cadence of one to two quarters before enabling the on-premises functionality. At the moment, we are targeting the releases of GHES 3.7 / 3.8.</p>
+      
+    </div>
+  </details>
+  <div class="faq-mktg-item-hover-effect position-absolute bottom-0 left-0 width-full z-n1 border-bottom"></div>
+</div>
+
+
+      <div class="position-relative faq-mktg-item" id="how-do-i-migrate-over-from-another-project-management-service">
+  <details class="position-relative border-bottom">
+    <summary class="position-relative list-style-none pl-4 py-4">
+      <h4 class="d-inline-block v-align-top mt-n1 col-11 ml-1 ml-lg-6 mb-0 f3-mktg text-semibold color-fg-default">
+        How do I migrate over from another project management service?
+      </h4>
+    </summary>
+    <div class="ml-4 ml-lg-6 pl-1 pl-lg-4 mt-n3 mb-5 color-fg-muted f4-mktg position-relative z-1">
+      <p>There are no migration tools from other services available at this time. We recommend starting a project with one of our templates to try out the new GitHub Projects.</p>
+      
+    </div>
+  </details>
+  <div class="faq-mktg-item-hover-effect position-absolute bottom-0 left-0 width-full z-n1 border-bottom"></div>
+</div>
+
+
+      <div class="position-relative faq-mktg-item" id="what-s-next-for-planning-on-github-issues">
+  <details class="position-relative border-bottom">
+    <summary class="position-relative list-style-none pl-4 py-4">
+      <h4 class="d-inline-block v-align-top mt-n1 col-11 ml-1 ml-lg-6 mb-0 f3-mktg text-semibold color-fg-default">
+        What&#39;s next for planning on GitHub Issues?
+      </h4>
+    </summary>
+    <div class="ml-4 ml-lg-6 pl-1 pl-lg-4 mt-n3 mb-5 color-fg-muted f4-mktg position-relative z-1">
+      <p>We are excited to continue this journey with all of you.</p>
+<p>Our roadmap evolves quarterly, but we expect a high tempo in improving core flows while delivering new functionality. Top features include:</p>
+<ul>
+<li>Built-in dependencies and relationships</li>
+<li>Access to Projects in both our GitHub Mobile iOS and Android apps</li>
+<li>Issue level custom fields that expand repositories (labels, milestones, etc.)</li>
+</ul>
+      
+    </div>
+  </details>
+  <div class="faq-mktg-item-hover-effect position-absolute bottom-0 left-0 width-full z-n1 border-bottom"></div>
+</div>
+
+
+
+  </div>
+</div>
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is GitHub Issues?","acceptedAnswer":{"@type":"Answer","text":"<p>We all need a way to plan our work, track issues, and discuss the things we build. Our answer to this universal question is GitHub Issues, and it’s built-in to every repository. GitHub’s issue tracking is unique because of our focus on simplicity, references, and elegant formatting.</p>\n<p>With GitHub Issues, you can express ideas with GitHub Flavored Markdown, assign and mention contributors, react with emojis, clarify with attachments and videos, plus reference code like commits, pull requests, and deploys. With task lists, you can break big issues into tasks, further organize your work with milestones and labels, and track relationships and dependencies.</p>\n<p>We built GitHub Issues for developers. It is simple, adaptable, and powerful.</p>"}},{"@type":"Question","name":"What are Projects?","acceptedAnswer":{"@type":"Answer","text":"<p>As teams and projects grow, how we work evolves. Tools that hard-code a methodology are too specific and rigid to adapt to any moment. Often, we find ourselves creating a spreadsheet or pulling out a notepad to have the space to think. Then our planning is disconnected from where the work happens.</p>\n<p>The new Projects connect your planning directly to the work your teams are doing and flexibly adapt to whatever your team needs at any point. Built like a spreadsheet, project tables give you a live canvas to filter, sort, and group issues and pull requests. You can use it, or the accompanying project board, along with custom fields, to track a sprint, plan a feature, or manage a large-scale release.</p>"}},{"@type":"Question","name":"Can I update existing Projects to use the new capabilities?","acceptedAnswer":{"@type":"Answer","text":"<p>Yes. You can migrate your existing Projects (classic) to the new GitHub Projects through a new feature preview.</p>\n<p>How it works:</p>\n<ul>\n<li>We’ll create a new project and copy all of the data from your existing project (classic) board to the new one.</li>\n<li>Once the data is copied, you can use the new project with all the new capabilities.</li>\n<li>Once the new project is ready, we will prompt you to close your “old” project, as the old project is not kept in sync.</li>\n</ul>"}},{"@type":"Question","name":"What plans have access to Projects?","acceptedAnswer":{"@type":"Answer","text":"<p>All users have access to the free tier of GitHub Issues and Projects. For more information about paid tiers, see our pricing page.</p>\n<p>Historical charts are available for all Enterprise organizations and are currently in Preview for organizations on Team plans.**</p>\n<p>**Subject to change as we add future capabilities.</p>"}},{"@type":"Question","name":"Will the new Projects experience be available in GitHub Enterprise Server?","acceptedAnswer":{"@type":"Answer","text":"<p>GitHub Enterprise Server (GHES) support follows our regular cadence of one to two quarters before enabling the on-premises functionality. At the moment, we are targeting the releases of GHES 3.7 / 3.8.</p>"}},{"@type":"Question","name":"How do I migrate over from another project management service?","acceptedAnswer":{"@type":"Answer","text":"<p>There are no migration tools from other services available at this time. We recommend starting a project with one of our templates to try out the new GitHub Projects.</p>"}},{"@type":"Question","name":"What's next for planning on GitHub Issues?","acceptedAnswer":{"@type":"Answer","text":"<p>We are excited to continue this journey with all of you.</p>\n<p>Our roadmap evolves quarterly, but we expect a high tempo in improving core flows while delivering new functionality. Top features include:</p>\n<ul>\n<li>Built-in dependencies and relationships</li>\n<li>Access to Projects in both our GitHub Mobile iOS and Android apps</li>\n<li>Issue level custom fields that expand repositories (labels, milestones, etc.)</li>\n</ul>"}}]}</script>
+
+
+  </div>
+</div>
+<div class="position-relative">
+  <div class="container-xl p-responsive mb-8 mb-sm-12 mb-lg-12" id="issues-cta">
+    <img src="https://github.githubassets.com/images/modules/site/issues/board-glow.png" alt="" class="position-absolute planning-tracking-cta-glow m-auto top-0 left-0 right-0 bottom-0 events-none" loading="lazy" decoding="async">
+    <div class="width-full mx-auto mb-8 px-5 px-md-8 py-6 py-lg-12 text-center color-bg-default rounded-2 position-relative z-1 box-shadow-default-border-mktg">
+      <h2 class="h2-mktg mx-auto col-7-max text-center">Flexible project planning for&nbsp;developers</h2>
+      <div class="d-sm-flex flex-justify-center mt-6 position-relative">
+        <details class="js-video-container details-reset details-overlay details-overlay-dark">
+  <summary class="js-video-play btn-mktg d-block d-sm-inline-block mb-3 mr-sm-3" role="button">Watch video&nbsp;&nbsp;<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
+    <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
+</svg>
+  </summary>
+  <details-dialog class="Box container-lg text-left border-0 overflow-auto col-12 color-fg-default" data-color-mode="dark" data-dark-theme="dark">
+    <button type="button" class="js-video-close Box-btn-octicon btn-octicon position-absolute top-0 right-0 px-2 py-1 mr-0 mt-0 border-0 z-3" aria-label="Close" data-close-dialog><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg></button>
+    <div class="position-relative">
+      <svg aria-hidden="true" viewBox="0 0 1920 1080" version="1.1" width="1920" height="1080" class="width-full height-auto d-block"></svg>
+      <iframe class="js-video-iframe position-absolute width-full height-full top-0 left-0 border-0"
+        data-src="https://www.youtube.com/embed/o1wuW24Nv4E?autoplay=1&amp;rel=0"
+        title="The new GitHub Issues" type="text/html" width="1920" height="1080" frameborder="0" allowfullscreen allow="autoplay;">
+      </iframe>
+    </div>
+  </details-dialog>
+</details>
+
+
+  <a class="btn-mktg mb-3 d-none d-sm-inline-block btn-muted-mktg" data-analytics-event="{&quot;category&quot;:&quot;Start using project tables&quot;,&quot;action&quot;:&quot;click to Start using project tables&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Start using project tables;&quot;}" href="/login?return_to=https%3A%2F%2Fgithub.com%2Ffeatures%2Fissues">
+  Start using project tables
+  
+  
+</a>
+
+<a class="btn-mktg mb-3 d-block d-sm-none btn-muted-mktg" data-analytics-event="{&quot;category&quot;:&quot;Manage issues on the go&quot;,&quot;action&quot;:&quot;click to Manage issues on the go&quot;,&quot;label&quot;:&quot;ref_page:/features/issues;ref_cta:Manage issues on the go;&quot;}" href="/mobile">
+  Manage issues on the go
+  
+  
+</a>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+</main>
+
+  </div>
+
+            <footer class="footer pt-6 position-relative" >
+  <div class="container-xl p-responsive">
+    <div class="d-flex flex-wrap py-5 mb-5">
+      <div class="col-12 col-lg-4 mb-5">
+        <a href="/" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to home&quot;,&quot;label&quot;:&quot;text:home&quot;}" class="color-fg-default d-inline-block" aria-label="Go to GitHub homepage">
+          <svg height="30" aria-hidden="true" viewBox="0 0 45 16" version="1.1" width="84" data-view-component="true" class="octicon octicon-logo-github footer-logo-mktg width-auto d-block">
+    <path fill-rule="evenodd" d="M18.53 12.03h-.02c.009 0 .015.01.024.011h.006l-.01-.01zm.004.011c-.093.001-.327.05-.574.05-.78 0-1.05-.36-1.05-.83V8.13h1.59c.09 0 .16-.08.16-.19v-1.7c0-.09-.08-.17-.16-.17h-1.59V3.96c0-.08-.05-.13-.14-.13h-2.16c-.09 0-.14.05-.14.13v2.17s-1.09.27-1.16.28c-.08.02-.13.09-.13.17v1.36c0 .11.08.19.17.19h1.11v3.28c0 2.44 1.7 2.69 2.86 2.69.53 0 1.17-.17 1.27-.22.06-.02.09-.09.09-.16v-1.5a.177.177 0 00-.146-.18zM42.23 9.84c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25zm2.43-.16c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88zm-8.72-3.61h-2.1c-.11 0-.17.08-.17.19v5.44s-.55.39-1.3.39-.97-.34-.97-1.09V6.25c0-.09-.08-.17-.17-.17h-2.14c-.09 0-.17.08-.17.17v5.11c0 2.2 1.23 2.75 2.92 2.75 1.39 0 2.52-.77 2.52-.77s.05.39.08.45c.02.05.09.09.16.09h1.34c.11 0 .17-.08.17-.17l.02-7.47c0-.09-.08-.17-.19-.17zm-23.7-.01h-2.13c-.09 0-.17.09-.17.2v7.34c0 .2.13.27.3.27h1.92c.2 0 .25-.09.25-.27V6.23c0-.09-.08-.17-.17-.17zm-1.05-3.38c-.77 0-1.38.61-1.38 1.38 0 .77.61 1.38 1.38 1.38.75 0 1.36-.61 1.36-1.38 0-.77-.61-1.38-1.36-1.38zm16.49-.25h-2.11c-.09 0-.17.08-.17.17v4.09h-3.31V2.6c0-.09-.08-.17-.17-.17h-2.13c-.09 0-.17.08-.17.17v11.11c0 .09.09.17.17.17h2.13c.09 0 .17-.08.17-.17V8.96h3.31l-.02 4.75c0 .09.08.17.17.17h2.13c.09 0 .17-.08.17-.17V2.6c0-.09-.08-.17-.17-.17zM8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17z"></path>
+</svg>
+        </a>
+
+
+      </div>
+
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-lg-0 pl-lg-4">
+        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+          Product
+        </h2>
+
+        <ul class="list-style-none color-fg-muted f5">
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to features&quot;,&quot;label&quot;:&quot;text:features&quot;}" href="/features">Features</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="/security">Security</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to team&quot;,&quot;label&quot;:&quot;text:team&quot;}" href="/team">Team</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to enterprise&quot;,&quot;label&quot;:&quot;text:enterprise&quot;}" href="/enterprise">Enterprise</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to customer stories&quot;,&quot;label&quot;:&quot;text:customer stories&quot;}" href="/customer-stories?type=enterprise">Customer stories</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to the readme project&quot;,&quot;label&quot;:&quot;text:the readme project&quot;}" href="/readme">The ReadME Project</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to pricing&quot;,&quot;label&quot;:&quot;text:pricing&quot;}" href="/pricing">Pricing</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to resources&quot;,&quot;label&quot;:&quot;text:resources&quot;}" href="https://resources.github.com">Resources</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to roadmap&quot;,&quot;label&quot;:&quot;text:roadmap&quot;}" href="https://github.com/github/roadmap">Roadmap</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+          Platform
+        </h2>
+
+        <ul class="list-style-none f5">
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}" href="https://docs.github.com">Developer API</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to partner&quot;,&quot;label&quot;:&quot;text:partner&quot;}" href="https://partner.github.com">Partners</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to atom&quot;,&quot;label&quot;:&quot;text:atom&quot;}" href="https://atom.io">Atom</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to electron&quot;,&quot;label&quot;:&quot;text:electron&quot;}" href="https://www.electronjs.org">Electron</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to desktop&quot;,&quot;label&quot;:&quot;text:desktop&quot;}" href="https://desktop.github.com/">GitHub Desktop</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+          Support
+        </h2>
+
+        <ul class="list-style-none f5">
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to help&quot;,&quot;label&quot;:&quot;text:Docs&quot;}" href="https://docs.github.com">Docs</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to community&quot;,&quot;label&quot;:&quot;text:community&quot;}" href="https://github.community">Community Forum</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to professional services&quot;,&quot;label&quot;:&quot;text:professional services&quot;}" href="https://services.github.com/">Professional Services</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to skills&quot;,&quot;label&quot;:&quot;text:skills&quot;}" href="https://skills.github.com/">Skills</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}" href="https://www.githubstatus.com/">Status</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}" href="https://support.github.com?tags=dotcom-footer">Contact GitHub</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+          Company
+        </h2>
+
+        <ul class="list-style-none f5">
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to about&quot;,&quot;label&quot;:&quot;text:about&quot;}" href="https://github.com/about">About</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}" href="https://github.blog">Blog</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to careers&quot;,&quot;label&quot;:&quot;text:careers&quot;}" href="/about/careers">Careers</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to press&quot;,&quot;label&quot;:&quot;text:press&quot;}" href="/about/press">Press</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to diversity&quot;,&quot;label&quot;:&quot;text:Inclusion&quot;}" href="/about/diversity">Inclusion</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to social impact&quot;,&quot;label&quot;:&quot;text:social impact&quot;}" href="https://socialimpact.github.com/">Social Impact</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to shop&quot;,&quot;label&quot;:&quot;text:shop&quot;}" href="https://shop.github.com">Shop</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="color-bg-subtle">
+    <div class="container-xl p-responsive f6 py-4 d-sm-flex flex-justify-between flex-row-reverse flex-items-center">
+      <ul class="list-style-none d-flex flex-items-center mb-3 mb-sm-0 lh-condensed-ultra">
+        <li class="mr-3">
+          <a href="https://twitter.com/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Twitter&quot;,&quot;label&quot;:&quot;text:twitter&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/twitter.svg" height="18" width="22"  class="d-block" loading="lazy" decoding="async" alt="Twitter icon">
+            <span class="sr-only">GitHub on Twitter</span>
+          </a>
+        </li>
+        <li class="mr-3">
+          <a href="https://www.facebook.com/GitHub" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Facebook&quot;,&quot;label&quot;:&quot;text:facebook&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/facebook.svg" width="18" height="18"  class="d-block" loading="lazy" decoding="async" alt="Facebook icon">
+            <span class="sr-only">GitHub on Facebook</span>
+          </a>
+        </li>
+        <li class="mr-3 flex-self-start">
+          <a href="https://www.linkedin.com/company/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Linkedin&quot;,&quot;label&quot;:&quot;text:linkedin&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/linkedin.svg" width="19" height="18" class="d-block" loading="lazy" decoding="async" alt="Linkedin icon">
+            <span class="sr-only">GitHub on LinkedIn</span>
+          </a>
+        </li>
+        <li class="mr-3">
+          <a href="https://www.youtube.com/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to YouTube&quot;,&quot;label&quot;:&quot;text:youtube&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/youtube.svg" width="23" height="16"  class="d-block" loading="lazy" decoding="async" alt="YouTube icon">
+            <span class="sr-only">GitHub on YouTube</span>
+          </a>
+        </li>
+        <li class="mr-3">
+          <a href="https://www.twitch.tv/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Twitch&quot;,&quot;label&quot;:&quot;text:twitch&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/twitch.svg" width="18" height="18"  class="d-block" loading="lazy" decoding="async" alt="Twitch icon">
+            <span class="sr-only">GitHub on Twitch</span>
+          </a>
+        </li>
+        <li class="mr-3">
+          <a href="https://www.tiktok.com/@_github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to YouTube&quot;,&quot;label&quot;:&quot;text:youtube&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/tiktok.svg" width="18" height="18"  class="d-block" loading="lazy" decoding="async" alt="TikTok icon">
+            <span class="sr-only">GitHub on TikTok</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to github&#39;s org&quot;,&quot;label&quot;:&quot;text:github&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" width="20" height="20" class="d-block" loading="lazy" decoding="async" alt="GitHub mark">
+            <span class="sr-only">GitHub’s organization on GitHub</span>
+          </a>
+        </li>
+      </ul>
+
+      <ul class="list-style-none d-flex flex-wrap color-fg-muted">
+        <li class="mr-3">
+          &copy; 2022 GitHub, Inc.
+        </li>
+
+        <li class="mr-3">
+          <a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}" class="Link--secondary">Terms</a>
+        </li>
+
+        <li class="mr-3">
+          <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}" class="Link--secondary">Privacy</a>
+          (<a href="https://github.com/github/site-policy/pull/582" class="Link--secondary">Updated 08/2022</a>)
+        </li>
+
+        <li class="mr-3">
+          <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to site map&quot;,&quot;label&quot;:&quot;text:site map&quot;}" href="/site-map">Site Map</a>
+        </li>
+
+        <li>
+          <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Git Guides&quot;,&quot;label&quot;:&quot;text:What is Git?&quot;}" href="/git-guides">What is Git?</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+  <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
+    >
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+    <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+    <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+    <template id="snippet-clipboard-copy-button">
+  <div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+    </clipboard-copy>
+  </div>
+</template>
+
+
+
+
+  </body>
+</html>
+

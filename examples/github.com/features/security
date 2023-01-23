@@ -1,0 +1,1585 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en"  data-a11y-animated-images="system">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+  <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
+  <link rel="preconnect" href="https://avatars.githubusercontent.com">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-UXiu4O52iBFkqt6Kx5t+pqHYP2/LWWIw9+l5ia74TWw+xPzpH44BFfAQp7yzCe0XFGZa72Xiqyml6tox1KkUjw==" rel="stylesheet" href="https://github.githubassets.com/assets/light-5178aee0ee76.css" /><link crossorigin="anonymous" media="all" integrity="sha512-IX1PnI5wWBz8Kgb1JI0f2QFa/WuRQQHJHe0vkKinQzsxRlNb4b8NgODX5htSZVAAkA1O6Vch+RRlDTI8j96slA==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-217d4f9c8e70.css" /><link data-color-theme="light" crossorigin="anonymous" media="all" integrity="sha512-UXiu4O52iBFkqt6Kx5t+pqHYP2/LWWIw9+l5ia74TWw+xPzpH44BFfAQp7yzCe0XFGZa72Xiqyml6tox1KkUjw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light-5178aee0ee76.css" /><link data-color-theme="dark" crossorigin="anonymous" media="all" integrity="sha512-IX1PnI5wWBz8Kgb1JI0f2QFa/WuRQQHJHe0vkKinQzsxRlNb4b8NgODX5htSZVAAkA1O6Vch+RRlDTI8j96slA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark-217d4f9c8e70.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-Ct+ijw5ofrvpiRNwv+EhmU4CBCIgm7ApMfRCT8IQK4luRFZf8tLg0CC0VLyTPVLgMbQ9+74znLAZwi1RSzjpiA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-0adfa28f0e68.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-HIV1s2ZEVz1WLyBRua8znQozNKaQ0LM5AHRX9sMlitm5TNY3QMJzKsRD5FPCF9oluzIXNO9JxRK4bBjxGhcctA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-1c8575b36644.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-URPSviCw4m4n71IKn4qyu7MEDpGbCiTfsMTNrUjPwcg38KtEKDt12vzjlNzoy3YDFiQ8D0TCCYKCtrZpqX097g==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-5113d2be20b0.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-yWrddCSE7sqLZ4iqcSOoAsVnCbxs4IgN+oDKgxarp3O6V9dQ8XKyE+ffedHQa55VkB1tY0iNI3QqACG8p1k8IA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-c96add742484.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-KQ+S9ehnvP9vzfiaBA1FbrSWS1RuJBo/ez+bKUm+XKGEMR22w7Oyc712UyVcpYIqpTCTvaaJ3MfeU0x4xPeI+A==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-290f92f5e867.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-zdiPFGv3QFuv1X24wK9Sa7DM3W/It82kehdMBrepjoJJyJyBISVFUJLvMMkvr4uu8j11Rn35dXZiVrN1FNWzGA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-cdd88f146bf7.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-IXHqDweLGMT47BTl4v+0woPqFAAtkFBeVqg9U/AliukeUyVREIssCu32RfWmXNdMjwmdVBcS+q9SMQMYuYF5dQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-2171ea0f078b.css" />
+  
+    <link crossorigin="anonymous" media="all" integrity="sha512-HAKyct63ixiRBJOFvv6TS1STV+XArD2zaQcMn9U7bKK4/rwxyzHlOWW15eei3144n4kNWAJneZlHOGJuPpxVHg==" rel="stylesheet" href="https://github.githubassets.com/assets/primer-1c02b272deb7.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-eBxxk+er0Vaq05LzSBTDNMbanUS97oOz/SVRXoyV5zKi3o24e2rWJgSCeqrZXTkosoXDyR4giX3Oy+mAOX7ydQ==" rel="stylesheet" href="https://github.githubassets.com/assets/global-781c7193e7ab.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-Nl5dLPJpQAnK7cCIINadeUZS76WLJNJEiVjGCvMRBf2PjQ9d7nrwSXGtKN5oTOrjwAQqcO81+oc2b47dcErdTQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-365e5d2cf269.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-E8uOf3ObzgUHTwfkZOT04C/dbGPYF4fWSXFt7f2eTuOs6NsHnDWDyiUr5mg1VjaHxAsqaKWAIGyKB83UwUuVQQ==" rel="stylesheet" href="https://github.githubassets.com/assets/site-13cb8e7f739b.css" />
+<link crossorigin="anonymous" media="all" integrity="sha512-SUVMH9/1415Xh0XzNwzMKgMVg2JvivFSZoIzV9oVzTgozEC0c+erWvDFR/mfp+RDlv/AINzn3JVSoiiltHRLZw==" rel="stylesheet" href="https://github.githubassets.com/assets/feature-security-49454c1fdff5.css" />
+
+
+
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Qf6H3d/WKfqyt9SDqkxLjo0WjoENufhrRxXacl4lTLN1xpCxJY06TGeEPgqe1hthjozeNJsDAyO8WGNTEUsCqw==" src="https://github.githubassets.com/assets/runtime-41fe87dddfd6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ivm676uepRn1vQvL/mShZVrbNfsUUZRp0a2RCZNYrFJYFlYhdDU2P+UC8axgVT17oqv1BVQLngSsGoiBN2MJpw==" src="https://github.githubassets.com/assets/vendors-node_modules_manuelpuyol_turbo_dist_turbo_es2017-esm_js-8af9baefab9e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-wdY9IwspBfH+ypwfAHhmLM1NHmc47fnC3OBSM2oCVMP6TITrDyusuknqLqtAY8SEcRhRdGYxEVwyCu/gqqIpTQ==" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-d351f6-c1d63d230b29.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-U5AnTEJQ2sm/SJp7Xb3d9ttzr1VDfRXR60L4iAZuEOXKqHrFLLO94N/R6/R9sGEt625slTJA5mtyHNhGYBN1XA==" src="https://github.githubassets.com/assets/environment-5390274c4250.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ZQM3kW293O7WR1cDuHZ02wendjejLzwVD0wy4L1eCNr34RHXiY05wmHUx4hnV9WELD/OEZRGrzK+M8uwiZ/WEw==" src="https://github.githubassets.com/assets/vendors-node_modules_selector-observer_dist_index_esm_js-650337916dbd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Si8390GeCVPslYj8WomaMCyj33Jutd8vZ+Sdi6WXLSbdZRyC4wwijhTNyLy0zpHhfYnrynP6qArdz1PXti1sOg==" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_details-dialog-elemen-63debe-4a2f37f7419e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-LUl+qivNxqamoMiZCJeeGkz+Cs5rfTOGTi7OZeSNYd0KNkr4uqZCiEfDHL2eoVWd0p+sm3UB3CoT/ngeHH9DcA==" src="https://github.githubassets.com/assets/vendors-node_modules_fzy_js_index_js-node_modules_github_combobox-nav_dist_index_js-node_modu-344bff-2d497eaa2bcd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-dtG985gksn9OuQNxtqqBpmWLH78Eh+YwATyKAxgIeZTOq6OkdJOqYnRQWmn062dW7HWcnbZIUGwihQ88CWFKjQ==" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-5333cf-76d1bdf39824.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-OMNqWXGEHws0bOVmDm9Nau8e8ZrjKUF77hq8heNd45JYuDu+gm4tZhYB/bUbysfBQ/6y31S1R0VIpjOHiCotUA==" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_time-elements_dist_index_js-38c36a597184.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-v1sav4iQ94uVwtEQBUjGttBrLVVCIfm+JJ45WWW//Jed0qdArhaUVg3YZcYqSRsgRWrkXBFDRAI6pM2Vi76f7g==" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-b3d32f-bf5b1abf8890.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-kRWSdBp/S1Wd12IPh0815Cfw0r4b4Wa1/KSPboka1wM4rBbpXa7DOMPC86lIZVyOsBWrDLp/k2QVRW2X21VBQA==" src="https://github.githubassets.com/assets/github-elements-911592741a7f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-bbROUYcrfmSfOq4H2mvkYxwbCwHodRs1E8QKQklBvSi+e9GfS8HqZGZeJ2j6NUvsAze3gGRmxZcBxi8rmQfexA==" src="https://github.githubassets.com/assets/element-registry-6db44e51872b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-6VTowByTC7C1Ae4nuESJ5iT76vchmVCzjuit7IR83B/TPkwjSserSlr83SYhLvIfNLvJfB2zH0bHBr8+fzIa+w==" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-e954e8c01c93.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-3YkTrGWwrb2whIVWEwKEhghL4yI2UAHnLW/QtnYMQFLkfQUYD3gtJ2WqDJg8wzzSm0rP05KFDOsKKx4a1wQRdA==" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_hotkey_dist_index-9f48bd-dd8913ac65b0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-YlZzfDs0sJwb4LDPoYGzppaasG/yvY8DolVk64u7Kjpyz/NpKS3E7toBkHcDxNSB8x7mlDDjC2nHuWiltsMGvQ==" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_github_catalyst_lib_index_-bd1f73-6256737c3b34.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-V4+K12am3OXCOQYegHoAFHR3Y4Zy9u97+gR5aLOTVia3tTeNPe39FlKnvnwjndeuEOWfkzXKB2iL2UwOKOZM+g==" src="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_koddsson_textarea-c-586f78-578f8ad766a6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-aAzQ7LXrHAgOw4OrHRsvCUubFRM6jygc4Ba/Z+OXZlJmXRuYY24BkINAluXpELBA3mFV+HDPCYVtTjkKzg/tgQ==" src="https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-332ba8-680cd0ecb5eb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Ky/nOHVJrk8pKX1LQs7RNC84/0TZTaG2RZgu0NYiiQCF/ZwIDHvLVwE3Cpte1lMwtmxe9EIP9ukdvfPhXOBm/A==" src="https://github.githubassets.com/assets/app_assets_modules_github_soft-nav_navigate_ts-2b2fe7387549.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-KD3D2b33I5qaAa+WTVFFwYVEJ8IU3yIPmJzm7DJz/4EXR77iHpG/FmALojXov3metaa41+XcrQKAf1e5iBmFWw==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_keyboard-shortcuts-helper_ts-app_assets_modules_github_di-9b8a64-283dc3d9bdf7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-sFfyQjq1ObFkfG0l+z9HzzoSicV7DnX6adtbhmwkcwapEIZkJef1OWQl3cYK14uRj/DZcMBTf9630E9xIyxDeA==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_has-interactions_t-0091d6-b057f2423ab5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-2/yZbbsa0eoF4BF8AKcHb9138TwEo5Rut7Y4qccJG6jw743B22M0oxT//bBs1CM9bTUqN3OAMf4k2mFl4+oYEQ==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_details_ts-app_assets_modules_github_behaviors_include-fr-29e9d6-dbfc996dbb1a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-23lZtf/52z40ONnc8LqhXQ+V9egvurRHmvCUvgTJffdld26nI1WnOdt/T/cS10mOmyOYXMCh8EC+UgMrnENNXg==" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-db7959b5fff9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-IMCei848LlpvGW22ByCgsaHBR06wJDRKx4BfVff0fOY7bjj/cg3ZyAxzC6X4LpPpi5QjtoAKlxtLp6RWXa4ZIQ==" src="https://github.githubassets.com/assets/behaviors-20c09e8bce3c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-sBMWdU4gNYQCipbJqsK4SMltTx7u8+15gnwz2Ag8mncGk+kYYyNHGr5eESzm5qp3aYfrYNaglenhEM4lIktOhw==" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff533-b01316754e20.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-R7o1000dzeCE1mcYw+5zqKJlpzHvN84vPKJNcySE14vOICRT/0mpRTeZ1guSksLNZFDrQE58mpt4/wJSn03Gtw==" src="https://github.githubassets.com/assets/notifications-global-47ba35d34d1d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-nDImJ3fmVf9CUtXxwg4JLME8NdbuZYjy0HpQl4krXMo6QZGkSLZYHpo0hKeS3jpTbYeUNHHyQkSYeRuDUhLQkA==" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-9c32262777e6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ktOi65NNIQl1ROKZa1vlMB0fXHF4Yk5YEYwlga8kDX9Pgb4ee0U+5nrMMkHpNWgNIbecgfY3YkW3Mg7L6mYHJA==" src="https://github.githubassets.com/assets/marketing-92d3a2eb934d.js"></script>
+  
+
+  <title>Features · Security · GitHub</title>
+
+
+
+    
+
+  <meta name="request-id" content="0AE1:6B23:2B183B:2CB78E:63043935" data-pjax-transient="true"/><meta name="html-safe-nonce" content="8886fd9f96962ff57eb7acfa2053130b3695b3db8cb45716774f7f2a58c211b0" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mYWNlYm9va3Jlc2VhcmNoL2ZhaXJzZXEvdHJlZS9ubGxiL2V4YW1wbGVzL25sbGIiLCJyZXF1ZXN0X2lkIjoiMEFFMTo2QjIzOjJCMTgzQjoyQ0I3OEU6NjMwNDM5MzUiLCJ2aXNpdG9yX2lkIjoiMzY1ODQ5MDcyMTA2Mjg5Mzg3MiIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6InNlYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="44786ad9ba8e6a581aa875daad3b24633db2e211d2c4892d3e2fbcf295a4cf8d" data-pjax-transient="true"/>
+
+
+
+  <meta name="github-keyboard-shortcuts" content="" data-pjax-transient="true" />
+  
+
+  <meta name="selected-link" value="/features/security" data-pjax-transient>
+
+    <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
+  <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+<meta name="octolytics-url" content="https://collector.github.com/github/collect" />
+
+  
+
+  
+
+
+
+
+  
+
+    <meta name="user-login" content="">
+
+  
+
+    <meta name="viewport" content="width=device-width">
+    
+      <meta name="description" content="Build on a secure foundation.">
+      <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <meta property="fb:app_id" content="1401488693436528">
+    <meta name="apple-itunes-app" content="app-id=1477376905" />
+      <meta name="twitter:image:src" content="https://github.githubassets.com/images/modules/site/social-cards/security.jpg?v=2" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Features • Security" /><meta name="twitter:description" content="Build on a secure foundation." />
+      <meta property="og:image" content="https://github.githubassets.com/images/modules/site/social-cards/security.jpg?v=2" /><meta property="og:image:alt" content="Build on a secure foundation." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Features • Security" /><meta property="og:url" content="https://github.com/features/security" /><meta property="og:description" content="Build on a secure foundation." />
+      
+    <link rel="assets" href="https://github.githubassets.com/">
+
+
+        <meta name="hostname" content="github.com">
+
+
+
+        <meta name="expected-hostname" content="github.com">
+
+    <meta name="enabled-features" content="IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS">
+
+
+  <meta http-equiv="x-pjax-version" content="db4b81a2c0332072429325dc76ad24ab703afb252506199b2332749bacd230bd" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-csp-version" content="d36423f9dec35f40d75bda7103dfcd1e46c44bd6aac49a971abe9919b3354f73" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="2090941f4439871f4f43e722475ee96d493d4d64db92d09119d37ac7e7096c99" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="095abf7f9e18671148dbc6f05a44ab25316e98a756627facf9805ae20343bc76" data-turbo-track="reload">
+
+  <meta name="turbo-cache-control" content="no-preview" data-pjax-transient="">
+
+      <link rel="preload" href="https://github.githubassets.com/static/fonts/github/alliance-1.woff2" as="font" type="font/woff2" crossorigin>
+
+
+
+  <meta name="turbo-body-classes" content="logged-out env-production page-responsive">
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
+    
+
+    <div class="position-relative js-header-wrapper ">
+      <a href="#start-of-content" class="px-2 py-4 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
+      <span data-view-component="true" class="progress-pjax-loader js-pjax-loader-bar Progress position-fixed width-full">
+    <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
+</span>      
+      
+
+
+        
+
+            <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-QXIxqYUlWaXrcdN4cHQlC5KXn2kLBmHHRGsR9I8V663O/bmVvt+hQVH2G6R2rttQ9EshUvuGIDdGQkVH4OA/8w==" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-417231a98525.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-MZCSrz0zsvcOl7aWH/U2sbVkQxfQHqMzLn7XCqqpA5yRhkPoC2u8aQ9pOuNezZVhEOIGms8DNg7V1+iwijR3lA==" src="https://github.githubassets.com/assets/sessions-319092af3d33.js"></script>
+<header class="Header-old header-logged-out js-details-container Details position-relative f4 py-2" role="banner">
+  <div class="container-xl d-lg-flex flex-items-center p-responsive">
+    <div class="d-flex flex-justify-between flex-items-center">
+      <a class="mr-4 color-fg-inherit" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+        <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github">
+    <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+</svg>
+      </a>
+
+        <div class="d-lg-none css-truncate css-truncate-target width-fit p-2">
+          
+
+        </div>
+
+      <div class="d-flex flex-items-center">
+            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Ffeatures%2Fsecurity&amp;source=header"
+              class="d-inline-block d-lg-none f5 no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5 color-fg-inherit"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/features/security&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="72de2bde0fc156bd6dd02581779e9d65fd00595ece541447b5569dc05a47bf46"
+            >
+              Sign&nbsp;up
+            </a>
+
+          <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="js-details-target btn-link d-lg-none mt-1 color-fg-inherit">    <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true" class="octicon octicon-three-bars">
+    <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+</svg>
+</button>      </div>
+    </div>
+
+    <div class="HeaderMenu HeaderMenu--logged-out position-fixed top-0 right-0 bottom-0 height-fit position-lg-relative d-lg-flex flex-justify-between flex-items-center flex-auto">
+      <div class="d-flex d-lg-none flex-justify-end border-bottom color-bg-subtle p-3">
+          <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="js-details-target btn-link">    <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-x color-fg-muted">
+    <path fill-rule="evenodd" d="M5.72 5.72a.75.75 0 011.06 0L12 10.94l5.22-5.22a.75.75 0 111.06 1.06L13.06 12l5.22 5.22a.75.75 0 11-1.06 1.06L12 13.06l-5.22 5.22a.75.75 0 01-1.06-1.06L10.94 12 5.72 6.78a.75.75 0 010-1.06z"></path>
+</svg>
+</button>      </div>
+
+        <nav class="mt-0 px-3 px-lg-0 mb-5 mb-lg-0" aria-label="Global">
+          <ul class="d-lg-flex list-style-none">
+              <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <details class="HeaderMenu-details details-overlay details-reset width-full">
+      <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+        Product
+        <svg x="0" y="0" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative"><path d="M1,1l6.2,6L13,1"></path></svg>
+      </summary>
+      <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+        <ul class="list-style-none f5 pb-1">
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Features;&quot;}" href="/features">
+      Features
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Mobile;&quot;}" href="/mobile">
+      Mobile
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Actions;&quot;}" href="/features/actions">
+      Actions
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+      Codespaces
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Copilot;&quot;}" href="/features/copilot">
+      Copilot
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Packages;&quot;}" href="/features/packages">
+      Packages
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Security;&quot;}" href="/features/security">
+      Security
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Code review;&quot;}" href="/features/code-review">
+      Code review
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Issues;&quot;}" href="/features/issues">
+      Issues
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Discussions;&quot;}" href="/features/discussions">
+      Discussions
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Integrations;&quot;}" href="/features/integrations">
+      Integrations
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+      GitHub Sponsors
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Customer stories;&quot;}" href="/customer-stories">
+      Customer stories
+</a>  </li>
+
+        </ul>
+      </div>
+    </details>
+</li>
+
+
+              <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Team;&quot;}" href="/team">Team</a>
+</li>
+
+              <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
+</li>
+
+
+            <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <details class="HeaderMenu-details details-overlay details-reset width-full">
+      <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+        Explore
+        <svg x="0" y="0" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative"><path d="M1,1l6.2,6L13,1"></path></svg>
+      </summary>
+      <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+        <ul class="list-style-none f5 pb-1">
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Explore GitHub;&quot;}" href="/explore">
+      Explore GitHub
+</a>  </li>
+
+              <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Learn and contribute</li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Topics;&quot;}" href="/topics">
+      Topics
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Collections;&quot;}" href="/collections">
+      Collections
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Trending;&quot;}" href="/trending">
+      Trending
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Skills&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Skills;&quot;}" href="https://skills.github.com/">
+      Skills
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors/explore">
+      GitHub Sponsors
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
+      Open source guides
+</a>  </li>
+
+              <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Connect with others</li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:The ReadME Project;&quot;}" href="/readme">
+      The ReadME Project
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Events;&quot;}" href="/events">
+      Events
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Community forum;&quot;}" href="https://github.community">
+      Community forum
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
+      GitHub Education
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
+      GitHub Stars program
+</a>  </li>
+
+        </ul>
+      </div>
+    </details>
+</li>
+
+
+            <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
+</li>
+
+
+            <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <details class="HeaderMenu-details details-overlay details-reset width-full">
+      <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+        Pricing
+        <svg x="0" y="0" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative"><path d="M1,1l6.2,6L13,1"></path></svg>
+      </summary>
+      <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+        <ul class="list-style-none f5 pb-1">
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Plans;&quot;}" href="/pricing">
+      Plans
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
+      Compare plans
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
+      Contact Sales
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Education;&quot;}" href="https://education.github.com">
+      Education
+</a>  </li>
+
+        </ul>
+      </div>
+    </details>
+</li>
+
+          </ul>
+        </nav>
+
+      <div class="d-lg-flex flex-items-center px-3 px-lg-0 text-center text-lg-left">
+          <div class="d-lg-flex min-width-0 mb-3 mb-lg-0">
+            
+
+
+
+<div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 js-jump-to"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-unscoped-search-url="/search" data-turbo="false" action="/search" accept-charset="UTF-8" method="get">
+      <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+        <input type="text"
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus "
+          data-hotkey=s,/
+          name="q"
+          data-test-selector="nav-search-input"
+          placeholder="Search GitHub"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          role="combobox"
+          aria-haspopup="listbox"
+          aria-expanded="false"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search GitHub"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
+          spellcheck="false"
+          autocomplete="off"
+        >
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="ywk5Ht2M5wcNOYj1up8SpyzhCE4uCQ7P/IQRsxF7J5KVrP2HKYIYtFzn5/xDDOratsAsthbtqC3MG3RrykJKfQ==" />
+        <input type="hidden" class="js-site-search-type-field" name="type" >
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
+
+
+          <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+            
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="suggestion">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in all of GitHub">
+        Search
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="color-fg-muted">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="scoped_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in all of GitHub">
+        Search
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-owner-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="owner_scoped_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in all of GitHub">
+        Search
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="global_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in all of GitHub">
+        Search
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+</ul>
+
+          </div>
+      </label>
+</form>  </div>
+</div>
+
+          </div>
+
+        <div class="position-relative mr-3 mb-4 mb-lg-0 d-inline-block">
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Ffeatures%2Fsecurity"
+            class="HeaderMenu-link flex-shrink-0 no-underline"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/features/security&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="227b227a3e495c6f8db8423dfbd99bf0fb0abca34de9b5d98c0ae1d2d8bb9860"
+            data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
+            Sign in
+          </a>
+        </div>
+
+          <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Ffeatures%2Fsecurity&amp;source=header"
+            class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-default rounded px-2 py-1"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/features/security&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="227b227a3e495c6f8db8423dfbd99bf0fb0abca34de9b5d98c0ae1d2d8bb9860"
+            data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+          >
+            Sign up
+          </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+    </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+
+
+    <div data-pjax-replace id="js-flash-container" data-turbo-replace>
+
+
+
+  <template class="js-flash-template">
+    
+<div class="flash flash-full   {{ className }}">
+  <div class="px-2" >
+    <button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+    </button>
+    
+      <div>{{ message }}</div>
+
+  </div>
+</div>
+  </template>
+</div>
+
+
+    
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+
+
+
+
+  <div
+    class="application-main "
+    data-commit-hovercards-enabled
+    data-discussion-hovercards-enabled
+    data-issue-and-pr-hovercards-enabled
+  >
+        <main class="font-mktg">
+<div class="sub-nav-mktg js-toggler-container js-sticky js-position-sticky top-0 width-full z-3">
+  <div class="container-xl sub-nav-mktg-wrapper d-flex flex-items-center p-3">
+    <button type="button" class="btn-octicon sub-nav-mktg-toggle d-lg-none p-1 flex-order-1 float-right js-toggler-target" aria-label="Toggle page navigation">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-chevron-down on-hidden">
+    <path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path>
+</svg>
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-x on-visible">
+    <path fill-rule="evenodd" d="M5.72 5.72a.75.75 0 011.06 0L12 10.94l5.22-5.22a.75.75 0 111.06 1.06L13.06 12l5.22 5.22a.75.75 0 11-1.06 1.06L12 13.06l-5.22 5.22a.75.75 0 01-1.06-1.06L10.94 12 5.72 6.78a.75.75 0 010-1.06z"></path>
+</svg>
+    </button>
+
+    <a href="/features/security" class="Link--primary no-underline f2-mktg d-inline-block text-bold mb-1 mr-5">Security</a>
+
+    <div class="sub-nav-mktg-links flex-auto f4-mktg with-title">
+        <a href="/features/security" class="sub-nav-mktg-link Link--primary no-underline py-1 py-lg-2 mr-lg-3 active" data-analytics-event="{&quot;category&quot;:&quot;Overview&quot;,&quot;action&quot;:&quot;click nav item to go to Overview&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Overview;&quot;}">Overview</a>
+        <a href="/features/security/code" class="sub-nav-mktg-link Link--primary no-underline py-1 py-lg-2 mr-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Overview&quot;,&quot;action&quot;:&quot;click nav item to go to Code&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Overview;&quot;}">Code</a>
+        <a href="/features/security/software-supply-chain" class="sub-nav-mktg-link Link--primary no-underline py-1 py-lg-2 mr-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Overview&quot;,&quot;action&quot;:&quot;click nav item to go to Supply-chain&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Overview;&quot;}">Supply-chain</a>
+    </div>
+
+      <div class="sub-nav-mktg-ctas ml-lg-3">
+          <a class="btn-mktg ml-lg-2 mt-2 mt-lg-0 d-block d-lg-inline-block btn-muted-mktg" data-analytics-event="{&quot;category&quot;:&quot;Overview&quot;,&quot;action&quot;:&quot;click to Contact sales&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Contact sales;ref_loc:Overview;&quot;}" href="/enterprise/contact?utm_source=github&amp;utm_medium=site&amp;utm_campaign=adv-security&amp;ref_page=/features/security&amp;ref_cta=Contact%20Sales&amp;ref_loc=hero">
+  Contact sales
+  
+  <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+</a>
+          <a class="btn-mktg ml-lg-2 mt-2 mt-lg-0 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Overview&quot;,&quot;action&quot;:&quot;click to Download the guide&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Download the guide;ref_loc:Overview;&quot;}" href="https://resources.github.com/whitepapers/Application-security-guide/">
+  Download the guide
+  
+  <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+</a>
+      </div>
+  </div>
+</div>
+
+
+
+<div class="overflow-hidden">
+  <div class="js-build-in-trigger bg-gray-dark-mktg position-relative pt-11 pt-md-12 pb-8 pb-md-9 security-hero-container" style="background-image: radial-gradient(61.69% 146.73% at 71.33% 58.36%, #001536 18.75%, #040D21 100%); background-color: #011311;" data-color-mode=dark data-light-theme=light data-dark-theme=dark>
+  <div class="security-hero-illo-container container-xl position-absolute top-0 right-0 height-full">
+    <picture>
+      <source srcset="https://github.githubassets.com/images/modules/site/security/hero-bg.webp" type="image/webp">
+      <img src="https://github.githubassets.com/images/modules/site/security/hero-bg.svg" class="position-absolute height-full top-0 security-hero-illo-img security-hero-illo-bg js-build-in" alt="">
+    </picture>
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" height="931" viewBox="0 0 1430 931" width="1430" class="position-absolute height-full top-0 security-hero-illo-img security-hero-illo-lines width-auto js-build-in"><filter id="a" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="8.99962" width="148.528" x="-2.01318" y="251.653"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend><feGaussianBlur result="effect1_foregroundBlur" stdDeviation="1"></feGaussianBlur></filter><filter id="b" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="259.701" width="59.2999" x="478.514" y="267.559"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend><feGaussianBlur result="effect1_foregroundBlur" stdDeviation="1"></feGaussianBlur></filter><filter id="c" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="319.297" width="80.8881" x="533.657" y="154.888"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend><feGaussianBlur result="effect1_foregroundBlur" stdDeviation="1"></feGaussianBlur></filter><filter id="d" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="170.256" width="48.9666" x="482.517" y="44.8718"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend><feGaussianBlur result="effect1_foregroundBlur" stdDeviation="1"></feGaussianBlur></filter><filter id="e" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="9" width="131" x="617" y="240.652"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend><feGaussianBlur result="effect1_foregroundBlur" stdDeviation="2"></feGaussianBlur></filter><filter id="f" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="14.1517" width="155.034" x="1082.98" y="216.5"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend><feGaussianBlur result="effect1_foregroundBlur" stdDeviation="2"></feGaussianBlur></filter><filter id="g" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="27.3455" width="345.566" x="75.467" y="102.653"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend><feGaussianBlur result="effect1_foregroundBlur" stdDeviation="1"></feGaussianBlur></filter><filter id="h" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="79.0099" width="40.2607" x="584.269" y="269.754"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend><feGaussianBlur result="effect1_foregroundBlur" stdDeviation="2"></feGaussianBlur></filter><filter id="i" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="527.514" width="68.322" x="1036.5" y="384.546"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend><feGaussianBlur result="effect1_foregroundBlur" stdDeviation="2"></feGaussianBlur></filter><filter id="j" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="275.734" width="73.4721" x="529.514" y="387.535"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend><feGaussianBlur result="effect1_foregroundBlur" stdDeviation="2"></feGaussianBlur></filter><filter id="k" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="219.579" width="280.319" x="588.926" y="741.505"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend><feGaussianBlur result="effect1_foregroundBlur" stdDeviation="2"></feGaussianBlur></filter><linearGradient id="l"><stop offset="0" stop-color="#fff"></stop><stop offset="1" stop-color="#fff" stop-opacity="0"></stop></linearGradient><linearGradient id="m" gradientUnits="userSpaceOnUse" x1="113.001" x2="20.0005" xlink:href="#l" y1="246.152" y2="259.152"></linearGradient><linearGradient id="n" gradientUnits="userSpaceOnUse" x1="457.5" x2="499" xlink:href="#l" y1="247.152" y2="380.152"></linearGradient><linearGradient id="o" gradientUnits="userSpaceOnUse" x1="263" x2="297" xlink:href="#l" y1="172.92" y2="53.9199"></linearGradient><linearGradient id="p" gradientUnits="userSpaceOnUse" x1="481" x2="535" xlink:href="#l" y1="450" y2="264"></linearGradient><linearGradient id="q" gradientUnits="userSpaceOnUse" x1="624.001" x2="644.501" xlink:href="#l" y1="303.438" y2="494.438"></linearGradient><linearGradient id="r" gradientUnits="userSpaceOnUse" x1="470.026" x2="500.394" xlink:href="#l" y1="199" y2="97.6095"></linearGradient><linearGradient id="s" gradientUnits="userSpaceOnUse" x1="741.001" x2="634.501" xlink:href="#l" y1="657.652" y2="723.688"></linearGradient><linearGradient id="t" gradientUnits="userSpaceOnUse" x1="1068.5" x2="744.501" xlink:href="#l" y1="666.687" y2="676.687"></linearGradient><linearGradient id="u" gradientUnits="userSpaceOnUse" x1="591" x2="953.5" y1="731" y2="821.687"><stop offset="0" stop-color="#fff" stop-opacity="0"></stop><stop offset=".391097" stop-color="#fff" stop-opacity=".72"></stop><stop offset="1" stop-color="#fff" stop-opacity="0"></stop></linearGradient><linearGradient id="v" gradientUnits="userSpaceOnUse" x1="468" x2="370" xlink:href="#l" y1="809.652" y2="871.152"></linearGradient><linearGradient id="w" gradientUnits="userSpaceOnUse" x1="1259" x2="1078.5" xlink:href="#l" y1="363.477" y2="448.687"></linearGradient><linearGradient id="x" gradientUnits="userSpaceOnUse" x1="864.563" x2="864.563" xlink:href="#l" y1="-.849121" y2="182.501"></linearGradient><linearGradient id="y" gradientUnits="userSpaceOnUse" x1="1070" x2="1199" xlink:href="#l" y1="40.1523" y2="155.152"></linearGradient><linearGradient id="z" gradientUnits="userSpaceOnUse" x1="614.001" x2="333.001" y1="71.2146" y2="99.2148"><stop offset="0" stop-color="#fff"></stop><stop offset=".139357" stop-color="#fff" stop-opacity=".860643"></stop><stop offset="1" stop-color="#fff" stop-opacity="0"></stop></linearGradient><linearGradient id="A" gradientUnits="userSpaceOnUse" x1="532" x2="203" xlink:href="#l" y1="79.1509" y2="141.15"></linearGradient><linearGradient id="B" gradientUnits="userSpaceOnUse" x1="591" x2="599.5" xlink:href="#l" y1="268.152" y2="347.152"></linearGradient><linearGradient id="C" gradientUnits="userSpaceOnUse" x1="1072.5" x2="1072" xlink:href="#l" y1="386.152" y2="662.002"></linearGradient><linearGradient id="D" gradientUnits="userSpaceOnUse" x1="509.25" x2="509.25" xlink:href="#l" y1="381.652" y2="649.152"></linearGradient><linearGradient id="E" gradientUnits="userSpaceOnUse" x1="1242.5" x2="1242.5" xlink:href="#l" y1="480.152" y2="516.002"></linearGradient><linearGradient id="F" gradientUnits="userSpaceOnUse" x1="819" x2="638" xlink:href="#l" y1="757.697" y2="859.697"></linearGradient><linearGradient id="G" gradientUnits="userSpaceOnUse" x1="683.001" x2="952.001" xlink:href="#l" y1="740.152" y2="919.697"></linearGradient><clipPath id="H"><path d="m0 0h1430v931h-1430z"></path></clipPath><g clip-path="url(#H)"><g filter="url(#a)"><path d="m144.501 254.152-144.50038965 4" stroke="url(#m)" stroke-dasharray="2 5"></path></g><path d="m326.5 247.152h28.808c13.341 0 22.942 12.814 19.195 25.618l-12.774 43.644c-1.868 6.381 2.896 12.774 9.544 12.809l174.727.929" stroke="url(#n)" stroke-dasharray="2 5"></path><path d="m330.439 30-53.439 149.92" stroke="url(#o)" stroke-dasharray="2 5" stroke-width="1.3"></path><g filter="url(#b)" opacity=".4"><path d="m481 525.141 53.445-217.533c3.269-13.304-2.891-27.132-14.967-33.602l-7.478-4.006" stroke="url(#p)" stroke-dasharray="2 5"></path></g><g filter="url(#c)" opacity=".4"><path d="m602 157-65.375 285.091c-2.71 11.818 5.634 23.309 17.711 24.39l58.164 5.207" stroke="url(#q)" stroke-dasharray="2 5"></path></g><g filter="url(#d)" opacity=".3"><path d="m485 213 44-166" stroke="url(#r)" stroke-dasharray="2 5"></path></g><g filter="url(#e)"><path d="m621 245.152h123" stroke="#0d449e" stroke-dasharray="2 5"></path></g><g filter="url(#f)"><path d="m1087 226.152 147-5.152" stroke="#fff" stroke-dasharray="2 5"></path></g><g stroke-dasharray="2 5"><path d="m928 180.152 14.348-86.4471c2.118-12.7565-8.245-24.1388-21.144-23.2246l-183.704 13.0197" stroke="#fff"></path><path d="m621.5 725.688 94.421 11.173c10.248 1.212 19.736-5.571 21.904-15.66l24.175-112.504" stroke="url(#s)"></path><path d="m795.5 622.688-6.22 34.832c-2.041 11.434 6.054 22.197 17.606 23.407l182.114 19.073" stroke="url(#t)"></path><path d="m578 771 228.026 33.235c10.606 1.545 20.545-5.544 22.536-16.076l7.497-39.651c1.942-10.268 11.46-17.31 21.846-16.164l178.095 19.656" stroke="url(#u)"></path><path d="m454 942 27-117" stroke="url(#v)"></path><path d="m1065.33 417.2 275.76 13.463c10.95.534 20.29-7.843 20.94-18.784l3.97-66.402" stroke="url(#w)"></path><path d="m1326 343-14 174" opacity=".5" stroke="#fff"></path><path d="m881.994-.849121-34.863 183.350121" stroke="url(#x)"></path><path d="m944.5 85.6525 9.846-58.6782c1.551-9.2446 9.315-16.1716 18.675-16.6631l462.979-24.3112" stroke="url(#y)"></path><path d="m121 127 415.915-30.6536" stroke="url(#z)"></path></g><g filter="url(#g)"><path d="m77.4996 127.5 341.5014-22.348" stroke="url(#A)" stroke-dasharray="2 5"></path></g><g filter="url(#h)" opacity=".6"><path d="m611 344.652 8.557-37.404c2.029-8.867-2.181-17.985-10.245-22.192l-20.812-10.859" stroke="url(#B)" stroke-dasharray="2 5"></path></g><g filter="url(#i)" opacity=".6"><path d="m1041 908 59.24-490.418c1.05-8.677-3.66-17.03-11.63-20.627l-17.61-7.953" stroke="url(#C)" stroke-dasharray="2 5"></path></g><g filter="url(#j)" opacity=".8"><path d="m598.5 391.652-64.5 267.5" stroke="url(#D)" stroke-dasharray="2 5"></path></g><path d="m1060 477 364 23" stroke="url(#E)" stroke-dasharray="2 5"></path><g filter="url(#k)" opacity=".8"><path d="m839 957 25.566-149.867c1.885-11.05-5.679-21.492-16.766-23.145l-254.8-37.988" stroke="url(#F)" stroke-dasharray="2 5"></path></g><path d="m1137 902.348-392.775-60.536c-16.978-2.616-28.296-18.927-24.805-35.746l14.231-68.566" stroke="url(#G)" stroke-dasharray="2 5"></path></g></svg>
+
+    <picture>
+      <source srcset="https://github.githubassets.com/images/modules/site/security/hero-main.webp" type="image/webp">
+      <img src="https://github.githubassets.com/images/modules/site/security/hero-main.svg" class="position-absolute height-full top-0 security-hero-illo-img security-hero-illo-main js-build-in" width="1298" height="931" alt="" aria-hidden="true">
+    </picture>
+    <picture>
+      <source srcset="https://github.githubassets.com/images/modules/site/security/hero-corner.webp" type="image/webp">
+      <img src="https://github.githubassets.com/images/modules/site/security/hero-corner.svg" class="position-absolute height-full top-0 security-hero-illo-img security-hero-illo-foreground js-build-in" width="1298" height="931" alt="" aria-hidden="true">
+    </picture>
+  </div>
+  <div class="position-relative z-1 container-xl mx-auto px-3 pt-6 py-md-12 height-full d-flex flex-column flex-justify-center">
+    <div class="mx-auto mx-md-0 col-12 col-md-11 col-lg-7 py-7 py-md-8 text-center text-md-left">
+      <h1 class="h1-mktg mb-4 color-fg-default">Secure at every&nbsp;step</h1>
+      <h4 class="text-normal f2-mktg mb-6 col-12 col-md-10 lh-condensed mx-auto mx-md-0 text-gray-light-mktg">
+          <span class="color-fg-default">Ship secure applications within the GitHub flow</span>: Stay ahead of security issues, leverage the security community’s expertise, and use open source securely.
+      </h4>
+      <a class="btn-mktg mb-3 btn-large-mktg" data-analytics-event="{&quot;category&quot;:&quot;Download the guide&quot;,&quot;action&quot;:&quot;click to Download the guide&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Download the guide;&quot;}" href="https://resources.github.com/whitepapers/Application-security-guide/">
+  Download the guide
+  
+  
+</a>
+      <a class="btn-mktg mb-3 ml-md-2 js-override-utm-params btn-large-mktg btn-muted-mktg" data-analytics-event="{&quot;category&quot;:&quot;Contact sales&quot;,&quot;action&quot;:&quot;click to Contact sales&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Contact sales;&quot;}" href="/enterprise/contact?utm_source=github&amp;utm_medium=site&amp;utm_campaign=adv-security&amp;ref_page=/features/security&amp;ref_cta=Contact%20Sales&amp;ref_loc=hero">
+  Contact sales
+  
+  
+</a>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<div class="overflow-hidden px-3 pb-8 pt-5">
+  <div class="container-xl">
+    
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative mt-md-12 flex-md-row-reverse pb-4 pb-md-7" data-build-in-stagger="100">
+    <div class="pattern-container position-absolute z-n1 overflow-hidden" style="width: 200%; left: -50%;">
+        <div class="container-xl position-relative height-full d-none d-md-block">
+                <img src="https://github.githubassets.com/images/modules/site/security/grid2.svg" class="position-absolute col-9-max z-n1" style="left: -50px; opacity: 0.7;" aria-hidden="true" alt="">
+      <img src="https://github.githubassets.com/images/modules/site/security/glows/3.svg" class="position-absolute col-9-max z-n1" style="left: -190px;" aria-hidden="true" alt="">
+
+        </div>
+    </div>
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-6 build-in-slideX-left">
+    <div class="pl-md-4">
+      
+      
+      
+      
+      <h3 class="color-fg-default h3-mktg mb-3">Get security feedback with every git push</h3>
+      <p class="f3-mktg color-fg-muted col-6-max">Scan code as it’s created. Get accurate, <em>actionable security reviews</em> within the developer workflow.</p>
+      
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-6">
+      <div class="position-relative">
+        
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/cmake-window.png?width=1230&amp;format=webpll 1230w,https://github.githubassets.com/images/modules/site/security/cmake-window.png?width=984&amp;format=webpll 984w,https://github.githubassets.com/images/modules/site/security/cmake-window.png?width=738&amp;format=webpll 738w,https://github.githubassets.com/images/modules/site/security/cmake-window.png?width=615&amp;format=webpll 615w,https://github.githubassets.com/images/modules/site/security/cmake-window.png?width=492&amp;format=webpll 492w,https://github.githubassets.com/images/modules/site/security/cmake-window.png?width=246&amp;format=webpll 246w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/cmake-window.png?width=1230 1230w,https://github.githubassets.com/images/modules/site/security/cmake-window.png?width=615 615w,https://github.githubassets.com/images/modules/site/security/cmake-window.png?width=492 492w,https://github.githubassets.com/images/modules/site/security/cmake-window.png?width=307 307w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="col-12 height-auto rounded box-shadow-mktg-xl" width="1230" height="652" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/cmake-window.png?width=1230" />
+</picture>
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/cmake-steps.png?width=1584&amp;format=webpll 1584w,https://github.githubassets.com/images/modules/site/security/cmake-steps.png?width=1267&amp;format=webpll 1267w,https://github.githubassets.com/images/modules/site/security/cmake-steps.png?width=950&amp;format=webpll 950w,https://github.githubassets.com/images/modules/site/security/cmake-steps.png?width=792&amp;format=webpll 792w,https://github.githubassets.com/images/modules/site/security/cmake-steps.png?width=633&amp;format=webpll 633w,https://github.githubassets.com/images/modules/site/security/cmake-steps.png?width=316&amp;format=webpll 316w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/cmake-steps.png?width=1584 1584w,https://github.githubassets.com/images/modules/site/security/cmake-steps.png?width=792 792w,https://github.githubassets.com/images/modules/site/security/cmake-steps.png?width=633 633w,https://github.githubassets.com/images/modules/site/security/cmake-steps.png?width=396 396w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="position-absolute top-8 security-illo-cmake-steps height-auto js-build-in-item build-in-scale-up" width="1584" height="610" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/cmake-steps.png?width=1584" />
+</picture>
+      </div>
+    </div>
+</div>
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-row-reverse pb-4 pb-md-7" data-build-in-stagger="100">
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-6 build-in-slideX-left">
+    <div class="pl-md-4">
+      
+      
+      
+      
+      
+      <p class="f3-mktg color-fg-muted col-6-max"><em>See security issues in your pull requests</em> as part of your code review process. Prevent new vulnerabilities from making it onto main.</p>
+      
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-6">
+      <div class="position-relative">
+        
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/terminal.png?width=864&amp;format=webpll 864w,https://github.githubassets.com/images/modules/site/security/terminal.png?width=691&amp;format=webpll 691w,https://github.githubassets.com/images/modules/site/security/terminal.png?width=518&amp;format=webpll 518w,https://github.githubassets.com/images/modules/site/security/terminal.png?width=432&amp;format=webpll 432w,https://github.githubassets.com/images/modules/site/security/terminal.png?width=345&amp;format=webpll 345w,https://github.githubassets.com/images/modules/site/security/terminal.png?width=172&amp;format=webpll 172w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/terminal.png?width=864 864w,https://github.githubassets.com/images/modules/site/security/terminal.png?width=432 432w,https://github.githubassets.com/images/modules/site/security/terminal.png?width=345 345w,https://github.githubassets.com/images/modules/site/security/terminal.png?width=216 216w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="col-8 height-auto position-relative top-n4 rounded box-shadow-mktg-xl js-build-in-item build-in-slideX-right mb-7" width="864" height="656" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/terminal.png?width=864" />
+</picture>
+            <picture>
+  
+  <source srcset="https://github.githubassets.com/images/modules/site/security/code-scanning.png?v=2?width=1044 1044w,https://github.githubassets.com/images/modules/site/security/code-scanning.png?v=2?width=835 835w,https://github.githubassets.com/images/modules/site/security/code-scanning.png?v=2?width=626 626w,https://github.githubassets.com/images/modules/site/security/code-scanning.png?v=2?width=522 522w,https://github.githubassets.com/images/modules/site/security/code-scanning.png?v=2?width=417 417w,https://github.githubassets.com/images/modules/site/security/code-scanning.png?v=2?width=208 208w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png?v=2"></source>
+  <img class="position-absolute rounded border col-9 height-auto top-3 right-0 box-shadow-mktg-xl js-build-in-item build-in-slideX-left" width="1044" height="758" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/code-scanning.png?v=2?width=1044" />
+</picture>
+      </div>
+    </div>
+</div>
+
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-row-reverse pb-4 pb-md-7" data-build-in-stagger="100">
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-6 build-in-slideX-left">
+    <div class="pl-md-4">
+      
+      
+      
+      
+      
+      <p class="f3-mktg color-fg-muted col-6-max"><em>Find high-priority, exploitable security issues</em> in your code. View your exposure across your codebases and focus on the vulnerabilities that matter.</p>
+      
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-6">
+      <div class="position-relative">
+        
+            <picture>
+  
+  <source srcset="https://github.githubassets.com/images/modules/site/security/issues.png?v=2?width=1276 1276w,https://github.githubassets.com/images/modules/site/security/issues.png?v=2?width=1020 1020w,https://github.githubassets.com/images/modules/site/security/issues.png?v=2?width=765 765w,https://github.githubassets.com/images/modules/site/security/issues.png?v=2?width=638 638w,https://github.githubassets.com/images/modules/site/security/issues.png?v=2?width=510 510w,https://github.githubassets.com/images/modules/site/security/issues.png?v=2?width=255 255w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png?v=2"></source>
+  <img class="width-full height-auto border rounded-2 box-shadow-mktg-xl js-build-in-item build-in-slideX-left" width="1276" height="472" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/issues.png?v=2?width=1276" />
+</picture>
+      </div>
+    </div>
+</div>
+
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-row-reverse pb-4 pb-md-7" data-build-in-stagger="100">
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-6 build-in-slideX-left">
+    <div class="pl-md-4">
+      
+      
+      
+      
+      
+      <p class="f3-mktg color-fg-muted col-6-max"><em>Create custom queries</em> to easily find and prevent variants of new security concerns. Use them alongside the 2,000+ CodeQL queries from GitHub and the community. <em>Integrate third party scanning engines</em> to view results from all your security tools in a single interface. Export results through a single API.</p>
+      <a class="link-mktg text-semibold color-fg-default py-1 f3-mktg" href="/features/security/code" data-analytics-event="{&quot;category&quot;:&quot;Secure your code&quot;,&quot;action&quot;:&quot;click to Secure your code&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Secure your code;&quot;}">
+  Secure your code <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+</a>
+        <div class="border rounded d-flex flex-column mb-6 mb-md-0 color-bg-default mt-4 mr-lg-4">
+    <a class="arrow-target-mktg position-relative read-more-link d-flex flex-column px-3 Link--secondary no-underline" href="https://github.blog/2020-08-27-secure-at-every-step-putting-devsecops-into-practice-with-code-scanning/" >
+  <p class="f6-mktg text-mono text-normal text-uppercase mt-3 mb-0 color-fg-subtle">Read</p>
+  <h3 class="f4-mktg text-medium mb-3 color-fg-default">Putting DevSecOps into practice with code scanning <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+</h3>
+</a>
+
+    <a class="arrow-target-mktg position-relative read-more-link d-flex flex-column px-3 Link--secondary no-underline" href="https://docs.github.com/en/code-security/secure-coding" >
+  <p class="f6-mktg text-mono text-normal text-uppercase mt-3 mb-0 color-fg-subtle">Read</p>
+  <h3 class="f4-mktg text-medium mb-3 color-fg-default">Finding security vulnerabilities and errors in your code <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+</h3>
+</a>
+
+</div>
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-6 flex-self-start">
+      <div class="position-relative">
+        
+    <div class="d-flex flex-md-justify-end">
+      <picture>
+        <source srcset="https://github.githubassets.com/images/modules/site/security/vscode.webp" type="image/webp">
+        <img src="https://github.githubassets.com/images/modules/site/security/vscode.png" class="rounded box-shadow-mktg-xl position-relative top-md-n7 js-build-in-item build-in-slideX-left security-vscode-illo" alt="" aria-hidden="true" loading="lazy" decoding="async" height="665">
+      </picture>
+    </div>
+
+      </div>
+    </div>
+</div>
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-row pb-4 pb-md-7" data-build-in-stagger="100">
+    <div class="pattern-container position-absolute z-n1 overflow-hidden" style="width: 200%; left: -50%;">
+        <div class="container-xl position-relative height-full d-none d-md-block">
+                <img src="https://github.githubassets.com/images/modules/site/security/grid1.svg" class="position-absolute col-8-max z-n1" style="right: -100px; opacity: 0.7;" aria-hidden="true" alt="" loading="lazy" decoding="async">
+      <img src="https://github.githubassets.com/images/modules/site/security/glows/2.svg" class="position-absolute col-9-max z-n1" style="right: -150px;" aria-hidden="true" alt="" loading="lazy" decoding="async">
+
+        </div>
+    </div>
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-6 build-in-slideX-right">
+    <div class="pr-md-4">
+      
+      
+      
+      
+      <h3 class="color-fg-default h3-mktg mb-3">Respond quickly to vulnerabilities in your supply chain</h3>
+      <p class="f3-mktg color-fg-muted col-6-max">Understand your supply chain and how dependencies impact the security of your code.</p>
+      
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-6">
+      <div class="position-relative">
+        
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/dependency-graph-bg.png?width=1230&amp;format=webpll 1230w,https://github.githubassets.com/images/modules/site/security/dependency-graph-bg.png?width=984&amp;format=webpll 984w,https://github.githubassets.com/images/modules/site/security/dependency-graph-bg.png?width=738&amp;format=webpll 738w,https://github.githubassets.com/images/modules/site/security/dependency-graph-bg.png?width=615&amp;format=webpll 615w,https://github.githubassets.com/images/modules/site/security/dependency-graph-bg.png?width=492&amp;format=webpll 492w,https://github.githubassets.com/images/modules/site/security/dependency-graph-bg.png?width=246&amp;format=webpll 246w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/dependency-graph-bg.png?width=1230 1230w,https://github.githubassets.com/images/modules/site/security/dependency-graph-bg.png?width=615 615w,https://github.githubassets.com/images/modules/site/security/dependency-graph-bg.png?width=492 492w,https://github.githubassets.com/images/modules/site/security/dependency-graph-bg.png?width=307 307w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="col-12 height-auto rounded box-shadow-mktg-xl" width="1230" height="792" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/dependency-graph-bg.png?width=1230" />
+</picture>
+            <picture>
+  
+  <source srcset="https://github.githubassets.com/images/modules/site/security/dependency-graph-list.png?v=2?width=1166 1166w,https://github.githubassets.com/images/modules/site/security/dependency-graph-list.png?v=2?width=932 932w,https://github.githubassets.com/images/modules/site/security/dependency-graph-list.png?v=2?width=699 699w,https://github.githubassets.com/images/modules/site/security/dependency-graph-list.png?v=2?width=583 583w,https://github.githubassets.com/images/modules/site/security/dependency-graph-list.png?v=2?width=466 466w,https://github.githubassets.com/images/modules/site/security/dependency-graph-list.png?v=2?width=233 233w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png?v=2"></source>
+  <img class="col-11 height-auto position-absolute top-8 border js-build-in-item build-in-scale-up rounded box-shadow-mktg-xl left-0 right-0 mx-auto" width="1166" height="768" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/dependency-graph-list.png?v=2?width=1166" />
+</picture>
+      </div>
+    </div>
+</div>
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-row pb-4 pb-md-7" data-build-in-stagger="100">
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-6 build-in-slideX-right">
+    <div class="pr-md-4">
+      
+      
+      
+      
+      
+      <p class="f3-mktg color-fg-muted col-6-max"><em>Easily see what dependencies have changed</em> in a pull request and stay secure.</p>
+      
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-6">
+      <div class="position-relative">
+        
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=1234&amp;format=webpll 1234w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=987&amp;format=webpll 987w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=740&amp;format=webpll 740w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=617&amp;format=webpll 617w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=493&amp;format=webpll 493w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=246&amp;format=webpll 246w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=1234 1234w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=617 617w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=493 493w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=308 308w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="rounded-2 width-full height-auto box-shadow-mktg-xl border color-border-default mt-7 mt-md-8" width="1234" height="544" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=1234" />
+</picture>
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=1214&amp;format=webpll 1214w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=971&amp;format=webpll 971w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=728&amp;format=webpll 728w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=607&amp;format=webpll 607w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=485&amp;format=webpll 485w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=242&amp;format=webpll 242w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=1214 1214w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=607 607w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=485 485w,https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=303 303w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="position-absolute left-n2 left-md-n7 top-0 col-11 height-auto rounded-2 box-shadow-mktg-xl js-build-in-item build-in-slideX-right" width="1214" height="276" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/dependabot-repo.png?width=1214" />
+</picture>
+      </div>
+    </div>
+</div>
+
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-row pb-4 pb-md-7" data-build-in-stagger="100">
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-6 build-in-slideX-right">
+    <div class="pr-md-4">
+      
+      
+      
+      
+      
+      <p class="f3-mktg color-fg-muted col-6-max">Automatically monitor your dependencies for known vulnerabilities, and <em>apply suggested fixes with automated pull requests.</em></p>
+      <a class="link-mktg text-semibold color-fg-default py-1 f3-mktg" href="/features/security/software-supply-chain" data-analytics-event="{&quot;category&quot;:&quot;Secure your supply chain&quot;,&quot;action&quot;:&quot;click to Secure your supply chain&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Secure your supply chain;&quot;}">
+  Secure your supply chain <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+</a>
+        <div class="border rounded d-flex flex-column mb-6 mb-md-0 color-bg-default mt-4 mr-lg-4">
+    <a class="arrow-target-mktg position-relative read-more-link d-flex flex-column px-3 Link--secondary no-underline" href="https://docs.github.com/en/free-pro-team@latest/github/visualizing-repository-data-with-graphs/about-the-dependency-graph" >
+  <p class="f6-mktg text-mono text-normal text-uppercase mt-3 mb-0 color-fg-subtle">Read</p>
+  <h3 class="f4-mktg text-medium mb-3 color-fg-default">How GitHub’s dependency graph is generated <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+</h3>
+</a>
+
+</div>
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-6">
+      <div class="position-relative">
+        
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/pr-bg.png?width=1116&amp;format=webpll 1116w,https://github.githubassets.com/images/modules/site/security/pr-bg.png?width=892&amp;format=webpll 892w,https://github.githubassets.com/images/modules/site/security/pr-bg.png?width=669&amp;format=webpll 669w,https://github.githubassets.com/images/modules/site/security/pr-bg.png?width=558&amp;format=webpll 558w,https://github.githubassets.com/images/modules/site/security/pr-bg.png?width=446&amp;format=webpll 446w,https://github.githubassets.com/images/modules/site/security/pr-bg.png?width=223&amp;format=webpll 223w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/pr-bg.png?width=1116 1116w,https://github.githubassets.com/images/modules/site/security/pr-bg.png?width=558 558w,https://github.githubassets.com/images/modules/site/security/pr-bg.png?width=446 446w,https://github.githubassets.com/images/modules/site/security/pr-bg.png?width=279 279w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="mb-9 rounded-2 col-11 height-auto box-shadow-mktg-xl border color-border-default mx-auto d-block" width="1116" height="900" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/pr-bg.png?width=1116" />
+</picture>
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/pr-comment.png?width=1196&amp;format=webpll 1196w,https://github.githubassets.com/images/modules/site/security/pr-comment.png?width=956&amp;format=webpll 956w,https://github.githubassets.com/images/modules/site/security/pr-comment.png?width=717&amp;format=webpll 717w,https://github.githubassets.com/images/modules/site/security/pr-comment.png?width=598&amp;format=webpll 598w,https://github.githubassets.com/images/modules/site/security/pr-comment.png?width=478&amp;format=webpll 478w,https://github.githubassets.com/images/modules/site/security/pr-comment.png?width=239&amp;format=webpll 239w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/pr-comment.png?width=1196 1196w,https://github.githubassets.com/images/modules/site/security/pr-comment.png?width=598 598w,https://github.githubassets.com/images/modules/site/security/pr-comment.png?width=478 478w,https://github.githubassets.com/images/modules/site/security/pr-comment.png?width=299 299w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="position-absolute rounded-2 border color-border-default right-0 top-8 top-md-11 col-11 height-auto js-build-in-item build-in-slideX-left" width="1196" height="882" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/pr-comment.png?width=1196" />
+</picture>
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/dependabot-icon.png?width=40&amp;format=webpll 40w,https://github.githubassets.com/images/modules/site/security/dependabot-icon.png?width=32&amp;format=webpll 32w,https://github.githubassets.com/images/modules/site/security/dependabot-icon.png?width=24&amp;format=webpll 24w,https://github.githubassets.com/images/modules/site/security/dependabot-icon.png?width=20&amp;format=webpll 20w,https://github.githubassets.com/images/modules/site/security/dependabot-icon.png?width=16&amp;format=webpll 16w,https://github.githubassets.com/images/modules/site/security/dependabot-icon.png?width=8&amp;format=webpll 8w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/dependabot-icon.png?width=40 40w,https://github.githubassets.com/images/modules/site/security/dependabot-icon.png?width=20 20w,https://github.githubassets.com/images/modules/site/security/dependabot-icon.png?width=16 16w,https://github.githubassets.com/images/modules/site/security/dependabot-icon.png?width=10 10w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="position-absolute left-0 top-8 top-md-11 js-build-in-item build-in-scale-up" width="40" height="40" style="width: 7%; height: auto;" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/dependabot-icon.png?width=40" />
+</picture>
+      </div>
+    </div>
+</div>
+
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-row-reverse pb-4 pb-md-7" data-build-in-stagger="100">
+    <div class="pattern-container position-absolute z-n1 overflow-hidden" style="width: 200%; left: -50%;">
+        <div class="container-xl position-relative height-full d-none d-md-block">
+                <img src="https://github.githubassets.com/images/modules/site/security/grid2.svg" class="position-absolute col-9-max z-n1" style="left: -190px; top: -80px; opacity: 0.7;" width="1192" height="830" aria-hidden="true" alt="" loading="lazy" decoding="async">
+      <img src="https://github.githubassets.com/images/modules/site/security/glows/1.svg" class="position-absolute col-9-max z-n1 height-auto" style="left: -190px; top: -80px;" aria-hidden="true" width="1002" height="785" alt="" loading="lazy" decoding="async">
+
+        </div>
+    </div>
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-6 build-in-slideX-left">
+    <div class="pl-md-4">
+      
+      
+      
+      
+      <h3 class="color-fg-default h3-mktg mb-3">Keep secrets out of your code</h3>
+      <p class="f3-mktg color-fg-muted col-6-max">GitHub watches your repositories and notifies you of secrets issued by <em>45+ leading secret providers.</em></p>
+      
+        <div class="border rounded d-flex flex-column mb-6 mb-md-0 color-bg-default mt-4 mr-lg-4">
+    <a class="arrow-target-mktg position-relative read-more-link d-flex flex-column px-3 Link--secondary no-underline" href="https://github.blog/2020-08-06-achieving-devsecops-maturity-with-a-developer-first-community-driven-approach/" >
+  <p class="f6-mktg text-mono text-normal text-uppercase mt-3 mb-0 color-fg-subtle">Read</p>
+  <h3 class="f4-mktg text-medium mb-3 color-fg-default">Achieving DevSecOps maturity with a developer-first, community-driven approach <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+</h3>
+</a>
+
+</div>
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-6">
+      <div class="position-relative">
+        
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/secrets-scanning.png?width=1128&amp;format=webpll 1128w,https://github.githubassets.com/images/modules/site/security/secrets-scanning.png?width=902&amp;format=webpll 902w,https://github.githubassets.com/images/modules/site/security/secrets-scanning.png?width=676&amp;format=webpll 676w,https://github.githubassets.com/images/modules/site/security/secrets-scanning.png?width=564&amp;format=webpll 564w,https://github.githubassets.com/images/modules/site/security/secrets-scanning.png?width=451&amp;format=webpll 451w,https://github.githubassets.com/images/modules/site/security/secrets-scanning.png?width=225&amp;format=webpll 225w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/secrets-scanning.png?width=1128 1128w,https://github.githubassets.com/images/modules/site/security/secrets-scanning.png?width=564 564w,https://github.githubassets.com/images/modules/site/security/secrets-scanning.png?width=451 451w,https://github.githubassets.com/images/modules/site/security/secrets-scanning.png?width=282 282w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="col-10 height-auto mb-9 rounded box-shadow-mktg-xl position-relative z-1 border js-build-in-item build-in-slideX-right" width="1128" height="402" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/secrets-scanning.png?width=1128" />
+</picture>
+            <picture>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/secrets-logos.png?width=1426&amp;format=webpll 1426w,https://github.githubassets.com/images/modules/site/security/secrets-logos.png?width=1140&amp;format=webpll 1140w,https://github.githubassets.com/images/modules/site/security/secrets-logos.png?width=855&amp;format=webpll 855w,https://github.githubassets.com/images/modules/site/security/secrets-logos.png?width=713&amp;format=webpll 713w,https://github.githubassets.com/images/modules/site/security/secrets-logos.png?width=570&amp;format=webpll 570w,https://github.githubassets.com/images/modules/site/security/secrets-logos.png?width=285&amp;format=webpll 285w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/webp"></source>
+  <source srcset="https://github.githubassets.com/images/modules/site/security/secrets-logos.png?width=1426 1426w,https://github.githubassets.com/images/modules/site/security/secrets-logos.png?width=713 713w,https://github.githubassets.com/images/modules/site/security/secrets-logos.png?width=570 570w,https://github.githubassets.com/images/modules/site/security/secrets-logos.png?width=356 356w" sizes="(max-width: 768px) 90vw, (max-width: 1320px) 45vw, 616px" type="image/png"></source>
+  <img class="position-absolute rounded border col-11 height-auto bottom-0 right-0 box-shadow-mktg-xl border js-build-in-item build-in-slideX-left" width="1426" height="394" loading="lazy" decoding="async" alt="" src="https://github.githubassets.com/images/modules/site/security/secrets-logos.png?width=1426" />
+</picture>
+      </div>
+    </div>
+</div>
+  <div class="river-mktg js-build-in-trigger d-flex flex-column gutter gutter-spacious flex-md-items-center my-3 my-sm-7 my-md-8 position-relative flex-md-row pb-4 pb-md-7" data-build-in-stagger="100">
+    <div class="pattern-container position-absolute z-n1 overflow-hidden" style="width: 200%; left: -50%;">
+        <div class="container-xl position-relative height-full d-none d-md-block">
+                <img src="https://github.githubassets.com/images/modules/site/security/grid3.svg" class="position-absolute col-8-max z-n1" style="right: -80px; top: 0; opacity: 0.7;" aria-hidden="true" alt="" loading="lazy" decoding="async">
+      <img src="https://github.githubassets.com/images/modules/site/security/glows/4.svg" class="position-absolute col-9-max z-n1" style="right: -170px; top: 0" aria-hidden="true" alt="" loading="lazy" decoding="async">
+
+        </div>
+    </div>
+  <div class="col-12 py-3 js-build-in-item col-sm-10 col-md-6 text-left col-lg-6 build-in-slideX-right">
+    <div class="pr-md-4">
+      
+      
+      
+      
+      <h3 class="color-fg-default h3-mktg mb-3">Build on a secure foundation</h3>
+      <p class="f3-mktg color-fg-muted col-6-max">Our team goes beyond industry standards to secure GitHub. And delivers features that help you do the same. <em>Configure role-based access, auditing, and permissions</em> to turn security best practices into better development processes.</p>
+      
+      
+    </div>
+  </div>
+
+    <div class="col-12 py-3 col-md-6 col-lg-6">
+      <div class="position-relative">
+        
+    <picture>
+      <source srcset="https://github.githubassets.com/images/modules/site/security/roles-window.webp?v=2" type="image/webp">
+      <img src="https://github.githubassets.com/images/modules/site/security/roles-window.png?v=2" class="rounded-2 col-11 box-shadow-mktg-xl border color-border-default position-relative mt-3" alt="" aria-hidden="true">
+    </picture>
+    <img src="https://github.githubassets.com/images/modules/site/security/roles-popover.svg" class="position-absolute right-0 right-md-4 top-7 build-in-scale-down js-build-in-item col-7" alt="" aria-hidden="true">
+
+
+      </div>
+    </div>
+</div>
+  </div>
+</div>
+<div class="overflow-hidden">
+  <div class="position-relative z-1 mx-auto box-shadow-default-mktg wide-block pt-5 pt-md-0 overflow-hidden color-bg-default " data-color-mode="dark" data-light-theme="light" data-dark-theme="dark">
+  <div class="container-xl p-responsive">
+    <div class="col-12 offset-md-1 pt-8 pt-md-9 pb-6 pb-md-11 d-flex flex-column gutter gutter-spacious">
+
+      <div class="col-12 col-md-5 px-3 px-md-0 mt-3 mb-4 mb-md-0 d-flex flex-column flex-justify-center position-relative">
+        
+        <h4 class="h3-mktg mb-3 text-gradient-red-orange mb-4 mb-md-6 pb-3">Be part of the world’s largest security community.</h4>
+        <p class="f3-mktg color-fg-muted mb-5 pr-md-5 mb-lg-0 col-5-max security-body">
+          Understand your dependence on  the software supply chain, and how you can contribute back.
+        </p>
+      </div>
+
+              <picture>
+    <source srcset="https://github.githubassets.com/images/modules/site/security/globe-bg.webp" type="image/webp">
+    <img src="https://github.githubassets.com/images/modules/site/security/globe-bg.jpg"
+        aria-hidden="true"
+      class="position-absolute right-0 top-0 z-n1 d-none d-md-block" 
+      height="750" 
+      width="840" 
+      
+      loading="lazy" decoding="async"
+    >
+  </picture>
+
+
+        <div class="col-12 px-3 px-md-0 mt-3 mb-5 mb-md-0 d-flex flex-row flex-wrap flex-md-nowrap flex-justify-between position-relative river-mktg">
+          <div class="d-flex flex-column flex-justify-center js-build-in build-in-slideX-left pr-md-5">
+            <p class="col-12 color-fg-muted col-md-5 f3-mktg mb-5 col-5-max">
+              Collaborate with the security community on GitHub and with the <a href="https://openssf.org">Open Source Security Foundation (OpenSSF)</a>
+            </p>
+
+            
+
+          </div>
+
+          <div class="col-12 col-md-6 position-relative ">
+              <div class="width-full position-relative d-flex flex-column mb-7 js-build-in-trigger" data-build-in-stagger="50" style="height: 330px">
+  <div class="position-relative flex-self-center js-build-in-item build-in-slideX-right">
+    <picture>
+      <source srcset="https://github.githubassets.com/images/modules/site/security/avatars/leitsuch.webp" type="image/webp">
+      <img src="https://github.githubassets.com/images/modules/site/security/avatars/leitsuch.jpg" loading="lazy" width="77" class="circle" alt="Photo of security community member Jonathan Leitschuh">
+    </picture>
+    <a href="https://github.com/advisories/GHSA-763g-fqq7-48wg" class="d-block rounded-2 color-bg-overlay box-shadow-card-dark-mktg px-3 py-2 no-underline position-relative left-6 top-n2 mt-n3" style="max-width: 320px;">
+      <span class="d-block f5-mktg color-fg-default">XML external entity (XXE) processing</span>
+      <span class="d-block f6-mktg color-fg-muted mb-1">CVE-2019-10782 • Jonathan Leitschuh</span>
+    </a>
+  </div>
+
+  <div class="position-relative flex-self-start js-build-in-item build-in-slideX-right">
+    <picture>
+      <source srcset="https://github.githubassets.com/images/modules/site/security/avatars/gianni.webp" type="image/webp">
+      <img src="https://github.githubassets.com/images/modules/site/security/avatars/gianni.jpg" loading="lazy" width="77" class="circle" alt="Photo of security community member Jonathan Leitschuh">
+    </picture>
+    <a href="https://securitylab.github.com/advisories/GHSL-2020-026-lua-openssl/" class="d-block rounded-2 color-bg-overlay box-shadow-card-dark-mktg px-3 py-2 no-underline position-relative left-6 top-n2 mt-n3" style="max-width: 320px;">
+      <span class="d-block f5-mktg color-fg-default">Incorrect use of X509_check_host</span>
+      <span class="d-block f6-mktg color-fg-muted mb-1">CVE-2020-9432 • lua-openssl • Agustin Gianni</span>
+    </a>
+  </div>
+
+  <div class="position-relative flex-self-end js-build-in-item build-in-slideX-right">
+    <picture>
+      <source srcset="https://github.githubassets.com/images/modules/site/security/avatars/staicu.webp" type="image/webp">
+      <img src="https://github.githubassets.com/images/modules/site/security/avatars/staicu.jpg" loading="lazy" width="77" class="circle" alt="Photo of security community member Jonathan Leitschuh">
+    </picture>
+    <a href="https://github.com/advisories/GHSA-h466-j336-74wx" class="d-block rounded-2 color-bg-overlay box-shadow-card-dark-mktg px-3 py-2 no-underline position-relative left-6 top-n2 mt-n3" style="max-width: 320px;">
+      <span class="d-block f5-mktg color-fg-default">Prototype pollution in mpath package</span>
+      <span class="d-block f6-mktg color-fg-muted mb-1">CVE-2018-16490 • Cristian-Alexandru Staicu</span>
+    </a>
+  </div>
+</div>
+
+              
+          </div>
+        </div>
+        <div class="col-12 px-3 px-md-0 mt-3 mb-5 mb-md-0 d-flex flex-row flex-wrap flex-md-nowrap flex-justify-between position-relative river-mktg">
+          <div class="d-flex flex-column flex-justify-center js-build-in build-in-slideX-left pr-md-5">
+            <p class="col-12 color-fg-muted col-md-5 f3-mktg mb-5 col-5-max">
+              Report security issues, share security knowledge and <em>grow with the community</em>. Contribute to <em>open source code scanning queries</em> written by GitHub and leading security researchers.
+            </p>
+
+            <a class="link-mktg text-semibold color-fg-default py-1 f3-mktg" href="https://securitylab.github.com" data-analytics-event="{&quot;category&quot;:&quot;Meet the GitHub Security Lab&quot;,&quot;action&quot;:&quot;click to Meet the GitHub Security Lab&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Meet the GitHub Security Lab;&quot;}">
+  Meet the GitHub Security Lab <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+</a>
+
+              <div class="border rounded d-flex flex-column mb-6 mb-md-0 color-bg-default mt-4 mr-lg-4">
+    <a class="arrow-target-mktg position-relative read-more-link d-flex flex-column px-3 Link--secondary no-underline" href="https://securitylab.github.com/research" >
+  <p class="f6-mktg text-mono text-normal text-uppercase mt-3 mb-0 color-fg-subtle">Read</p>
+  <h3 class="f4-mktg text-medium mb-3 color-fg-default">GitHub Security Lab’s research blog <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+</h3>
+</a>
+
+</div>
+          </div>
+
+          <div class="col-12 col-md-6 position-relative ">
+              
+              
+<div class="width-full position-relative d-flex flex-column mt-8 mt-md-0">
+  <div class="d-flex flex-column rounded-2 mb-1 color-bg-overlay box-shadow-card-dark-mktg js-build-in-trigger" data-build-in-stagger="100">
+      <a href="/" class="px-3 py-2 no-underline d-flex flex-row flex-items-center js-build-in-item build-in-slideX-right ">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
+    <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
+</svg>
+        <div class="ml-2">
+          <span class="d-block f5-mktg color-fg-default">Python: Small fixes for typeTracker</span>
+          <span class="d-block f6-mktg color-fg-muted mb-1">#4207 opened 2 hours ago by RasmusWL・Approved</span>
+        </div>
+      </a>
+      <a href="/" class="px-3 py-2 no-underline d-flex flex-row flex-items-center js-build-in-item build-in-slideX-right border-top border-white-fade">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
+    <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
+</svg>
+        <div class="ml-2">
+          <span class="d-block f5-mktg color-fg-default">JS: Fix inconsistencies in `js/unsafe-jquery-plugin`</span>
+          <span class="d-block f6-mktg color-fg-muted mb-1">#4206 opened 3 hours ago by erik-krogh・Review required</span>
+        </div>
+      </a>
+      <a href="/" class="px-3 py-2 no-underline d-flex flex-row flex-items-center js-build-in-item build-in-slideX-right border-top border-white-fade">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
+    <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
+</svg>
+        <div class="ml-2">
+          <span class="d-block f5-mktg color-fg-default">C#:Add stable order for generated accessors in printed AST</span>
+          <span class="d-block f6-mktg color-fg-muted mb-1">#4205 opened 3 hours ago by tamasvajk・Review required</span>
+        </div>
+      </a>
+      <a href="/" class="px-3 py-2 no-underline d-flex flex-row flex-items-center js-build-in-item build-in-slideX-right border-top border-white-fade">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
+    <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
+</svg>
+        <div class="ml-2">
+          <span class="d-block f5-mktg color-fg-default">C++: Support `!= constant` in range analysis</span>
+          <span class="d-block f6-mktg color-fg-muted mb-1">#4204 opened 3 hours ago by jbj・Review required</span>
+        </div>
+      </a>
+  </div>
+
+  <a class="link-mktg text-semibold color-fg-default py-1 f4-mktg" href="https://github.com/github/codeql/pulls" data-analytics-event="{&quot;category&quot;:&quot;See all code scanning query PRs&quot;,&quot;action&quot;:&quot;click to See all code scanning query PRs&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:See all code scanning query PRs;&quot;}">
+  See all code scanning query PRs <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+</a>
+</div>
+
+          </div>
+        </div>
+
+    </div>
+  </div>
+</div>
+
+</div>
+
+<div class="color-bg-subtle py-5 py-md-6 mt-6 mt-md-12 ">
+  <div class="container-xl mx-auto p-responsive text-left mt-5">
+    <h2 class="h5-mktg mb-2">Best practices for more secure software</h2>
+
+    <div class="d-md-flex flex-wrap flex-justify-center gutter my-5 my-md-6">
+        <div class="d-flex col-md-4 pb-5 pb-md-0 mb-5 flex-justify-between">
+  <a class="d-flex flex-column flex-justify-between no-underline box-shadow-card-border-mktg rounded-2 width-full resource-card arrow-target-mktg color-bg-default p-5" href="https://resources.github.com/whitepapers/Application-security-guide/">
+    
+    
+      <p class="f6-mktg text-mono text-normal text-uppercase mb-1" style="letter-spacing: 0.05em; opacity: 0.75">The complete guide</p>
+    <h3 class="mb-3 h6-mktg">Developer-first application security</h3>
+    <p class="color-fg-muted f4-mktg my-auto">Take an in-depth look at the current state of application security.</p>
+    <div class="f1-mktg position-relative left-n2 mt-2"><svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="24" height="24" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+</div>
+</a></div>
+        <div class="d-flex col-md-4 pb-5 pb-md-0 mb-5 flex-justify-between">
+  <a class="d-flex flex-column flex-justify-between no-underline box-shadow-card-border-mktg rounded-2 width-full resource-card arrow-target-mktg color-bg-default p-5" href="https://resources.github.com/whitepapers/DevSecOps-government-agency-guide/">
+    
+    
+      <p class="f6-mktg text-mono text-normal text-uppercase mb-1" style="letter-spacing: 0.05em; opacity: 0.75">Industry spotlight</p>
+    <h3 class="mb-3 h6-mktg">The government agency&#39;s guide to DevSecOps</h3>
+    <p class="color-fg-muted f4-mktg my-auto">Learn how to write more secure code from the start with DevSecOps.</p>
+    <div class="f1-mktg position-relative left-n2 mt-2"><svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="24" height="24" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+</div>
+</a></div>
+        <div class="d-flex col-md-4 pb-5 pb-md-0 mb-5 flex-justify-between">
+  <a class="d-flex flex-column flex-justify-between no-underline box-shadow-card-border-mktg rounded-2 width-full resource-card arrow-target-mktg color-bg-default p-5" href="https://resources.github.com/whitepapers/Three-AppSec-pitfalls-security/">
+    
+    
+      <p class="f6-mktg text-mono text-normal text-uppercase mb-1" style="letter-spacing: 0.05em; opacity: 0.75">How-to</p>
+    <h3 class="mb-3 h6-mktg">Avoid AppSec pitfalls</h3>
+    <p class="color-fg-muted f4-mktg my-auto">Explore common application security pitfalls and how to avoid them.</p>
+    <div class="f1-mktg position-relative left-n2 mt-2"><svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg" width="24" height="24" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+</div>
+</a></div>
+    </div>
+  </div>
+</div>
+
+<div class="overflow-hidden py-8 px-3 color-bg-default" data-color-mode="dark" data-light-theme="light" data-dark-theme="dark">
+  <div class="container-xl">
+    <div class="pt-8 pb-7 pb-md-8 d-flex flex-column flex-items-center flex-lg-column text-center">
+      <h1 class="h1-mktg mx-auto col-8-max color-fg-default">Secure software from the start</h1>
+      <p class="f3-mktg col-7-max mx-auto mt-4 color-fg-muted">Whether you’re contributing to an open source project or choosing new tools for your team, your security needs are covered.</p>
+
+      <div class="mt-4 mt-md-6 mb-4 position-relative">
+        
+    <a class="btn-mktg mb-3 btn-large-mktg" data-analytics-event="{&quot;category&quot;:&quot;Create a free account&quot;,&quot;action&quot;:&quot;click to Create a free account&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Create a free account;&quot;}" href="/join?plan=free&amp;ref_cta=Create%2520a%2520free%2520account&amp;ref_loc=Security%2520footer&amp;ref_page=%2Ffeatures%2Fsecurity&amp;source=features-security-footer">
+  Create a free account
+  
+  
+</a>
+
+<a class="btn-mktg mb-3 ml-md-2 js-override-utm-params btn-large-mktg btn-muted-mktg" data-analytics-event="{&quot;category&quot;:&quot;Contact sales&quot;,&quot;action&quot;:&quot;click to Contact sales&quot;,&quot;label&quot;:&quot;ref_page:/features/security;ref_cta:Contact sales;&quot;}" href="/enterprise/contact?utm_source=github&amp;utm_medium=site&amp;utm_campaign=adv-security&amp;ref_page=/features/security&amp;ref_cta=Contact%20Sales&amp;ref_loc=footer">
+  Contact sales
+  
+  
+</a>
+
+
+      </div>
+    </div>
+  </div>
+</div></main>
+
+  </div>
+
+            <footer class="footer pt-6 position-relative" >
+  <div class="container-xl p-responsive">
+    <div class="d-flex flex-wrap py-5 mb-5">
+      <div class="col-12 col-lg-4 mb-5">
+        <a href="/" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to home&quot;,&quot;label&quot;:&quot;text:home&quot;}" class="color-fg-default d-inline-block" aria-label="Go to GitHub homepage">
+          <svg height="30" aria-hidden="true" viewBox="0 0 45 16" version="1.1" width="84" data-view-component="true" class="octicon octicon-logo-github footer-logo-mktg width-auto d-block">
+    <path fill-rule="evenodd" d="M18.53 12.03h-.02c.009 0 .015.01.024.011h.006l-.01-.01zm.004.011c-.093.001-.327.05-.574.05-.78 0-1.05-.36-1.05-.83V8.13h1.59c.09 0 .16-.08.16-.19v-1.7c0-.09-.08-.17-.16-.17h-1.59V3.96c0-.08-.05-.13-.14-.13h-2.16c-.09 0-.14.05-.14.13v2.17s-1.09.27-1.16.28c-.08.02-.13.09-.13.17v1.36c0 .11.08.19.17.19h1.11v3.28c0 2.44 1.7 2.69 2.86 2.69.53 0 1.17-.17 1.27-.22.06-.02.09-.09.09-.16v-1.5a.177.177 0 00-.146-.18zM42.23 9.84c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25zm2.43-.16c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88zm-8.72-3.61h-2.1c-.11 0-.17.08-.17.19v5.44s-.55.39-1.3.39-.97-.34-.97-1.09V6.25c0-.09-.08-.17-.17-.17h-2.14c-.09 0-.17.08-.17.17v5.11c0 2.2 1.23 2.75 2.92 2.75 1.39 0 2.52-.77 2.52-.77s.05.39.08.45c.02.05.09.09.16.09h1.34c.11 0 .17-.08.17-.17l.02-7.47c0-.09-.08-.17-.19-.17zm-23.7-.01h-2.13c-.09 0-.17.09-.17.2v7.34c0 .2.13.27.3.27h1.92c.2 0 .25-.09.25-.27V6.23c0-.09-.08-.17-.17-.17zm-1.05-3.38c-.77 0-1.38.61-1.38 1.38 0 .77.61 1.38 1.38 1.38.75 0 1.36-.61 1.36-1.38 0-.77-.61-1.38-1.36-1.38zm16.49-.25h-2.11c-.09 0-.17.08-.17.17v4.09h-3.31V2.6c0-.09-.08-.17-.17-.17h-2.13c-.09 0-.17.08-.17.17v11.11c0 .09.09.17.17.17h2.13c.09 0 .17-.08.17-.17V8.96h3.31l-.02 4.75c0 .09.08.17.17.17h2.13c.09 0 .17-.08.17-.17V2.6c0-.09-.08-.17-.17-.17zM8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17z"></path>
+</svg>
+        </a>
+
+
+      </div>
+
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-lg-0 pl-lg-4">
+        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+          Product
+        </h2>
+
+        <ul class="list-style-none color-fg-muted f5">
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to features&quot;,&quot;label&quot;:&quot;text:features&quot;}" href="/features">Features</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="/security">Security</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to team&quot;,&quot;label&quot;:&quot;text:team&quot;}" href="/team">Team</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to enterprise&quot;,&quot;label&quot;:&quot;text:enterprise&quot;}" href="/enterprise">Enterprise</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to customer stories&quot;,&quot;label&quot;:&quot;text:customer stories&quot;}" href="/customer-stories?type=enterprise">Customer stories</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to the readme project&quot;,&quot;label&quot;:&quot;text:the readme project&quot;}" href="/readme">The ReadME Project</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to pricing&quot;,&quot;label&quot;:&quot;text:pricing&quot;}" href="/pricing">Pricing</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to resources&quot;,&quot;label&quot;:&quot;text:resources&quot;}" href="https://resources.github.com">Resources</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to roadmap&quot;,&quot;label&quot;:&quot;text:roadmap&quot;}" href="https://github.com/github/roadmap">Roadmap</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+          Platform
+        </h2>
+
+        <ul class="list-style-none f5">
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}" href="https://docs.github.com">Developer API</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to partner&quot;,&quot;label&quot;:&quot;text:partner&quot;}" href="https://partner.github.com">Partners</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to atom&quot;,&quot;label&quot;:&quot;text:atom&quot;}" href="https://atom.io">Atom</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to electron&quot;,&quot;label&quot;:&quot;text:electron&quot;}" href="https://www.electronjs.org">Electron</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to desktop&quot;,&quot;label&quot;:&quot;text:desktop&quot;}" href="https://desktop.github.com/">GitHub Desktop</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+          Support
+        </h2>
+
+        <ul class="list-style-none f5">
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to help&quot;,&quot;label&quot;:&quot;text:Docs&quot;}" href="https://docs.github.com">Docs</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to community&quot;,&quot;label&quot;:&quot;text:community&quot;}" href="https://github.community">Community Forum</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to professional services&quot;,&quot;label&quot;:&quot;text:professional services&quot;}" href="https://services.github.com/">Professional Services</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to skills&quot;,&quot;label&quot;:&quot;text:skills&quot;}" href="https://skills.github.com/">Skills</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}" href="https://www.githubstatus.com/">Status</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}" href="https://support.github.com?tags=dotcom-footer">Contact GitHub</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+          Company
+        </h2>
+
+        <ul class="list-style-none f5">
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to about&quot;,&quot;label&quot;:&quot;text:about&quot;}" href="https://github.com/about">About</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}" href="https://github.blog">Blog</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to careers&quot;,&quot;label&quot;:&quot;text:careers&quot;}" href="/about/careers">Careers</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to press&quot;,&quot;label&quot;:&quot;text:press&quot;}" href="/about/press">Press</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to diversity&quot;,&quot;label&quot;:&quot;text:Inclusion&quot;}" href="/about/diversity">Inclusion</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to social impact&quot;,&quot;label&quot;:&quot;text:social impact&quot;}" href="https://socialimpact.github.com/">Social Impact</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to shop&quot;,&quot;label&quot;:&quot;text:shop&quot;}" href="https://shop.github.com">Shop</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="color-bg-subtle">
+    <div class="container-xl p-responsive f6 py-4 d-sm-flex flex-justify-between flex-row-reverse flex-items-center">
+      <ul class="list-style-none d-flex flex-items-center mb-3 mb-sm-0 lh-condensed-ultra">
+        <li class="mr-3">
+          <a href="https://twitter.com/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Twitter&quot;,&quot;label&quot;:&quot;text:twitter&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/twitter.svg" height="18" width="22"  class="d-block" loading="lazy" decoding="async" alt="Twitter icon">
+            <span class="sr-only">GitHub on Twitter</span>
+          </a>
+        </li>
+        <li class="mr-3">
+          <a href="https://www.facebook.com/GitHub" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Facebook&quot;,&quot;label&quot;:&quot;text:facebook&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/facebook.svg" width="18" height="18"  class="d-block" loading="lazy" decoding="async" alt="Facebook icon">
+            <span class="sr-only">GitHub on Facebook</span>
+          </a>
+        </li>
+        <li class="mr-3 flex-self-start">
+          <a href="https://www.linkedin.com/company/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Linkedin&quot;,&quot;label&quot;:&quot;text:linkedin&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/linkedin.svg" width="19" height="18" class="d-block" loading="lazy" decoding="async" alt="Linkedin icon">
+            <span class="sr-only">GitHub on LinkedIn</span>
+          </a>
+        </li>
+        <li class="mr-3">
+          <a href="https://www.youtube.com/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to YouTube&quot;,&quot;label&quot;:&quot;text:youtube&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/youtube.svg" width="23" height="16"  class="d-block" loading="lazy" decoding="async" alt="YouTube icon">
+            <span class="sr-only">GitHub on YouTube</span>
+          </a>
+        </li>
+        <li class="mr-3">
+          <a href="https://www.twitch.tv/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Twitch&quot;,&quot;label&quot;:&quot;text:twitch&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/twitch.svg" width="18" height="18"  class="d-block" loading="lazy" decoding="async" alt="Twitch icon">
+            <span class="sr-only">GitHub on Twitch</span>
+          </a>
+        </li>
+        <li class="mr-3">
+          <a href="https://www.tiktok.com/@_github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to YouTube&quot;,&quot;label&quot;:&quot;text:youtube&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/tiktok.svg" width="18" height="18"  class="d-block" loading="lazy" decoding="async" alt="TikTok icon">
+            <span class="sr-only">GitHub on TikTok</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to github&#39;s org&quot;,&quot;label&quot;:&quot;text:github&quot;}" class="color-fg-subtle">
+            <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" width="20" height="20" class="d-block" loading="lazy" decoding="async" alt="GitHub mark">
+            <span class="sr-only">GitHub’s organization on GitHub</span>
+          </a>
+        </li>
+      </ul>
+
+      <ul class="list-style-none d-flex flex-wrap color-fg-muted">
+        <li class="mr-3">
+          &copy; 2022 GitHub, Inc.
+        </li>
+
+        <li class="mr-3">
+          <a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}" class="Link--secondary">Terms</a>
+        </li>
+
+        <li class="mr-3">
+          <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}" class="Link--secondary">Privacy</a>
+          (<a href="https://github.com/github/site-policy/pull/582" class="Link--secondary">Updated 08/2022</a>)
+        </li>
+
+        <li class="mr-3">
+          <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to site map&quot;,&quot;label&quot;:&quot;text:site map&quot;}" href="/site-map">Site Map</a>
+        </li>
+
+        <li>
+          <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Git Guides&quot;,&quot;label&quot;:&quot;text:What is Git?&quot;}" href="/git-guides">What is Git?</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+  <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
+    >
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+    <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+    <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+    <template id="snippet-clipboard-copy-button">
+  <div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+    </clipboard-copy>
+  </div>
+</template>
+
+
+
+
+  </body>
+</html>
+
