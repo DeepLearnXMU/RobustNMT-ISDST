@@ -1,5 +1,5 @@
 # RobustNMT-ISDST
-Code for "Towards Robust Neural Machine Translation with Iterative Scheduled Data-Switch Training" (COLING 2022 Oral)
+Code for "Towards Robust Neural Machine Translation with Iterative Scheduled Data-Switch Training" (COLING 2022, Oral)
 ## Requirements
 
 - Python 3.7.0
