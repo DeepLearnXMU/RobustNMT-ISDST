@@ -33,7 +33,7 @@ bash train_iwslt14-de-en.sh
 ```
 # generate translations
 fairseq-generate data-bin/iwslt14.tokenized.de-en \
---path /path/to/stage5/checkpoint_best.pt
+--path /path/to/stage5/checkpoint_best.pt \
 --beam 5 --remove-bpe > res.out
 # calculate BLEU score
 bash scripts/compound_split_bleu.sh res.out
